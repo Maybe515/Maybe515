@@ -4,7 +4,7 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe515&layout=compact&show_icons=true&theme=onedark" />
   
   <!-- GitHub Stats Card -->
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Maybe515&theme=onedark&show_icons=ture" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Maybe515&theme=onedark&show_icons=true"/>
 </p>
 
 <!-- GitHub Profile Trophy -->
@@ -32,16 +32,13 @@
   
 ## Connect with me  
 <div>
-  <a href="https://github.com/Maybe515" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
   <a href="https://twitter.com/Maybe515" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+  </a>
   <a href="https://instagram.com/_Maybe515_" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+  </a>
   <a href="https://www.youtube.com/user/xMaybe515x" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
+  </a>  
+</div>
