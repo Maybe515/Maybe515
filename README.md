@@ -13,7 +13,8 @@
 
 ![](https://raw.githubusercontent.com/Maybe515/Maybe515/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
-## My Skills 
+## My Skills
+<b>- Languages -</b>
 <div>  
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -27,7 +28,8 @@
   <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </div>
-
+<br>
+  
 ## Connect with me  
 <div>
   <a href="https://github.com/Maybe515" target="_blank">
