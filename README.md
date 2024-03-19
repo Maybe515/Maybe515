@@ -34,7 +34,7 @@
   <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
   <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</div>
+</b>
 <br>
   
 ## Connect with me  
@@ -48,7 +48,8 @@
   <a href="https://www.youtube.com/user/xMaybe515x" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>  
-</div>
+</b>
+<br>
 <br>
 
 ## Edit Now
@@ -65,6 +66,7 @@
 <p>某エロゲブランドとは関係ありません。</p>
 <p>'08年に発売された <a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
+<br>
 
 ## 座右の銘　- Motto -
 <p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a></p>
@@ -213,8 +215,8 @@
     <tr>
       <th>★三代目 J Soul Brothers<br>from EXILE TRIBE</th>
       <td>2015年</td>
-      <td><div class="txt-bold">【EX Family】</div>2017.07.14<br>(No.1114564)<br>
-      <div class="txt-bold">【mate】</div>2022.11.02<br>(No.JSB0023720)</td>
+      <td><b>【EX Family】</b>2017.07.14 (No.1114564)<br>
+      <b>【mate】</b>2022.11.02 (No.JSB0023720)</td>
     </tr>
   </tbody>
 </table>
@@ -254,8 +256,9 @@
 <br>
 
 ## 音ゲー (AC)　- Rhythm Games (AC) -
-<p>Started since　<b>2008.08.17</b><br>
+<p><b>Started since　2008.08.17</b><br>
 <a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
+<br>
 <table>
   <caption>
     ▼メインでプレイしている筐体
@@ -340,7 +343,7 @@
       <td>2014.10.23</td>
     </tr>
     <tr>
-      <th>初音ミク Project DIVA<br>Arcade</th>
+      <th>初音ミク Project DIVA Arcade</th>
       <td>Future Tone</td>
       <td>2014.10.23</td>
     </tr>
@@ -524,18 +527,8 @@
 <br>
 
 ## ソシャゲ　- Social Games -
-<table>
-  <tbody>
-    <tr>
-      <th>GF(仮)</th>
-      <td><a href="http://vcard.ameba.jp/profile?userId=4374025" rel="noopener noreferrer" target="_blank">プロフィール</a></td>
-    </tr>
-    <tr>
-      <th>グラブル</th>
-      <td><a href="http://gbf.game.mbga.jp/#profile/18259066" rel="noopener noreferrer" target="_blank">プロフィール</a></td>
-    </tr>
-  </tbody>
-</table>
+<p>GF(仮)　<a href="http://vcard.ameba.jp/profile?userId=4374025" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
+<p>グラブル　<a href="http://gbf.game.mbga.jp/#profile/18259066" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
 <br>
 
 ## RTA　- Speedrun -
@@ -595,5 +588,5 @@
 <br>
 
 ## 温泉むすめ　- Onsen Musume -
-  <p>Started since　<b>2021.06.05</b><br>
+  <p><b>Started since　2021.06.05</b><br>
   <a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
