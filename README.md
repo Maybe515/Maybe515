@@ -62,40 +62,40 @@
   </details>
   <br>
 
-  ## コテハンの由来　- My name comes from -
+## コテハンの由来　- My name comes from -
   <p>某エロゲブランドとは関係ありません。</p>
   <p>'08年に発売された <a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
     空き瓶を探しています。未だに見つかってません。情報求厶…</p>
 
-  ## 座右の銘　- Motto -
+## 座右の銘　- Motto -
   <p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a></p>
 
   ## ○○　- Appellations -
   <p>ゆきぽP　響提督　真姫ライバー　黒ネコ同盟員(ほっちゃん)　Mate(JSB3)　元ニコ厨　ボカロ厨　東方厨　PC自作er　版画er(4枚)　マイクラ工業勢　元生徒会書記長　元iOS脱獄者　元SCP財団職員</p>
 
-## 資格　-License-
+## 資格　- License -
   <p>第二種電気工事士　工事担任者DD3種　認定電気工事従事者　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　情報技術検定1級　計算技術検定2級　漢検準2級　英検2級</p>
 
-## スキルマップ　-Skillmap-
+## スキルマップ　- Skillmap -
   <p>電子回路　基板改修　マルチテスタ自作　電気工事　ノートPC修理　スマホ修理　シーケンス制御(MELSEC)　3DCG　MMD　アプリ開発(Android)　SSG自作　プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　PC自作　動画編集　画像加工　お絵かき　消しはん作り　切り絵　アクセサリー作り</p>
 
-## 趣味　-Enjoying Play, Into it, Hobbies-
+## 趣味　- Enjoying Play, Into it, Hobbies -
   <p>料理　ファッション　音楽鑑賞　映画鑑賞　写真撮影　ダンス　カフェ巡り　神社・寺院巡り　旅行　温泉　トレッキング　山登り　キャンプ　スノボ 古銭集め　御朱印集め　御船印集め</p>
 
-## 好きなもの　-Like it-
+## 好きなもの　- Like it -
   <p>紅茶　コーヒー　スイーツ　日本酒　腕時計　コーギー</p>
 
-## 好きな作品　-Like Anime, Comics, Novels-
+## 好きな作品　- Like Anime, Comics, Novels -
   <p>AB!　IS　アイマス(765)　宇宙戦艦ヤマト　うる星やつら　機動戦艦ナデシコ　境界の彼方　ごちうさ　シティーハンター　葬送のフリーレン　美少女戦士セーラームーン　まどマギ　まもって守護月天!　八十亀ちゃん　らき☆すた　初期ラ！</p>
 
-## 好きなキャラクター　-My wife-
+## 好きなキャラクター　- My wife -
   <p>〈アニメ、マンガ〉<br>
   [らき☆すた]こなた　[まどマギ]杏子　[初期ラ！]真姫ちゃん　[ＩＳ]ラウラ　[ガルパン]チョビ　[SAO]アルゴ　[ToLOVEる]ヤミちゃん　[ごちうさ]チノちゃん　[葬送のフリーレン]フリーレン</p>
   <p>〈ゲーム〉
   [アイマス]全員、特にゆきぽ　[GF(仮)]むつみん [東方]おぜうさま 妹様　[艦これ]響 瑞鶴 天津風　[プリコネ]サレン ネネカ [バトガ]あんこ　[シャニマス]冬優子 円香 [ウマ娘]タキオン カフェ ダスカ タイシン　[ブルアカ]イオリ　ウイ　カヨコ　ネル　ヒナ [千恋＊万花]ムラサメちゃん　[ダーククロニクル]モニカ　[サルゲッチュ]チャル　[ブルリフ]ユズ　きらら　菜々花
   </p>
 
-## 好きな絵師　-Like Illustrators-
+## 好きな絵師　- Like Illustrators -
   <table border="1" class="tb-L-mag">
     <thead>
       <tr>
@@ -143,7 +143,7 @@
     </tbody>
   </table>
 
-## 好きな声優　-Like Voice Actors-
+## 好きな声優　- Like Voice Actors -
   <table border="1" class="tb-L-mag">
     <thead>
       <tr>
@@ -176,7 +176,7 @@
     </tbody>
   </table>
 
-## 好きな歌手・グループ　-Like Singers & Groups-
+## 好きな歌手・グループ　- Like Singers & Groups -
   <table border="1" class="tb-L-mag">
     <thead>
       <tr>
@@ -210,7 +210,7 @@
     </tbody>
   </table>
 
-## 好きな配信者　-Like Streamers-
+## 好きな配信者　- Like Streamers -
   <table border="1" class="tb-L-mag">
     <thead>
       <tr>
@@ -238,10 +238,10 @@
     </tbody>
   </table>
 
-## その他、趣味　-Others-
+## その他、趣味　- Others -
   <p>車　鉄道(乗り鉄, 撮り鉄)　ミリタリー(銃, 艦体)　ゴルフ　バスケ　サッカー　バレー　バドミントン　インディアカ　ヨガ　競馬鑑賞　F1・ラリー鑑賞　植物</p>
 
-## 音ゲー (AC)　-Rhythm Games (AC)-
+## 音ゲー (AC)　- Rhythm Games (AC) -
   <p>Started since　<b>2008.08.17</b><br>
   <a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
   <table border="1" class="tb-L-mag">
@@ -380,7 +380,7 @@
     </tbody>
   </table>
 
-## 音ゲー (PC)　-Rhythm Games (PC, CS)-
+## 音ゲー (PC)　- Rhythm Games (PC, CS) -
   <table border="1" class="tb-L-mag">
     <thead>
       <tr>
@@ -413,10 +413,10 @@
     </tbody>
   </table>			
 
-## コンシューマ　-CS Games-
+## コンシューマ　- CS Games -
   <p>魔界村1,2,3　メトロイド　海腹川背　かまいたちの夜　神トラ　マリオワールド　スーパーメトロイド　セプテントリオン　ときメモ　トワイライトシンドローム　風来のシレン　プリペル　時オカ　マリオ64　ムジュラ　マリオサンシャイン　トワプリ　I.Q. クロノトリガー　サルゲッチュ1,2,3　ピポサル2001　ポポロクロイス物語　moon　MGS1,2,3,PW　ロックマンDASH1,2　Jak1,2,3,X　DarkCloud1,2　シンフォニア　パタポン2　MHP2G,3rd　おい森,街森,とび森,e+　ポケモンDP</p>
   
-## アプリゲー　-App Games-
+## アプリゲー　- App Games -
   <table border="1" class="tb-L-mag">
     <caption>
       ▼現在プレイ中のタイトル
@@ -507,7 +507,7 @@
     </tbody>
   </table>
 
- ## ソシャゲ　-Social Games-
+ ## ソシャゲ　- Social Games -
   <table>
     <tbody class="tb-txt-center">
       <tr>
@@ -521,7 +521,7 @@
     </tbody>
   </table>
 
-## RTA　-Speedrun-
+## RTA　- Speedrun -
   <p><b>speedrun.com</b>　<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -548,7 +548,7 @@
     </tbody>
   </table>
 
-## 美少女ゲーム　-Galge & Eroge-
+## 美少女ゲーム　- Galge & Eroge -
   <p></p>
   <table>
     <tbody>
@@ -574,9 +574,9 @@
     </tbody>
   </table>
 
-## 旅行　-Travels-
+## 旅行　- Travels -
   <p><a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/" rel="noopener noreferrer" target="_blank">経県値マップ 都道府県版</a>（2024/3/10時）</p>
 
-## 温泉むすめ　-Onsen Musume-
+## 温泉むすめ　- Onsen Musume -
   <p>Started since　<b>2021.06.05</b><br>
   <a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
