@@ -36,6 +36,7 @@
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </b>
 <br>
+<br>
   
 ## Connect with me  
 <div>
@@ -53,8 +54,6 @@
 <br>
 
 ## Edit Now
-<p>※PCでの閲覧推奨<br>
-めいびぃさんの自己紹介（仮題）</p>
 <p>どっか出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
 <p>活動先のリンクを <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめました。</p>
 <details>
@@ -69,7 +68,7 @@
 <br>
 
 ## 座右の銘　- Motto -
-<p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a></p>
+<p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a>（すいてきせきせん）</p>
 <br>
 
 ## ○○　- Appellations -
