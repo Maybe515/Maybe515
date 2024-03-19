@@ -48,63 +48,6 @@
 
 
 ## edit now
-<style>
-	.title-ja{
-		font-size: 25px;
-	}
-	.title-en{
-    font-size: large;
-    font-style: italic;
-  }
-  .tb-title{
-    border-width: thin;
-    border-bottom: lightgray solid;
-    border-image: linear-gradient(to right, gray, white) 1;
-  }
-  .tb-dat{
-    margin-left: auto;
-  }
-  .updat-sin{
-    text-align: center;
-    font-size: large;
-  }
-  .red-star{
-    color:#ff0000;
-  }
-  .txt-bold{
-    font-weight: bold;
-  }
-  .tb-txt-center{
-    text-align: center;
-  }
-  .title-en, .updat-sin, .tb-pad{
-    padding: 0px 10px;
-  }
-  a:hover{
-    color: red;
-  }
-  p, details, li, .tb-L-mag{
-    margin-left: 20px;
-  }
-  thead{
-    color: blue;
-  }
-  caption{
-    /* font-size: large; */
-    font-weight: bold;
-    text-align: left;
-  }
-  summary{
-    font-size: large;
-  }
-</style>
-
-<!-- <table>
-  <th class="title-ja"></th><th class="title-en">-  -</th>
-</table>
- -->
-
-<body>
   <table class="tb-dat">
     <th class="updat-sin">Update since</th><th class="updat-sin">2024.03.18</th>
   </table>
@@ -116,26 +59,11 @@
   <details>
     <summary>目次</summary>
 
-    資格　-License-
-    スキルマップ　-Skillmap-
-    趣味　-Enjoying Play, Into it, Hobbies-
-    好きなもの　-Like it-
-    好きな作品　-Like Anime, Comics, Novels-
-    好きなキャラクター　-My wife-
-    好きな絵師　-Like Illustrators-
-    好きな声優　-Like Voice Actors-
-    好きな歌手・グループ　-Like Singers & Groups-
-    好きな配信者　-Like Streamers-
-    その他、趣味　-Others-
-    音ゲー (AC)　-Rhythm Games (AC)-
-    音ゲー (PC)　-Rhythm Games (PC, CS)-
-    コンシューマ　-CS Games-
-    アプリゲー　-App Games-
-    ソシャゲ　-Social Games-
-    RTA　-Speedrun-
-    美少女ゲーム　-Galge & Eroge-
-    旅行　-Travels-
-    温泉むすめ　-Onsen Musume-
+    
+    
+    
+    
+
   </details>
   <br>
 
@@ -153,39 +81,27 @@
   <p>ゆきぽP　響提督　真姫ライバー　黒ネコ同盟員(ほっちゃん)　Mate(JSB3)　元ニコ厨　ボカロ厨　東方厨　PC自作er　版画er(4枚)　マイクラ工業勢　元生徒会書記長　元iOS脱獄者　元SCP財団職員</p>
   <!--  -->
 
-  <table class="tb-title" id="license">
-    <th class="title-ja">資格</th><th class="title-en">- License -</th>
-  </table>
+## 資格　-License-
   <p>第二種電気工事士　工事担任者DD3種　認定電気工事従事者　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　情報技術検定1級　計算技術検定2級　漢検準2級　英検2級</p>
   <!--  -->
 
-  <table class="tb-title" id="skill">
-    <th class="title-ja">スキルマップ</th><th class="title-en">- Skillmap -</th>
-  </table>
+## スキルマップ　-Skillmap-
   <p>電子回路　基板改修　マルチテスタ自作　電気工事　ノートPC修理　スマホ修理　シーケンス制御(MELSEC)　3DCG　MMD　アプリ開発(Android)　SSG自作　プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　PC自作　動画編集　画像加工　お絵かき　消しはん作り　切り絵　アクセサリー作り</p>
   <!--  -->
 
-  <table class="tb-title" id="hobby">
-    <th class="title-ja">趣味</th><th class="title-en">- Enjoying Play, Into it, Hobbies -</th>
-  </table>
+## 趣味　-Enjoying Play, Into it, Hobbies-
   <p>料理　ファッション　音楽鑑賞　映画鑑賞　写真撮影　ダンス　カフェ巡り　神社・寺院巡り　旅行　温泉　トレッキング　山登り　キャンプ　スノボ 古銭集め　御朱印集め　御船印集め</p>
   <!--  -->
 
-  <table class="tb-title" id="like-it">
-    <th class="title-ja">好きなもの</th><th class="title-en">- Like it -</th>
-  </table>
+## 好きなもの　-Like it-
   <p>紅茶　コーヒー　スイーツ　日本酒　腕時計　コーギー</p>
   <!--  -->
 
-  <table class="tb-title" id="like-ani">
-    <th class="title-ja">好きな作品</th><th class="title-en">- Like Anime, Comics, Novels -</th>
-  </table>
+## 好きな作品　-Like Anime, Comics, Novels-
   <p>AB!　IS　アイマス(765)　宇宙戦艦ヤマト　うる星やつら　機動戦艦ナデシコ　境界の彼方　ごちうさ　シティーハンター　葬送のフリーレン　美少女戦士セーラームーン　まどマギ　まもって守護月天!　八十亀ちゃん　らき☆すた　初期ラ！</p>
   <!--  -->
 
-  <table class="tb-title" id="like-char">
-    <th class="title-ja">好きなキャラクター</th><th class="title-en">- My wife -</th>
-  </table>
+## 好きなキャラクター　-My wife-
   <p>〈アニメ、マンガ〉<br>
   [らき☆すた]こなた　[まどマギ]杏子　[初期ラ！]真姫ちゃん　[ＩＳ]ラウラ　[ガルパン]チョビ　[SAO]アルゴ　[ToLOVEる]ヤミちゃん　[ごちうさ]チノちゃん　[葬送のフリーレン]フリーレン</p>
   <p>〈ゲーム〉
@@ -193,9 +109,7 @@
   </p>
   <!--  -->
 
-  <table class="tb-title" id="like-ill">
-    <th class="title-ja">好きな絵師</th><th class="title-en">- Like Illustrators -</th>
-  </table>
+## 好きな絵師　-Like Illustrators-
   <br>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -246,9 +160,8 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="like-va">
-    <th class="title-ja">好きな声優</th><th class="title-en">- Like Voice Actors -</th>
-  </table>
+## 好きな声優　-Like Voice Actors-
+
   <br>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -284,9 +197,7 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="like-sing">
-    <th class="title-ja">好きな歌手・グループ</th><th class="title-en">- Like Singers & Groups -</th>
-  </table>
+## 好きな歌手・グループ　-Like Singers & Groups-
   <br>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -323,9 +234,7 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="like-strmr">
-    <th class="title-ja">好きな配信者</th><th class="title-en">- Like Streamers -</th>
-  </table>
+## 好きな配信者　-Like Streamers-
   <br>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -356,15 +265,11 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="other">
-    <th class="title-ja">その他、趣味</th><th class="title-en">- Others -</th>
-  </table>
+## その他、趣味　-Others-
   <p>車　鉄道(乗り鉄, 撮り鉄)　ミリタリー(銃, 艦体)　ゴルフ　バスケ　サッカー　バレー　バドミントン　インディアカ　ヨガ　競馬鑑賞　F1・ラリー鑑賞　植物</p>
   <!--  -->
 
-  <table class="tb-title" id="rhythm-ac">
-    <th class="title-ja">音ゲー (AC)</th><th class="title-en">- Rhythm Games (AC) -</th>
-  </table>
+## 音ゲー (AC)　-Rhythm Games (AC)-
   <p>Started since　<b>2008.08.17</b><br>
   <a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
   <table border="1" class="tb-L-mag">
@@ -505,9 +410,7 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="rhythm-pc">
-    <th class="title-ja">音ゲー (PC)</th><th class="title-en">- Rhythm Games (PC, CS) -</th>
-  </table>
+## 音ゲー (PC)　-Rhythm Games (PC, CS)-
   <br>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -543,14 +446,10 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="cs-game">
-    <th class="title-ja">コンシューマ</th><th class="title-en">- CS Games -</th>
-  </table>
+## コンシューマ　-CS Games-
   <p>魔界村1,2,3　メトロイド　海腹川背　かまいたちの夜　神トラ　マリオワールド　スーパーメトロイド　セプテントリオン　ときメモ　トワイライトシンドローム　風来のシレン　プリペル　時オカ　マリオ64　ムジュラ　マリオサンシャイン　トワプリ　I.Q. クロノトリガー　サルゲッチュ1,2,3　ピポサル2001　ポポロクロイス物語　moon　MGS1,2,3,PW　ロックマンDASH1,2　Jak1,2,3,X　DarkCloud1,2　シンフォニア　パタポン2　MHP2G,3rd　おい森,街森,とび森,e+　ポケモンDP</p>
   
-  <table class="tb-title" id="app-game">
-    <th class="title-ja">アプリゲー</th><th class="title-en">- App Games -</th>
-  </table>
+## アプリゲー　-App Games-
   <br>
   <table border="1" class="tb-L-mag">
     <caption>
@@ -644,10 +543,7 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="soci-game">
-    <th class="title-ja">ソシャゲ</th><th class="title-en">- Social Games -</th>
-  </table>
-  <p></p>
+ ## ソシャゲ　-Social Games-
   <table>
     <tbody class="tb-txt-center">
       <tr>
@@ -663,9 +559,7 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="rta">
-    <th class="title-ja">RTA</th><th class="title-en">- Speedrun -</th>
-  </table>
+## RTA　-Speedrun-
   <p><b>speedrun.com</b>　<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
   <table border="1" class="tb-L-mag">
     <thead>
@@ -694,9 +588,7 @@
   <br>
   <!--  -->
 
-  <table class="tb-title" id="eroge">
-    <th class="title-ja">美少女ゲーム</th><th class="title-en">- Galge & Eroge -</th>
-  </table>
+## 美少女ゲーム　-Galge & Eroge-
   <p></p>
   <table>
     <tbody>
@@ -724,15 +616,11 @@
   <br>			
   <!--  -->
 
-  <table class="tb-title" id="trav">
-    <th class="title-ja">旅行</th><th class="title-en">- Travels -</th>
-  </table>
+## 旅行　-Travels-
   <p><a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/" rel="noopener noreferrer" target="_blank">経県値マップ 都道府県版</a>（2024/3/10時）</p>
   <!--  -->
 
-  <table class="tb-title" id="on-musu">
-    <th class="title-ja">温泉むすめ</th><th class="title-en">- Onsen Musume -</th>
-  </table>
+## 温泉むすめ　-Onsen Musume-
   <p>Started since　<b>2021.06.05</b><br>
   <a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
   <br>
