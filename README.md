@@ -1,5 +1,5 @@
 <p align="right">
-  <b>Created since　2024.03.12<br>Update since　2024.03.19</b>
+  <b>Created since　2024.03.12<br>Update since　2024.03.20</b>
 </p>
 
 ## My Status
@@ -134,14 +134,14 @@
 <table>
   <thead>
     <tr>
-      <th>名前</th>
-      <th>推し始めた年</th>
+      <th>Name</th>
+      <th>Since</th>
       <th>FANBOX</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
-      <th>★茉宮祈芹🍒</th>
+      <th>★ 茉宮祈芹🍒</th>
       <td>2018年</td>
       <td>2020.10.03</td>
     </tr>
@@ -183,12 +183,12 @@
 <table>
   <thead>
     <tr>
-      <th>名前</th>
-      <th>推し始めた年</th>
+      <th>Name</th>
+      <th>Since</th>
       <th>FANCLUB</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>田口宏子</th>
       <td>2006年</td>
@@ -200,12 +200,12 @@
       <td>-</td>
     </tr>
     <tr>
-      <th>★川上とも子</th>
+      <th>★ 川上とも子</th>
       <td>2006年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>★堀江由衣</th>
+      <th>★ 堀江由衣</th>
       <td>2013年</td>
       <td><b>【黒ネコ同盟】</b>2020.06.26 (No.14880)</td>
     </tr>
@@ -217,12 +217,12 @@
 <table>
   <thead>
     <tr>
-      <th>名前</th>
-      <th>推し始めた年</th>
+      <th>Name</th>
+      <th>Since</th>
       <th>FANCLUB</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>ave;new</th>
       <td>2008年</td>
@@ -252,24 +252,19 @@
 <table>
   <thead>
     <tr>
-      <th>名前</th>
-      <th>推し始めた年</th>
+      <th>Name</th>
+      <th>Since</th>
       <th>Member ship</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
-      <th>★兄者弟者</th>
+      <th>★ 兄者弟者</th>
       <td>2010年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>白上フブキ</th>
-      <td>2020年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>★如月ささら</th>
+      <th>★ 如月ささら</th>
       <td>2023年</td>
       <td>2023.03.01</td>
     </tr>
@@ -294,7 +289,7 @@
       <th>実力</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>beatmaniaⅡDX</th>
       <td>SPADA</td>
@@ -339,7 +334,7 @@
       <th>プレイ開始</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>pop'n music</th>
       <td>16 PARTY♪</td>
@@ -428,7 +423,7 @@
       <th>実力</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>BMS</th>
       <td>専コン</td>
@@ -447,7 +442,7 @@
     <tr>
       <th>DJMAX RESPECT Ⅴ</th>
       <td>キーボード</td>
-      <td>【4B】Lv15:S　SC13:A<br>【5B】-<br>【6B】Lv15:A<br>【8B】Lv9:S　Lv11:A</td>
+      <td align="left">【4B】Lv15:S　SC13:A<br>【5B】-<br>【6B】Lv15:A<br>【8B】Lv9:S　Lv11:A</td>
     </tr>
   </tbody>
 </table>			
@@ -469,7 +464,7 @@
       <th>プレイ開始</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>ブルリフS</th>
       <td>425824573</td>
@@ -494,7 +489,7 @@
       <th>ID (サブ)</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>パズドラ</th>
       <td>161461878</td>
@@ -565,7 +560,7 @@
       <th>Date</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody align="center">
     <tr>
       <th>Jak1(JP) / PCSX2</th>
       <td>100%</td>
