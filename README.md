@@ -37,8 +37,17 @@
 </b>
 <br>
 <br>
-  
-## Connect with me  
+
+## プロフィール　- My Profile -
+<p>どっか出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
+
+<!-- <details>
+  <summary>折りたたみテスト</summary>
+</details> -->
+<br>
+
+## 活動先リンク　- Connect with me -
+<p>リンクを <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
 <div>
   <a href="https://twitter.com/Maybe515" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -53,14 +62,6 @@
 <br>
 <br>
 
-## Edit Now
-<p>どっか出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
-<p>活動先のリンクを <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめました。</p>
-<!-- <details>
-  <summary>折りたたみテスト</summary>
-</details> -->
-<br>
-
 ## コテハン由来　- My handle name comes from -
 <p>某エロゲブランドとは関係ありません。</p>
 <p>'08年に発売された <a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
@@ -71,10 +72,12 @@
 <p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a>（すいてきせきせん）</p>
 <br>
 
+<!--
 ## ○○　- Appellations -
 <p>ゆきぽP　響提督　真姫ライバー　黒ネコ同盟員(ほっちゃん)　Mate(JSB3)　元ニコ厨　ボカロ厨　東方厨　PC自作er　版画er(4枚)　マイクラ工業勢　元生徒会書記長　元iOS脱獄者　元SCP財団職員</p>
 <br>
-  
+--> 
+
 ## 資格　- License -
 <p>
   <b>- 国家資格 -</b><br>
@@ -306,7 +309,7 @@
       <th>CHUNITHM</th>
       <td>無印</td>
       <td>2015.12.10</td>
-      <td>max16.31</td>
+      <td>max16.32</td>
     </tr>
     <tr>
       <th>オンゲキ</th>
@@ -414,7 +417,7 @@
 </table>
 <br>
 
-### - PC, CS -
+### - PC, Consumer -
 <table>
   <thead>
     <tr>
@@ -442,7 +445,7 @@
     <tr>
       <th>DJMAX RESPECT Ⅴ</th>
       <td>キーボード</td>
-      <td align="left">【4B】Lv15:S　SC13:A<br>【5B】-<br>【6B】Lv15:A<br>【8B】Lv9:S　Lv11:A</td>
+      <td align="left">【4B】Lv15：S　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</td>
     </tr>
   </tbody>
 </table>			
@@ -582,12 +585,19 @@
 <table>
   <tbody>
     <tr>
+      <th></th>
+      <th>Eroge</th>
+      <th>Galge</th>
+    </tr>
+    <tr>
       <th>プレイ開始日</th>
       <td>2016.07.19</td>
+      <td>2006.03.??</td>
     </tr>
     <tr>
       <th>初プレイ作品</th>
       <td>フレラバ ～Friend to Lover～</td>
+      <td>ときめきメモリアル 伝説の樹の下で【SFC版】</td>
     </tr>
     <tr>
       <th>推しブランド</th>
@@ -595,8 +605,12 @@
     </tr>
     <tr>
       <th>推しジャンル</th>
-      <td>シナリオ、泣き</td>
+      <td>AIR　白詰草話　こなかな　さくら、もゆ。</td>
     </tr>
+    <tr>
+      <th>好きな作品</th>
+      <td>シナリオ、泣き</td>
+    </tr>    
   </tbody>
 </table>
 <br>
