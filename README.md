@@ -239,7 +239,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <th>★三代目 J Soul Brothers<br>from EXILE TRIBE</th>
+      <th>★ 三代目 J Soul Brothers<br>from EXILE TRIBE</th>
       <td>2015年</td>
       <td><b>【EX Family】</b>2017.07.14 (No.1114564)<br>
       <b>【mate】</b>2022.11.02 (No.JSB0023720)</td>
