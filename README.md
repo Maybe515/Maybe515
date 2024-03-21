@@ -1,5 +1,6 @@
 <p align="right">
-  <b>Created since　2024.03.12<br>Update since　2024.03.20</b>
+  <b>Created since　2024.03.12<br>
+    Update since　2024.03.21</b>
 </p>
 
 ## My Status
@@ -46,7 +47,7 @@
 </details> -->
 <br>
 
-## 活動先リンク　- Connect with me -
+### 活動先リンク　- Connect with me -
 <p>リンクを <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
 <div>
   <a href="https://twitter.com/Maybe515" target="_blank">
@@ -452,7 +453,44 @@
 <br>
 
 ## 家庭用ゲーム　- CS Games -
-<p>魔界村1,2,3　メトロイド　海腹川背　かまいたちの夜　神トラ　マリオワールド　スーパーメトロイド　セプテントリオン　ときメモ　トワイライトシンドローム　風来のシレン　プリペル　時オカ　マリオ64　ムジュラ　マリオサンシャイン　トワプリ　I.Q. クロノトリガー　サルゲッチュ1,2,3　ピポサル2001　ポポロクロイス物語　moon　MGS1,2,3,PW　ロックマンDASH1,2　Jak1,2,3,X　DarkCloud1,2　シンフォニア　パタポン2　MHP2G,3rd　おい森,街森,とび森,e+　ポケモンDP</p>
+<p>
+  <b>- FC -</b><br>
+  海腹川背　忍者龍剣伝　メトロイド
+</p>
+<p>
+  <b>- SFC -</b><br>
+  神トラ　スーパーメトロイド　セプテントリオン　かまいたちの夜　ときメモ　トワイライトシンドローム　風来のシレン　プリペル
+</p>
+<p>
+  <b>- N64 -</b><br>
+  時オカ　マリオ64　ムジュラ
+</p>
+<p>
+  <b>- PS -</b><br>
+  I.Q　MGS　moon　クロノトリガー　サルゲッチュ　ポポロクロイス物語
+</p>
+<p>
+  <b>- PS2 -</b><br>
+  Jak1,2　MGS2,3　ToS　サルゲッチュ2,3　ピポサル2001　
+</p>
+<p>
+  <b>- GC -</b><br>
+  トワプリ  マリオサンシャイン
+</p>
+<p>
+  <b>- PSP -</b><br>
+  MGSPW　MHP2G,3rd
+</p>
+<p>
+  <b>- NDS -</b><br>
+  おい森　ポケモンDP
+</p>
+<p>
+  <b>- Wii -</b><br>
+  街森　マリオギャラクシー1,2
+</p>
+
+<p>魔界村1,2,3　ロックマンDASH1,2　DarkCloud1,2とび森</p>
 <br>
   
 ## アプリゲー　- App Games -
@@ -602,6 +640,7 @@
     <tr>
       <th>推しブランド</th>
       <td>FAVORITE, Littlewitch, Key</td>
+      <td align="center" rowspan="3">-</td>
     </tr>
     <tr>
       <th>推しジャンル</th>
