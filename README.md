@@ -36,21 +36,35 @@
   <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
 </div>
+<br>
 
-<b>- License -</b>
-<p>
-  <b>- 国家資格 -</b><br>
-  第二種電気工事士　工事担任者DD3種　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　認定電気工事従事者
-</p>
-<p>
-  <b>- 検定 -</b><br>
-  情報技術検定1級　計算技術検定2級　漢検準2級　英検2級
-</p>
+<table>
+  <caption>
+    <b>- License -</b>
+  </caption>
+  <thead>
+    <tr>
+      <th>分類</th>
+      <th>資格</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>国家資格</th>
+      <td>二種電気工事士　工事担任者DD3種　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　認定電気工事従事者</td>
+    </tr>
+    <tr>
+      <th>検定</th>
+      <td>情報技術検定1級　計算技術検定2級　漢検準2級　英検2級</td>
+    </tr>
+  </tbody>
+</table>
 <br>
 
 <b>- Skillmap -</b>
-<p>電子回路　基板改修　マルチテスタ自作　電気工事　ノートPC修理　スマホ修理　シーケンス制御(MELSEC)　3DCG　MMD　アプリ開発(Android)　SSG自作　プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　PC自作　動画編集　画像加工　お絵かき　消しはん作り　切り絵　アクセサリー作り</p>
-<br>
+<p>
+  電子回路　基板改修　マルチテスタ自作　電気工事　ノートPC修理　スマホ修理　シーケンス制御(MELSEC)　3DCG　MMD　アプリ開発(Android)　SSG自作　プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　PC自作　動画編集　画像加工　お絵かき　消しはん作り　切り絵　アクセサリー作り
+</p>
 <br>
 
 ## プロフィール　- My Profile -
