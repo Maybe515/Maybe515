@@ -35,7 +35,21 @@
   <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
   <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="50" /></a>  
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-</b>
+</div>
+
+<b>- License -</b>
+<p>
+  <b>- 国家資格 -</b><br>
+  第二種電気工事士　工事担任者DD3種　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　認定電気工事従事者
+</p>
+<p>
+  <b>- 検定 -</b><br>
+  情報技術検定1級　計算技術検定2級　漢検準2級　英検2級
+</p>
+<br>
+
+<b>- Skillmap -</b>
+<p>電子回路　基板改修　マルチテスタ自作　電気工事　ノートPC修理　スマホ修理　シーケンス制御(MELSEC)　3DCG　MMD　アプリ開発(Android)　SSG自作　プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　PC自作　動画編集　画像加工　お絵かき　消しはん作り　切り絵　アクセサリー作り</p>
 <br>
 <br>
 
@@ -59,7 +73,7 @@
   <a href="https://www.youtube.com/user/xMaybe515x" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
   </a>  
-</b>
+</div>
 <br>
 <br>
 
@@ -69,30 +83,15 @@
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
 <br>
 
+<!--
 ## 座右の銘　- Motto -
 <p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a>（すいてきせきせん）</p>
 <br>
 
-<!--
 ## ○○　- Appellations -
 <p>ゆきぽP　響提督　真姫ライバー　黒ネコ同盟員(ほっちゃん)　Mate(JSB3)　元ニコ厨　ボカロ厨　東方厨　PC自作er　版画er(4枚)　マイクラ工業勢　元生徒会書記長　元iOS脱獄者　元SCP財団職員</p>
 <br>
 --> 
-
-## 資格　- License -
-<p>
-  <b>- 国家資格 -</b><br>
-  第二種電気工事士　工事担任者DD3種　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　認定電気工事従事者
-</p>
-<p>
-  <b>- 検定 -</b><br>
-  情報技術検定1級　計算技術検定2級　漢検準2級　英検2級
-</p>
-<br>
-
-## スキルマップ　- Skillmap -
-<p>電子回路　基板改修　マルチテスタ自作　電気工事　ノートPC修理　スマホ修理　シーケンス制御(MELSEC)　3DCG　MMD　アプリ開発(Android)　SSG自作　プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　PC自作　動画編集　画像加工　お絵かき　消しはん作り　切り絵　アクセサリー作り</p>
-<br>
 
 ## 趣味　- Enjoying Play, Into it, Hobbies -
 <p>
