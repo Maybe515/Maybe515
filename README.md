@@ -61,18 +61,31 @@
 </table>
 <br>
 
-<b>- Skillmap -</b>
-<p>
-  - Software -<br>
-  プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　アプリ開発(Android)　SSG自作
-  <br>
-  - Hardware -<br>
-  ソルダリング　PC自作　ノートPC修理　スマホ修理　電気工事　マルチテスタ自作　電子オルゴール自作　シーケンス制御(MELSEC)
-  <br>
-  - Other -<br>
-  お絵かき　消しはん作り　切り絵　動画編集　画像加工　3DCG　MMD　アクセサリー作り
-  <br>
-</p>
+<table>
+  <caption>
+    <b>- Skillmap -</b>
+  </caption>
+  <thead>
+    <tr>
+      <th>分類</th>
+      <th>内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Software</th>
+      <td>プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　アプリ開発(Android)　SSG自作</td>
+    </tr>
+    <tr>
+      <th>Hardware</th>
+      <td>ソルダリング　PC自作　ノートPC修理　スマホ修理　電気工事　マルチテスタ自作　電子オルゴール自作　シーケンス制御(MELSEC)</td>
+    </tr>
+    <tr>
+      <th>Other</th>
+      <td>お絵かき　消しはん作り　切り絵　動画編集　画像加工　3DCG　MMD　アクセサリー作り</td>
+    </tr>
+  </tbody>
+</table>
 <br>
 
 ## プロフィール　- My Profile -
