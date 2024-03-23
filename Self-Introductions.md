@@ -1,60 +1,5 @@
-
-<table>
-  <caption>
-    <b>- License -</b>
-  </caption>
-  <thead>
-    <tr>
-      <th>分類</th>
-      <th>資格</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>国家資格</th>
-      <td>二種電気工事士　工事担任者DD3種　3級技能士電気機器組立て(ｼｰｹﾝｽ制御作業)　認定電気工事従事者</td>
-    </tr>
-    <tr>
-      <th>検定</th>
-      <td>情報技術検定1級　計算技術検定2級　漢検準2級　英検2級</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-<table>
-  <caption>
-    <b>- Skillmap -</b>
-  </caption>
-  <thead>
-    <tr>
-      <th>分類</th>
-      <th>内容</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>Software</th>
-      <td>プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)　CAD　IC制御(ラズパイ)　アプリ開発(Android)　SSG自作</td>
-    </tr>
-    <tr>
-      <th>Hardware</th>
-      <td>ソルダリング　PC自作　ノートPC修理　スマホ修理　電気工事　マルチテスタ自作　電子オルゴール自作　シーケンス制御(MELSEC)</td>
-    </tr>
-    <tr>
-      <th>Other</th>
-      <td>お絵かき　消しはん作り　切り絵　動画編集　画像加工　3DCG　MMD　アクセサリー作り</td>
-    </tr>
-  </tbody>
-</table>
-<br>
-
-## プロフィール　- My Profile -
+## プロフィール　- About Me -
 <p>どっか出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
-
-<!-- <details>
-  <summary>折りたたみテスト</summary>
-</details> -->
 <br>
 
 ### 活動先リンク　- Connect with me -
@@ -83,11 +28,7 @@
 ## 座右の銘　- Motto -
 <p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a>（すいてきせきせん）</p>
 <br>
-
-## 呼称　- Appellations -
-<p>ゆきぽP　響提督　真姫ライバー　黒ネコ同盟員(ほっちゃん)　Mate(JSB3)　元ニコ厨　ボカロ厨　東方厨　PC自作er　版画er(4枚)　マイクラ工業勢　元生徒会書記長　元iOS脱獄者　元SCP財団職員</p>
-<br>
---> 
+-->
 
 ## 趣味　- Enjoying Play, Into it, Hobbies -
 <p>
@@ -118,92 +59,66 @@
 
 ## 推しているもの　- Favotite -
 ### 作品　- Anime, Comics, Novels -
-<ul style="column-count: 2;" />
-  <li>AB!</li>
-  <li>IS</li>
-  <li>アイマス(765)</li>
-  <li>宇宙戦艦ヤマト</li>
-  <li>うる星やつら</li>
-  <li>機動戦艦ナデシコ</li>
-  <li>境界の彼方</li>
-  <li>ごちうさ</li>
-  <li>シティーハンター</li>
-  <li>葬送のフリーレン</li>
-  <li>美少女戦士セーラームーン</li>
-  <li>まどマギ</li>
-  <li>まもって守護月天!</li>
-  <li>八十亀ちゃん</li>
-  <li>らき☆すた</li>
-  <li>初期ラ！</li>
-</ul>
-
-<p>
-  AB!　IS　アイマス(765)　宇宙戦艦ヤマト　うる星やつら　機動戦艦ナデシコ　境界の彼方　ごちうさ　シティーハンター　葬送のフリーレン　美少女戦士セーラームーン　まどマギ　まもって守護月天!　八十亀ちゃん　らき☆すた　初期ラ！</p>
+<details>
+  <summary>好きな作品 一覧</summary>
+  <ul>
+    <li>AIR</li>
+    <li>AngelBeats!</li>
+    <li>アイマス(765)</li>
+    <li>インフィニットストラトス</li>
+    <li>宇宙戦艦ヤマト</li>
+    <li>うる星やつら</li>
+    <li>機動戦艦ナデシコ</li>
+    <li>境界の彼方</li>
+    <li>ごちうさ</li>
+    <li>シティーハンター</li>
+    <li>葬送のフリーレン</li>
+    <li>美少女戦士セーラームーン</li>
+    <li>まどマギ</li>
+    <li>まもって守護月天!</li>
+    <li>八十亀ちゃん</li>
+    <li>らき☆すた</li>
+    <li>初期ラ！</li>
+  </ul>
+</details>
 <br>
 
 ### キャラクター　- My wife -
-<table>
-  <caption>
-    <b>- アニメ、マンガ -</b>
-  </caption>
-  <theead>
-    <tr>
-      <th colspan="5">タイトル　/　キャラクター名</th>
-    </tr>
-  </theead>
-  <tbody>
-    <tr>
-      <td>【ToLOVEる】ヤミちゃん</td>
-      <td>【らき☆すた】こなた</td>
-      <td>【まどマギ】杏子</td>
-      <td>【ＩＳ】ラウラ</td>
-      <td>【ガルパン】チョビ</td>        
-    </tr>
-    <tr>    
-      <td>【ナデシコ】ルリルリ</td>
-      <td>【SAO】アルゴ</td>
-      <td>【初期ラ！】真姫ちゃん</td>
-      <td>【ごちうさ】チノちゃん</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>【葬フリ】フリーレン</td>      
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary>アニメ・マンガ</summary>
+  <ul>
+    <li>【ToLOVEる】ヤミちゃん</li>
+    <li>【らき☆すた】こなた</li>
+    <li>【まどマギ】杏子</li>
+    <li>【ＩＳ】ラウラ</li>
+    <li>【ガルパン】チョビ</li>
+    <li>【ナデシコ】ルリルリ</li>
+    <li>【SAO】アルゴ</li>
+    <li>【初期ラ！】真姫ちゃん</li>
+    <li>【ごちうさ】チノちゃん</li>
+    <li>【葬送のフリーレン】フリーレン</li>
+  </ul>
+</details>
 <br>
 
-<table>
-  <caption>
-    <b>- ゲーム -</b>
-  </caption>
-  <theead>
-    <tr>
-      <th colspan="5">タイトル　/　キャラクター名</th>
-    </tr>
-  </theead>
-  <tbody>
-    <tr>
-      <td>【アイマス】ゆきぽ　</td>
-      <td>【GF(仮)】むつみん</td>
-      <td>【東方】妹様</td>
-      <td>【艦これ】響</td>
-      <td>【バトガ】あんこ</td>
-    </tr>
-    <tr>    
-      <td>【プリコネ】サレン</td>
-      <td>【シャニマス】冬優子</td>
-      <td>【ウマ娘】タキオン</td>
-      <td>【ブルアカ】ネル, ヒナ</td>
-      <td>【千恋＊万花】ムラサメ</td>
-    </tr>
-    <tr>
-      <td>【ﾀﾞｰｸｸﾛﾆｸﾙ】モニカ</td>
-      <td>【サルゲッチュ】チャル</td>
-      <td>【ブルリフ】きらら</td>
-    </tr>
-  </tbody>
-</table>
+<details>
+  <summary>ゲーム</summary>
+  <ul>
+    <li>【アイマス】ゆきぽ</li>
+    <li>【GF(仮)】むつみん</li>
+    <li>【東方】おぜうさま、妹様</li>
+    <li>【艦これ】響、瑞鳳、瑞鶴</li>
+    <li>【プリコネ】サレン、ネネカ</li>
+    <li>【バトガ】あんこ</li>
+    <li>【シャニマス】冬優子、円香</li>
+    <li>【ウマ娘】タキオン、カフェ、ダスカ、タイシン</li>
+    <li>【ブルアカ】ネル, ヒナ、イオリ、ウイ</li>
+    <li>【千恋＊万花】ムラサメちゃん</li>
+    <li>【ﾀﾞｰｸｸﾛﾆｸﾙ】モニカ</li>
+    <li>【サルゲッチュ】チャル</li>
+    <li>【ブルリフ】きらら、なーな、ユズ</li>
+  </ul>
+</details>
 <br>
 
 ### 絵師さん　- Illustrators -
