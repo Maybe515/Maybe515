@@ -8,7 +8,7 @@
   <li><p>🔗 <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>
 </ul>
 <ul>
-    <li><p>and more...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>
+    <li><p>𝒂𝒏𝒅 𝒎𝒐𝒓𝒆...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>
 </ul>
 <br>
 
