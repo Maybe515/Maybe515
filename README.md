@@ -2,8 +2,8 @@
 <p align="right">
     Update since　2024.03.23</b>
 </p>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
 </p>
 
 ## My GitHub Status
