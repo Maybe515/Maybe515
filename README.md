@@ -46,7 +46,8 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Illustrator" height="50" /></a> 
   <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" height="50" /></a>  
   <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" height="50" /></a>    
-  <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
+  <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="icons/Android-Dark.png" alt="Android" height="50" /></a>
+  <a href="https://appinventor.mit.edu" target="_blank"><img style="margin: 10px" src="icons/AppInventor.png" alt="AppInventor" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50" /></a>
   <a href="https://discord.com" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50" /></a>
   <a href="https://discord.com" target="_blank"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBots" height="50" /></a>
