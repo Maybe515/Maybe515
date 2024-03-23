@@ -77,7 +77,7 @@
   <summary>Skillmap</summary>
   <ul>
     <b>- Software -</b>
-    <li>プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)</li>
+    <li>プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー)</li>
     <li>CAD</li>
     <li>IC制御 (ラズパイ)</li>
     <li>アプリ開発 (Android)</li>
