@@ -5,7 +5,7 @@
 ### 活動先リンク　- Connect with me -
 <ul>
   <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p></li>
-  <li><p>GitHubのプロフィールは 🔗<a href="README.md">こちら</a></p></li>
+  <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515">こちら</a></p></li>
 </ul>
 <br>
 
