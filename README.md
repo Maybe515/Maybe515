@@ -1,10 +1,16 @@
-<h1 align="center">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 👋</h1>
+<h1 align="center">✨ 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ✨</h1>
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
 </p>
+
+### Connect with me, and more...
+<ul>
+  <li><p>🔗 <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>
+</ul>
 <ul>
     <li><p>and more...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>
 </ul>
+<br>
 
 ## My GitHub Status
 <p align="left"> 
@@ -86,9 +92,3 @@
     <li>アクセサリー作り</li>
   </ul>
 </details>
-<br>
-
-## Connect with me
-<ul>
-  <li><p>🔗 <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>
-</ul>
