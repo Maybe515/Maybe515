@@ -1,12 +1,12 @@
 <p align="right">
   <b>Created since　2024.03.12<br>
-    Update since　2024.03.21</b>
+    Update since　2024.03.23</b>
 </p>
 
-## My Status
+## My GitHub Status
 <p align="left"> 
   <!-- Top Languages Card -->
-  <b>- GitHub Stats -</b><br>
+  <b>- Stats -</b><br>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe515&layout=compact&show_icons=true&theme=onedark" />
   
   <!-- GitHub Stats Card -->
@@ -157,18 +157,92 @@
 
 ## 推しているもの　- Favotite -
 ### 作品　- Anime, Comics, Novels -
-<p>AB!　IS　アイマス(765)　宇宙戦艦ヤマト　うる星やつら　機動戦艦ナデシコ　境界の彼方　ごちうさ　シティーハンター　葬送のフリーレン　美少女戦士セーラームーン　まどマギ　まもって守護月天!　八十亀ちゃん　らき☆すた　初期ラ！</p>
+<ul style="column-count: 2;" />
+  <li>AB!</li>
+  <li>IS</li>
+  <li>アイマス(765)</li>
+  <li>宇宙戦艦ヤマト</li>
+  <li>うる星やつら</li>
+  <li>機動戦艦ナデシコ</li>
+  <li>境界の彼方</li>
+  <li>ごちうさ</li>
+  <li>シティーハンター</li>
+  <li>葬送のフリーレン</li>
+  <li>美少女戦士セーラームーン</li>
+  <li>まどマギ</li>
+  <li>まもって守護月天!</li>
+  <li>八十亀ちゃん</li>
+  <li>らき☆すた</li>
+  <li>初期ラ！</li>
+</ul>
+
+<p>
+  AB!　IS　アイマス(765)　宇宙戦艦ヤマト　うる星やつら　機動戦艦ナデシコ　境界の彼方　ごちうさ　シティーハンター　葬送のフリーレン　美少女戦士セーラームーン　まどマギ　まもって守護月天!　八十亀ちゃん　らき☆すた　初期ラ！</p>
 <br>
 
 ### キャラクター　- My wife -
-<p>
-  <b>- アニメ、マンガ -</b><br>
-  【ToLOVEる】ヤミちゃん　【らき☆すた】こなた　【まどマギ】杏子　【ＩＳ】ラウラ　【ガルパン】チョビ　【ナデシコ】ルリルリ　【SAO】アルゴ　【初期ラ！】真姫ちゃん　【ごちうさ】チノちゃん　【葬送のフリーレン】フリーレン
-</p>
-<p>
-  <b>- ゲーム -</b><br>
-  【アイマス】ゆきぽ　【GF(仮)】むつみん 【東方】おぜうさま, 妹様　【艦これ】響, 瑞鶴, 天津風　【プリコネ】サレン, ネネカ　【バトガ】あんこ　【シャニマス】冬優子, 円香 【ウマ娘】タキオン, カフェ, ダスカ, タイシン　【ブルアカ】イオリ, ウイ, ネル, ヒナ　【千恋＊万花」ムラサメちゃん　【ダーククロニクル】モニカ　【サルゲッチュ】チャル　【ブルリフ】ユズ, きらら, 菜々花
-</p>
+<table>
+  <caption>
+    <b>- アニメ、マンガ -</b>
+  </caption>
+  <theead>
+    <tr>
+      <th colspan="5">タイトル　/　キャラクター名</th>
+    </tr>
+  </theead>
+  <tbody>
+    <tr>
+      <td>【ToLOVEる】ヤミちゃん</td>
+      <td>【らき☆すた】こなた</td>
+      <td>【まどマギ】杏子</td>
+      <td>【ＩＳ】ラウラ</td>
+      <td>【ガルパン】チョビ</td>        
+    </tr>
+    <tr>    
+      <td>【ナデシコ】ルリルリ</td>
+      <td>【SAO】アルゴ</td>
+      <td>【初期ラ！】真姫ちゃん</td>
+      <td>【ごちうさ】チノちゃん</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>【葬フリ】フリーレン</td>      
+    </tr>
+  </tbody>
+</table>
+<br>
+
+<table>
+  <caption>
+    <b>- ゲーム -</b>
+  </caption>
+  <theead>
+    <tr>
+      <th colspan="5">タイトル　/　キャラクター名</th>
+    </tr>
+  </theead>
+  <tbody>
+    <tr>
+      <td>【アイマス】ゆきぽ　</td>
+      <td>【GF(仮)】むつみん</td>
+      <td>【東方】妹様</td>
+      <td>【艦これ】響</td>
+      <td>【バトガ】あんこ</td>
+    </tr>
+    <tr>    
+      <td>【プリコネ】サレン</td>
+      <td>【シャニマス】冬優子</td>
+      <td>【ウマ娘】タキオン</td>
+      <td>【ブルアカ】ネル, ヒナ</td>
+      <td>【千恋＊万花】ムラサメ</td>
+    </tr>
+    <tr>
+      <td>【ﾀﾞｰｸｸﾛﾆｸﾙ】モニカ</td>
+      <td>【サルゲッチュ】チャル</td>
+      <td>【ブルリフ】きらら</td>
+    </tr>
+  </tbody>
+</table>
 <br>
 
 ### 絵師さん　- Illustrators -
