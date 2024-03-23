@@ -57,7 +57,7 @@
 <p>紅茶　コーヒー　スイーツ　日本酒　腕時計　コーギー</p>
 <br>
 
-## 推しているもの　- Favotite -
+## 推しているもの　- FAV. -
 ### 作品　- Anime, Comics, Novels -
 <details>
   <summary>好きな作品 一覧</summary>
