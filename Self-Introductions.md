@@ -3,7 +3,10 @@
 <br>
 
 ### 活動先リンク　- Connect with me -
-<p>🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
+<ul>
+  <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p></li>
+  <li><p>GitHubのプロフィールは 🔗<a href="README.md">こちら</a></p></li>
+</ul>
 <div>
   <a href="https://twitter.com/Maybe515" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -13,7 +16,7 @@
   </a>
   <a href="https://www.youtube.com/user/xMaybe515x" target="_blank">
     <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-  </a>  
+  </a>
 </div>
 <br>
 <br>
