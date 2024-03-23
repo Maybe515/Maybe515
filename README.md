@@ -43,6 +43,53 @@
 </div>
 <br>
 
+<b>- Other -</b>
+<details>
+  <summary>License</summary>
+  <ul>
+    <b>【国家資格】</b>
+    <li>第二種電気工事士</li>
+    <li>工事担任者DD3種</li>
+    <li>3級技能士電気機器組立て(シーケンス制御作業)</li>
+    <li>認定電気工事従事者</li>
+    <br>
+    <b>【検定】</b>
+    <li>情報技術検定1級</li>
+    <li>計算技術検定2級</li>
+    <li>漢検準2級</li>
+    <li>英検2級</li>
+  </ul>
+</details>
+<details>
+  <summary>Skillmap</summary>
+  <ul>
+    <b>- Software -</b>
+    <li>プログラミング(C, Java, JScript, HTML, CSS, VBA, VB, ラダー図)</li>
+    <li>CAD</li>
+    <li>IC制御 (ラズパイ)</li>
+    <li>アプリ開発 (Android)</li>
+    <li>SSG自作</li>
+    <br>
+    <b>- Hardware -</b>
+    <li>ソルダリング</li>
+    <li>修理 (ノートPC, スマホ)</li>
+    <li>電気工事</li>
+    <li>自作 (PC, マルチテスタ, 電子オルゴール)</li>
+    <li>シーケンス盛業 (MELSEC)</li>
+    <br>
+    <b>- Other -</b>
+    <li>お絵かき</li>
+    <li>消しはん作り</li>
+    <li>切り絵</li>
+    <li>動画編集</li>
+    <li>画像加工</li>
+    <li>3DCG</li>
+    <li>MMD</li>
+    <li>アクセサリー作り</li>
+  </ul>
+</details>
+<br>
+
 ## Connect with me
 <ul>
   <li><p>🔗 <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>
