@@ -3,7 +3,7 @@
 <br>
 
 ### 活動先リンク　- Connect with me -
-<p>リンクを <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
+<p>リンクを 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
 <div>
   <a href="https://twitter.com/Maybe515" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -20,7 +20,7 @@
 
 ## コテハン由来　- My handle name comes from -
 <p>某エロゲブランドとは関係ありません。</p>
-<p>'08年に発売された <a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
+<p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
 <br>
 
@@ -32,23 +32,23 @@
 
 ## 趣味　- Enjoying Play, Into it, Hobbies -
 <p>
-  <b>- インドア -</b><br>
+  <b>- Indoor -</b><br>
   ゲーム　お絵かき　音楽鑑賞　映画鑑賞　料理　ファッション
 </p>
 <p>
-  <b>- アウトドア -</b><br>
+  <b>- Outdoor -</b><br>
   旅行　温泉　トレッキング　山登り　キャンプ　カフェ巡り　神社・お寺巡り　写真撮影
 </p>
 <p>
-  <b>- スポーツ・運動 -</b><br>
+  <b>- Sports -</b><br>
   スノボ　ダンス　ゴルフ　バスケ　サッカー　バレー　バドミントン　インディアカ　ヨガ
 </p>
 <p>
-  <b>- コレクション・収集系 -</b><br>
+  <b>- Collections -</b><br>
   古銭集め　御朱印集め　御船印集め
 </p>
 <p>
-  <b>- ニッチ・コア -</b><br>
+  <b>- Mania -</b><br>
   車　鉄道(乗り鉄, 撮り鉄)　ミリタリー(銃, 艦体)　競馬鑑賞　F1・ラリー鑑賞　植物
 </p>
 <br>
@@ -99,7 +99,6 @@
     <li>【葬送のフリーレン】フリーレン</li>
   </ul>
 </details>
-<br>
 
 <details>
   <summary>ゲーム</summary>
@@ -266,7 +265,7 @@
 ## 音ゲー　- Rhythm Games -
 ### - Arcade -
 <p><b>Started since　2008.08.17</b><br>
-<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
+🔗<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
 <br>
 <table>
   <caption>
@@ -575,12 +574,12 @@
 <br>
 
 ## ソシャゲ　- Social Games -
-<p>GF(仮)　<a href="http://vcard.ameba.jp/profile?userId=4374025" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
-<p>グラブル　<a href="http://gbf.game.mbga.jp/#profile/18259066" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
+<p>GF(仮)　🔗<a href="http://vcard.ameba.jp/profile?userId=4374025" rel="noopener noreferrer" target="_blank">Account</a></p>
+<p>グラブル　🔗<a href="http://gbf.game.mbga.jp/#profile/18259066" rel="noopener noreferrer" target="_blank">Account</a></p>
 <br>
 
 ## RTA　- Speedrun -
-<p><b>speedrun.com</b>　<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">プロフィール</a></p>
+<p><b>speedrun.com</b>　🔗<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">Account</a></p>
 <table>
   <thead>
     <tr>
@@ -608,7 +607,7 @@
 <br>
 
 ## 美少女ゲーム　- Galge & Eroge -
-<p><a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">エロゲー批評空間</a></p>
+<p>🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">エロゲー批評空間</a></p>
 <table>
   <tbody>
     <tr>
@@ -644,9 +643,9 @@
 <br>
 
 ## 旅行　- Travels -
-<p><a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/" rel="noopener noreferrer" target="_blank">経県値マップ 都道府県版</a>（2024/3/10時）</p>
+<p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/" rel="noopener noreferrer" target="_blank">経県値マップ 都道府県版</a>（2024/3/10時）</p>
 <br>
 
 ## 温泉むすめ　- Onsen Musume -
   <p><b>Started since　2021.06.05</b><br>
-  <a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
+  🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
