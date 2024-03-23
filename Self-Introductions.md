@@ -3,7 +3,7 @@
 <br>
 
 ### 活動先リンク　- Connect with me -
-<p>リンクを 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
+<p>🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p>
 <div>
   <a href="https://twitter.com/Maybe515" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
