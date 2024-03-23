@@ -1,10 +1,12 @@
 <h1 align="center">Welcome to my profile 👋</h1>
-<p align="right">
-    Update since　2024.03.23</b>
-</p>
+
+<p align="right"><b>Update since　2024.03.23</b></p>
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
 </p>
+<ul>
+    <li><p>and more...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>
+</ul>
 
 ## My GitHub Status
 <p align="left"> 
