@@ -275,13 +275,25 @@
   </thead>
   <tbody align="center">
     <tr>
+      <th>jubeat</th>
+      <td>saucer</td>
+      <td>2013.10.13</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <th>SOUND VOLTEX</th>
+      <td>Ⅱ -infinite infection-</td>
+      <td>2014.04.27</td>
+      <td>VOLFORCE: 8.307</td>
+    </tr>
+    <tr>
       <th>beatmaniaⅡDX</th>
       <td>SPADA</td>
       <td>2014.04.27</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>BeatStream</th>
+      <th>BeatStream　<b>サ終</b></th>
       <td>無印</td>
       <td>2014.10.23</td>
       <td>Rank6</td>
@@ -309,7 +321,7 @@
 <br>
 <table>
   <caption>
-    ▼過去にプレイした筐体
+    ▼その他、過去にプレイした筐体
   </caption>
   <thead>
     <tr>
@@ -328,16 +340,6 @@
       <th>太鼓の達人</th>
       <td>11</td>
       <td>2008.??.??</td>
-    </tr>
-    <tr>
-      <th>jubeat</th>
-      <td>saucer</td>
-      <td>2013.10.13</td>
-    </tr>
-    <tr>
-      <th>SOUND VOLTEX</th>
-      <td>Ⅱ -infinite infection-</td>
-      <td>2014.04.27</td>
     </tr>
     <tr>
       <th>REFLECT BEAT</th>
@@ -393,6 +395,11 @@
       <th>CHRONO CIRCLE</th>
       <td>無印</td>
       <td>2023.07.05</td>
+    </tr>
+    <tr>
+      <th>DANCERUSH STARDOM</th>
+      <td>無印</td>
+      <td>2024.03.22</td>
     </tr>
   </tbody>
 </table>
