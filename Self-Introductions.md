@@ -293,7 +293,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <th>BeatStream　<b>サ終</b></th>
+      <th>BeatStream【サ終】</th>
       <td>無印</td>
       <td>2014.10.23</td>
       <td>Rank6</td>
