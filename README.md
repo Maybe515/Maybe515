@@ -3,6 +3,10 @@
     <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
 </p>
 
+<!--
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+-->
+
 ### Connect with me, and more...
 <ul>
   <li><p>🔗 <a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>
@@ -30,7 +34,7 @@
 <!-- GitHub Readme Streak Stats -->
 <b>- Streak Stats -</b><br>
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)
-<br>
+<br><br>
 
 ## My Skills
 <b>- Languages and Tools -</b>
