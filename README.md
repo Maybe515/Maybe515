@@ -14,8 +14,8 @@
 
 ## My GitHub Status
 <p align="left"> 
+  <b>- Top Langs & Stats -</b><br>
   <!-- Top Languages Card -->
-  <b>- Stats -</b><br>
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe515&layout=compact&show_icons=true&theme=onedark" />
   
   <!-- GitHub Stats Card -->
@@ -24,10 +24,13 @@
 
 <!-- GitHub Profile Trophy -->
 <b>- Trophies -</b><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Maybe515&theme=onedark
-)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Maybe515&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://raw.githubusercontent.com/Maybe515/Maybe515/master/profile-summary-card-output/solarized/0-profile-details.svg)
+
+<!-- GitHub Readme Streak Stats -->
+<b>- Streak Stats -</b><br>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)
+<br>
 
 ## My Skills
 <b>- Languages and Tools -</b>
