@@ -1,5 +1,5 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
-<p align="right"><b>Update since　2024.03.25</b></p>
+<p align="right"><b>Update since　2024.03.27</b></p>
 
 ### プロフィール　- About Me -
 <p>あちこち出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
@@ -586,7 +586,7 @@
 <br>
 
 ## RTA　- Speedrun -
-<p><b>speedrun.com</b>　🔗<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">Account</a></p>
+<p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">Account</a></p>
 <table>
   <thead>
     <tr>
@@ -614,7 +614,7 @@
 <br>
 
 ## 美少女ゲーム　- Galge & Eroge -
-<p>🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">エロゲー批評空間</a></p>
+<p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">Account</a></p>
 <table>
   <tbody>
     <tr>
