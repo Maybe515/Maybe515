@@ -290,7 +290,7 @@
       <th>SOUND VOLTEX</th>
       <td>Ⅱ -infinite infection-</td>
       <td>2014.04.27</td>
-      <td>VF: 8.453</td>
+      <td>VF 8.453</td>
     </tr>
     <tr>
       <th>beatmaniaⅡDX</th>
