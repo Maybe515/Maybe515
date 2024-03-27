@@ -16,6 +16,8 @@
 <p>某エロゲブランドとは関係ありません。</p>
 <p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
+
+  <!-- 「めいびぃ！」の画像を追加 -->
 <br>
 
 <!--
@@ -25,6 +27,7 @@
 -->
 
 ## 趣味　- Enjoying Play, Into it, Hobbies -
+<!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
 <p>
   <b>- Indoor -</b><br>
   ゲーム　お絵かき　音楽鑑賞　映画鑑賞　料理　ファッション
@@ -78,6 +81,7 @@
 <br>
 
 ### キャラクター　- My wife -
+<!-- アイコンを自作して並べる -->
 <details>
   <summary>アニメ・マンガ</summary>
   <ul>
@@ -115,6 +119,7 @@
 <br>
 
 ### 絵師さん　- Illustrators -
+<!-- Twitのリンク先を追加して飛べるようにする -->
 <table>
   <thead>
     <tr>
@@ -257,6 +262,7 @@
 <br>
 
 ## 音ゲー　- Rhythm Games -
+<!-- 機種セルに画像を採用する＋公式HPへ飛べるようにする -->
 ### - Arcade -
 <p><b>Started since　2008.08.17</b><br>
 🔗<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
