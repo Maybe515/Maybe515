@@ -63,7 +63,7 @@
  -->
 </div>
 <br>
-<b>- Other -</b>
+<b>- Others -</b>
 <details>
   <summary>License</summary>
   <ul>
@@ -97,7 +97,7 @@
     <li>自作 (PC, マルチテスタ, 電子オルゴール)</li>
     <li>シーケンス盛業 (MELSEC)</li>
     <br>
-    <b>- Other -</b>
+    <b>- Create -</b>
     <li>お絵かき</li>
     <li>消しはん作り</li>
     <li>切り絵</li>
