@@ -30,7 +30,7 @@
 <!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
 <p>
   <b>- Indoor -</b><br>
-  ゲーム　お絵かき　音楽鑑賞　映画鑑賞　料理　ファッション
+  ゲーム　お絵かき　音楽鑑賞　映画鑑賞　料理　ファッション　カラオケ
 </p>
 <p>
   <b>- Outdoor -</b><br>
@@ -42,16 +42,23 @@
 </p>
 <p>
   <b>- Collections -</b><br>
-  古銭集め　御朱印集め　御船印集め　ICカード集め　硬券収集
+  古銭集め　御朱印集め　御船印集め　ICカード集め　切符・硬券収集
 </p>
 <p>
   <b>- Mania -</b><br>
-  車　鉄道(乗り鉄, 撮り鉄)　ミリタリー(銃, 艦体)　競馬鑑賞　F1・ラリー鑑賞　植物
+  車　鉄道(乗り鉄, 撮り鉄)　ミリタリー(銃, 艦体)　競馬鑑賞　F1・ラリー鑑賞
 </p>
 <br>
 
 ## 好きなもの　- Like it -
-<p>紅茶　コーヒー　スイーツ　日本酒　腕時計　コーギー</p>
+<p>
+  <b>- Foods & Drinks -</b><br>
+  スイーツ全般　紅茶　コーヒー　日本酒
+</p>
+<p>
+  <b>- Others -</b><br>
+  腕時計　コーギー　植物
+</p>
 <br>
 
 ## 推しているもの　- FAV. -
@@ -299,7 +306,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <th>BeatStream【サ終】</th>
+      <th>BeatStream</th>
       <td>無印</td>
       <td>2014.10.23</td>
       <td>Rank6</td>
@@ -486,6 +493,11 @@
   <b>- 3DS -</b><br>
   とび森
 </p>
+<p>
+  <b>- PS4 -</b><br>
+  KH3　NieR:Automata
+</p>
+
 <br>
   
 ## アプリゲー　- App Games -
@@ -613,7 +625,7 @@
 </table>
 <br>
 
-## 美少女ゲーム　- Galge & Eroge -
+## 美少女ゲーム　- Eroge & Galge -
 <p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">Account</a></p>
 <table>
   <tbody>
