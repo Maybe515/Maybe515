@@ -1,18 +1,18 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <p align="right"><b>Update since　2024.03.27</b></p>
 
-### プロフィール　- About Me -
+### プロフィール 👤　- About Me -
 <p>あちこち出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
 <br>
 
-### 活動先リンク　- Connect with me -
+### 活動先リンク 🌐　- Connect with me -
 <ul>
   <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p></li>
   <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515">こちら</a></p></li>
 </ul>
 <br>
 
-## コテハン由来　- My handle name comes from -
+## コテハン由来 🖋　- My handle name comes from -
 <p>某エロゲブランドとは関係ありません。</p>
 <p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
@@ -26,7 +26,7 @@
 <br>
 -->
 
-## 趣味　- Enjoying Play, Into it, Hobbies -
+## 趣味 🎾　- Enjoying Play, Into it, Hobbies -
 <!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
 <p>
   <b>- Indoor -</b><br>
@@ -50,7 +50,7 @@
 </p>
 <br>
 
-## 好きなもの　- Like it -
+## 好きなもの ⭐　- Like it -
 <p>
   <b>- Foods & Drinks -</b><br>
   スイーツ全般　紅茶　コーヒー　日本酒
@@ -61,7 +61,7 @@
 </p>
 <br>
 
-## 推しているもの　- FAV. -
+## 推しているもの 💗　- FAV. -
 ### 作品　- Anime, Comics, Novels -
 <details>
   <summary>好きな作品 一覧</summary>
@@ -268,7 +268,7 @@
 </table>
 <br>
 
-## 音ゲー　- Rhythm Games -
+## 音ゲー 🎹　- Rhythm Games -
 <!-- 機種セルに画像を採用する＋公式HPへ飛べるようにする -->
 ### - Arcade -
 <p><b>Started since　2008.08.17</b><br>
@@ -452,7 +452,7 @@
 </table>			
 <br>
 
-## 家庭用ゲーム　- CS Games -
+## 家庭用ゲーム 🎮　- CS Games -
 <p>
   <b>- FC -</b><br>
   海腹川背　忍者龍剣伝　メトロイド
@@ -500,7 +500,7 @@
 
 <br>
   
-## アプリゲー　- App Games -
+## アプリゲー 📱　- App Games -
 <table>
   <caption>
     ▼現在プレイ中のタイトル
@@ -592,12 +592,12 @@
 </table>
 <br>
 
-## ソシャゲ　- Social Games -
+## ソシャゲ 💻　- Social Games -
 <p>GF(仮)　🔗<a href="http://vcard.ameba.jp/profile?userId=4374025" rel="noopener noreferrer" target="_blank">Account</a></p>
 <p>グラブル　🔗<a href="http://gbf.game.mbga.jp/#profile/18259066" rel="noopener noreferrer" target="_blank">Account</a></p>
 <br>
 
-## RTA　- Speedrun -
+## RTA 🏆　- Speedrun -
 <p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">Account</a></p>
 <table>
   <thead>
@@ -625,7 +625,7 @@
 </table>
 <br>
 
-## 美少女ゲーム　- Eroge & Galge -
+## 美少女ゲーム 🖥　- Eroge & Galge -
 <p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">Account</a></p>
 <table>
   <tbody>
@@ -661,10 +661,10 @@
 </table>
 <br>
 
-## 旅行　- Travels -
+## 旅行 🚋　- Travels -
 <p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/" rel="noopener noreferrer" target="_blank">経県値マップ 都道府県版</a>（2024/3/10時）</p>
 <br>
 
-## 温泉むすめ　- Onsen Musume -
+## 温泉むすめ ♨　- Onsen Musume -
   <p><b>Started since　2021.06.05</b><br>
   🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
