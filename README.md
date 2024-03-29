@@ -3,20 +3,20 @@
     <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
 </p>
 
-### About Me
+### About Me 👤
 <p>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi! I'm Maybe515. From Japan in Aichi.<br>
    　　I'm not engineer, I program just for fun.
 </p>
 
-### Connect with me, and more...
+### Connect with me, and more... 🌐
 <ul>
   <li><p>🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">POTOFU Account</a></p></li>
   <li><p>𝒂𝒏𝒅 𝒎𝒐𝒓𝒆...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>
 </ul>
 <br>
 
-## My GitHub Status
+## My GitHub Status 🏆
 <p align="left"> 
   <b>- Top Langs & Stats -</b><br>
   <!-- Top Languages Card -->
@@ -36,7 +36,7 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)
 <br><br>
 
-## My Skills
+## My Skills 🔧
 <b>- Languages and Tools -</b>
 <br>
 <div>  
