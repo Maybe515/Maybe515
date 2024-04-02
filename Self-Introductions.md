@@ -63,6 +63,7 @@
 
 ## 推しているもの 💗　- FAV. -
 ### 作品　- Anime, Comics, Novels -
+<!-- タイトルロゴを並べる。公式HPへ飛ばす。 -->
 <details>
   <summary>好きな作品 一覧</summary>
   <ul>
@@ -88,7 +89,7 @@
 <br>
 
 ### キャラクター　- My wife -
-<!-- アイコンを自作して並べる -->
+<!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
 <details>
   <summary>アニメ・マンガ</summary>
   <ul>
@@ -245,6 +246,7 @@
 <br>
 
 ### 配信者さん　- Streamers -
+<!-- YouTubeのリンク先を追加して飛べるようにする -->
 <table>
   <thead>
     <tr>
@@ -269,7 +271,7 @@
 <br>
 
 ## 音ゲー 🎹　- Rhythm Games -
-<!-- 機種セルに画像を採用する＋公式HPへ飛べるようにする -->
+<!-- 機種セルにタイトルロゴを追加する＋公式HPへ飛べるようにする -->
 ### - Arcade -
 <p><b>Started since　2008.08.17</b><br>
 🔗<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
