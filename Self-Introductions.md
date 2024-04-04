@@ -1,5 +1,5 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
-<p align="right"><b>Update since　2024.04.03</b></p>
+<p align="right"><b>Update since　2024.04.04</b></p>
 
 ### プロフィール 👤　- About Me -
 <!-- Eng Ver. を作成して誘導リンクを追加する -->
@@ -9,14 +9,14 @@
 ### 活動先リンク 🌐　- Connect with me -
 <!-- 外窓で開くようにする -->
 <ul>
-  <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p></li>
-  <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515" target="_blank">こちら</a></p></li>
+  <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515">こちら</a> にまとめてあります。</p></li>
+  <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515">こちら</a></p></li>
 </ul>
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
 <p>某エロゲブランドとは関係ありません。</p>
-<p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/" rel="noopener noreferrer" target="_blank"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
+<p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
 
   <!-- 「めいびぃ！」の画像を追加 -->
@@ -276,7 +276,7 @@
 <!-- 機種セルにタイトルロゴを追加する＋公式HPへ飛べるようにする -->
 ### - Arcade -
 <p><b>Started since　2008.08.17</b><br>
-🔗<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing" rel="noopener noreferrer" target="_blank">音ゲーまとめ</a></p>
+🔗<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing">音ゲーまとめ</a></p>
 <br>
 <table>
   <caption>
@@ -598,12 +598,12 @@
 <br>
 
 ## ソシャゲ 💻　- Social Games -
-<p>GF(仮)　🔗<a href="http://vcard.ameba.jp/profile?userId=4374025" rel="noopener noreferrer" target="_blank">Account</a></p>
-<p>グラブル　🔗<a href="http://gbf.game.mbga.jp/#profile/18259066" rel="noopener noreferrer" target="_blank">Account</a></p>
+<p>GF(仮)　🔗<a href="http://vcard.ameba.jp/profile?userId=4374025">Account</a></p>
+<p>グラブル　🔗<a href="http://gbf.game.mbga.jp/#profile/18259066">Account</a></p>
 <br>
 
 ## RTA 🏆　- Speedrun -
-<p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/" rel="noopener noreferrer" target="_blank">Account</a></p>
+<p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/">Account</a></p>
 <table>
   <thead>
     <tr>
@@ -631,7 +631,7 @@
 <br>
 
 ## 美少女ゲーム 🖥　- Eroge & Galge -
-<p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515" rel="noopener noreferrer" target="_blank">Account</a></p>
+<p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515">Account</a></p>
 <table>
   <tbody>
     <tr>
@@ -667,7 +667,7 @@
 <br>
 
 ## 旅行 🚋　- Travels -
-<p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/" rel="noopener noreferrer" target="_blank">経県値マップ 都道府県版</a>（2024/3/10時）</p>
+<p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/">経県値マップ 都道府県版</a>（2024/3/10時）</p>
 <br>
 
 ## 温泉 ♨　- Hot Spring -
@@ -676,4 +676,4 @@
 
 ### 温泉むすめ　- Onsen Musume -
   <p><b>Started since　2021.06.05</b><br>
-    🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing" rel="noopener noreferrer" target="_blank">ぽか活まとめ</a></p>
+    🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing">ぽか活まとめ</a></p>
