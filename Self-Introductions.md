@@ -10,7 +10,7 @@
 <!-- 外窓で開くようにする -->
 <ul>
   <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515" rel="noopener noreferrer" target="_blank">こちら</a> にまとめてあります。</p></li>
-  <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515">こちら</a></p></li>
+  <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515" target="_blank" rel="noopener noreferrer">こちら</a></p></li>
 </ul>
 <br>
 
