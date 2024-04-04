@@ -95,7 +95,7 @@
     <li>修理 (ノートPC, スマホ)</li>
     <li>電気工事</li>
     <li>自作 (PC, マルチテスタ, 電子オルゴール)</li>
-    <li>シーケンス盛業 (MELSEC)</li>
+    <li>シーケンス制御 (MELSEC)</li>
     <br>
     <b>- Create -</b>
     <li>お絵かき</li>
