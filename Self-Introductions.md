@@ -1,5 +1,5 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
-<p align="right"><b>Update since　2024.04.04</b></p>
+<p align="right"><b>Update since　2024.04.05</b></p>
 
 ### プロフィール 👤　- About Me -
 <!-- Eng Ver. を作成して誘導リンクを追加する -->
@@ -18,8 +18,7 @@
 <p>某エロゲブランドとは関係ありません。</p>
 <p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
-
-  <!-- 「めいびぃ！」の画像を追加 -->
+<img alt="meibi" height="150px" src="images/meibi.jpg">
 <br>
 
 <!--
@@ -92,21 +91,28 @@
 
 ### キャラクター　- My wife -
 <!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
-<details>
-  <summary>アニメ・マンガ</summary>
-  <ul>
-    <li>【ToLOVEる】ヤミちゃん</li>
-    <li>【らき☆すた】こなた</li>
-    <li>【まどマギ】杏子</li>
-    <li>【ＩＳ】ラウラ</li>
-    <li>【ガルパン】チョビ</li>
-    <li>【ナデシコ】ルリルリ</li>
-    <li>【SAO】アルゴ</li>
-    <li>【初期ラ！】真姫ちゃん</li>
-    <li>【ごちうさ】チノちゃん</li>
-    <li>【葬送のフリーレン】フリーレン</li>
-  </ul>
-</details>
+
+ 
+<p>
+  <b>- Anime, Manga -</b><br>
+  <a href=""><img style="margin: 10px" src="images/icons/anchovy.png" alt="anchovy" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/argo.png" alt="argo" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/chino.png" alt="chino" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/freiren.png" alt="freiren" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/konata.png" alt="konata" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/kyoko.png" alt="kyoko" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/laura.png" alt="laura" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/maki.png" alt="maki" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/ruriruri.png" alt="ruriruri" height="70" /></a>
+  <a href=""><img style="margin: 10px" src="images/icons/yami.png" alt="yami" height="70" /></a>
+</p>
+
+<p>
+  <b>- Game -</b><br>
+  <!--
+  <a href=""><img style="margin: 10px" src="images/.png" alt="" height="70" /></a>
+ -->
+</p>
 
 <details>
   <summary>ゲーム</summary>
@@ -140,37 +146,51 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th>★ 茉宮祈芹🍒</th>
+      <th align="right">
+        ★ 茉宮祈芹🍒　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2018年</td>
       <td>2020.10.03</td>
     </tr>
     <tr>
-      <th>天川さっこ🐺</th>
+      <th align="right">
+        天川さっこ🐺　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2017年</td>
       <td>2019.06.26</td>
     </tr>
     <tr>
-      <th>あづみ一樹🐻</th>
+      <th align="right">
+        あづみ一樹🐻　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2016年</td>
       <td>2021.01.08</td>
     </tr>
     <tr>
-      <th>白もち桜🌸</th>
+      <th align="right">
+        白もち桜🌸　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2015年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>おもちもなか🐰</th>
+      <th align="right">
+        おもちもなか🐰　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2021年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>ひづき夜宵🎀</th>
+      <th align="right">
+        ひづき夜宵🎀　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2019年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>muku💙</th>
+      <th align="right"
+        >muku💙　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      </th>
       <td>2019年</td>
       <td>-</td>
     </tr>
@@ -692,7 +712,7 @@
 <br>
 
 ## 温泉 ♨　- Hot Spring -
-浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　日田　雲仙　玉名　阿蘇　西表島
+浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
 <br>
 
 ### 温泉むすめ　- Onsen Musume -
