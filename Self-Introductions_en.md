@@ -21,7 +21,7 @@
 <br>
 
 <!--
-## 座右の銘　- Motto -
+## Motto 
 <p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a>（すいてきせきせん）</p>
 <br>
 -->
@@ -50,7 +50,7 @@
 </p>
 <br>
 
-## 好きなもの ⭐　- Like it -
+## Like it ⭐
 <p>
   <b>- Foods & Drinks -</b><br>
   スイーツ全般　紅茶　コーヒー　日本酒
@@ -61,7 +61,7 @@
 </p>
 <br>
 
-## 推しているもの 💗　- FAV. -
+## FAV. 💗
 ### 作品　- Anime, Comics, Novels -
 <!-- タイトルロゴを並べる。公式HPへ飛ばす。 -->
 <details>
@@ -88,7 +88,7 @@
 </details>
 <br>
 
-### キャラクター　- My wife -
+### Characters
 <!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
 
  
@@ -133,7 +133,7 @@
 </details>
 <br>
 
-### 絵師さん　- Illustrators -
+### Illustrators
 <!-- Twitのリンク先を追加して飛べるようにする -->
 <table>
   <thead>
@@ -197,7 +197,7 @@
 </table>
 <br>
 
-### 声優さん　- Voice Actors -
+### Voice Actors
 <table>
   <thead>
     <tr>
@@ -231,7 +231,7 @@
 </table>
 <br>
 
-### 歌手・グループ　- Singers & Groups -
+### Singers & Groups
 <table>
   <thead>
     <tr>
@@ -266,7 +266,7 @@
 </table>
 <br>
 
-### 配信者さん　- Streamers -
+### Live Streamers
 <!-- YouTubeのリンク先を追加して飛べるようにする -->
 <table>
   <thead>
@@ -291,7 +291,7 @@
 </table>
 <br>
 
-## 音ゲー 🎹　- Rhythm Games -
+## Rhythm Games 🎹
 <!-- 機種セルにタイトルロゴを追加する＋公式HPへ飛べるようにする -->
 ### - Arcade -
 <p><b>Started since　2008.08.17</b><br>
@@ -482,7 +482,7 @@
 </table>			
 <br>
 
-## 家庭用ゲーム 🎮　- CS Games -
+## CS Games 🎮
 <!-- 好きな作品だけ記載して、プレイ済み等はスプレッドシートにまとめる -->
 <details>
   <summary>好きなタイトル・やりこんだタイトル　一覧</summary>
@@ -552,7 +552,7 @@
 
 <br>
   
-## アプリゲー 📱　- App Games -
+## App Games 📱
 <table>
   <caption>
     ▼現在プレイ中のタイトル
@@ -644,12 +644,12 @@
 </table>
 <br>
 
-## ソシャゲ 💻　- Social Games -
+## Social Games 💻
 <p>GF(仮)　🔗<a href="http://vcard.ameba.jp/profile?userId=4374025">Account</a></p>
 <p>グラブル　🔗<a href="http://gbf.game.mbga.jp/#profile/18259066">Account</a></p>
 <br>
 
-## RTA 🏆　- Speedrun -
+## Speedrun 🏆
 <p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/">Account</a></p>
 <table>
   <thead>
@@ -677,7 +677,7 @@
 </table>
 <br>
 
-## 美少女ゲーム 🖥　- Eroge & Galge -
+## Eroge & Galge 🖥
 <p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515">Account</a></p>
 <table>
   <tbody>
@@ -713,15 +713,15 @@
 </table>
 <br>
 
-## 旅行 🚋　- Travels -
+## Travels 🚋
 <p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/">経県値マップ 都道府県版</a>（2024/3/10時）</p>
 <br>
 
-## 温泉 ♨　- Hot Spring -
+## Hot Spring ♨
 浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
 <br>
 
-### 温泉むすめ　- Onsen Musume -
+### Onsen Musume
   <p><b>Started since　2021.06.05</b><br>
     🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing">ぽか活まとめ</a></p>
 
