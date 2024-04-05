@@ -1,5 +1,14 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <p align="right"><b>Update since　2024.04.05</b></p>
+<!--
+<p>
+  You're not Japanese?<br>
+  Don't worry. I translated a my profile from Japananese into English.<br>
+  Let's check it out!<br>
+  🔗<a href="Self-Introductions_en.md">Self-Introductions_en.md</a>
+</p>
+<br>
+-->
 
 ### プロフィール 👤　- About Me -
 <!-- Eng Ver. を作成して誘導リンクを追加する -->
