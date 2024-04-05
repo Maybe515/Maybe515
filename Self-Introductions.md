@@ -146,50 +146,50 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th align="right">
-        ★ 茉宮祈芹🍒　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        茉宮祈芹　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2018年</td>
       <td>2020.10.03</td>
     </tr>
     <tr>
-      <th align="right">
-        天川さっこ🐺　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        天川さっこ　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2017年</td>
       <td>2019.06.26</td>
     </tr>
     <tr>
-      <th align="right">
-        あづみ一樹🐻　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        あづみ一樹　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2016年</td>
       <td>2021.01.08</td>
     </tr>
     <tr>
-      <th align="right">
-        白もち桜🌸　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        白もち桜　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2015年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th align="right">
-        おもちもなか🐰　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        おもちもなか　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2021年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th align="right">
-        ひづき夜宵🎀　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        ひづき夜宵　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2019年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th align="right"
-        >muku💙　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+      <th>
+        muku　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2019年</td>
       <td>-</td>
@@ -219,12 +219,12 @@
       <td>-</td>
     </tr>
     <tr>
-      <th>★ 川上とも子</th>
+      <th>川上とも子</th>
       <td>2006年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>★ 堀江由衣</th>
+      <th>堀江由衣</th>
       <td>2013年</td>
       <td><b>【黒ネコ同盟】</b>2020.06.26 (No.14880)</td>
     </tr>
@@ -258,7 +258,7 @@
       <td>-</td>
     </tr>
     <tr>
-      <th>★ 三代目 J Soul Brothers<br>from EXILE TRIBE</th>
+      <th>三代目 J Soul Brothers<br>from EXILE TRIBE</th>
       <td>2015年</td>
       <td><b>【EX Family】</b>2017.07.14 (No.1114564)<br>
       <b>【mate】</b>2022.11.02 (No.JSB0023720)</td>
@@ -279,12 +279,12 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th>★ 兄者弟者</th>
+      <th>兄者弟者</th>
       <td>2010年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>★ 如月ささら</th>
+      <th>如月ささら</th>
       <td>2023年</td>
       <td>2023.03.01</td>
     </tr>
@@ -304,10 +304,10 @@
   </caption>
   <thead>
     <tr>
-      <th>機種</th>
-      <th>バージョン</th>
-      <th>プレイ開始</th>
-      <th>実力</th>
+      <th>Title</th>
+      <th>Version</th>
+      <th>Since</th>
+      <th>Ability</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -362,9 +362,9 @@
   </caption>
   <thead>
     <tr>
-      <th>機種</th>
-      <th>バージョン</th>
-      <th>プレイ開始</th>
+      <th>Title</th>
+      <th>Version</th>
+      <th>Since</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -438,6 +438,13 @@
       <td>無印</td>
       <td>2024.03.22</td>
     </tr>
+    <!--
+    <tr>
+      <th>ポラリスコード</th>
+      <td>無印</td>
+      <td>2024.04.06</td>
+    </tr>
+    -->
   </tbody>
 </table>
 <br>
@@ -446,9 +453,9 @@
 <table>
   <thead>
     <tr>
-      <th>機種</th>
-      <th>プレイ環境</th>
-      <th>実力</th>
+      <th>Title</th>
+      <th>Playing environment</th>
+      <th>Ability</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -553,9 +560,9 @@
   </caption>
   <thead>
     <tr>
-      <th>ゲーム名</th>
-      <th>ID</th>
-      <th>プレイ開始</th>
+      <th>Title</th>
+      <th>UserID</th>
+      <th>Since</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -578,9 +585,9 @@
   </caption>
   <thead>
     <tr>
-      <th>ゲーム名</th>
-      <th>ID (メイン)</th>
-      <th>ID (サブ)</th>
+      <th>Title</th>
+      <th>UserID (Main)</th>
+      <th>UserID (Sub)</th>
     </tr>
   </thead>
   <tbody align="center">
@@ -676,7 +683,7 @@
 <table>
   <tbody>
     <tr>
-      <th></th>
+      <th>Items</th>
       <th>Eroge</th>
       <th>Galge</th>
     </tr>
