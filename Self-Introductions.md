@@ -11,12 +11,10 @@
 -->
 
 ### プロフィール 👤　- About Me -
-<!-- Eng Ver. を作成して誘導リンクを追加する -->
 <p>あちこち出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
-<!-- 外窓で開くようにする -->
 <ul>
   <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515">こちら</a> にまとめてあります。</p></li>
   <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515">こちら</a></p></li>
@@ -99,9 +97,6 @@
 <br>
 
 ### キャラクター　- My wife -
-<!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
-
- 
 <p>
   <b>- Anime, Manga -</b><br>
   <a href="https://girls-und-panzer.jp/chara/anchovy/"><img style="margin: 10px" src="images/icons/anchovy.png" alt="anchovy" height="70" /></a>
@@ -118,6 +113,7 @@
 
 <p>
   <b>- Game -</b><br>
+  <!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
   <!--
   <a href=""><img style="margin: 10px" src="images/.png" alt="" height="70" /></a>
  -->
@@ -144,7 +140,6 @@
 <br>
 
 ### 絵師さん　- Illustrators -
-<!-- Twitのリンク先を追加して飛べるようにする -->
 <table>
   <thead>
     <tr>
