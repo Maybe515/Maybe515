@@ -104,16 +104,16 @@
  
 <p>
   <b>- Anime, Manga -</b><br>
-  <a href=""><img style="margin: 10px" src="images/icons/anchovy.png" alt="anchovy" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/argo.png" alt="argo" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/chino.png" alt="chino" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/freiren.png" alt="freiren" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/konata.png" alt="konata" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/kyoko.png" alt="kyoko" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/laura.png" alt="laura" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/maki.png" alt="maki" height="70" /></a>
+  <a href="https://girls-und-panzer.jp/chara/anchovy/"><img style="margin: 10px" src="images/icons/anchovy.png" alt="anchovy" height="70" /></a>
+  <a href="https://sao-p.net/intro-character/character/#argo"><img style="margin: 10px" src="images/icons/argo.png" alt="argo" height="70" /></a>
+  <a href="https://gochiusa.com/chara/chino.html"><img style="margin: 10px" src="images/icons/chino.png" alt="chino" height="70" /></a>
+  <a href="https://frieren-anime.jp/character/chara_group1/1-1/"><img style="margin: 10px" src="images/icons/freiren.png" alt="freiren" height="70" /></a>
+  <a href="http://www.lucky-ch.com/luckypedia/index.html#chara"><img style="margin: 10px" src="images/icons/konata.png" alt="konata" height="70" /></a>
+  <a href="https://www.madoka-magica.com/tv/character/"><img style="margin: 10px" src="images/icons/kyoko.png" alt="kyoko" height="70" /></a>
+  <a href="https://www.tbs.co.jp/anime/is/chara/chara06.html"><img style="margin: 10px" src="images/icons/laura.png" alt="laura" height="70" /></a>
+  <a href="https://www.lovelive-anime.jp/otonokizaka/member/member06.html"><img style="margin: 10px" src="images/icons/maki.png" alt="maki" height="70" /></a>
   <a href=""><img style="margin: 10px" src="images/icons/ruriruri.png" alt="ruriruri" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/yami.png" alt="yami" height="70" /></a>
+  <a href="https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18"><img style="margin: 10px" src="images/icons/yami.png" alt="yami" height="70" /></a>
 </p>
 
 <p>
