@@ -1,5 +1,5 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
-<p align="right"><b>Update since　2024.04.05</b></p>
+<p align="right"><b>Update since　2024.04.08</b></p>
 <!--
 <p>
   You're not Japanese?<br>
@@ -99,23 +99,23 @@
 ### キャラクター　- My wife -
 <p>
   <b>- Anime, Manga -</b><br>
-  <a href="https://girls-und-panzer.jp/chara/anchovy/"><img style="margin: 10px" src="images/icons/anchovy.png" alt="anchovy" height="70" /></a>
-  <a href="https://sao-p.net/intro-character/character/#argo"><img style="margin: 10px" src="images/icons/argo.png" alt="argo" height="70" /></a>
-  <a href="https://gochiusa.com/chara/chino.html"><img style="margin: 10px" src="images/icons/chino.png" alt="chino" height="70" /></a>
-  <a href="https://frieren-anime.jp/character/chara_group1/1-1/"><img style="margin: 10px" src="images/icons/freiren.png" alt="freiren" height="70" /></a>
-  <a href="http://www.lucky-ch.com/luckypedia/index.html#chara"><img style="margin: 10px" src="images/icons/konata.png" alt="konata" height="70" /></a>
-  <a href="https://www.madoka-magica.com/tv/character/"><img style="margin: 10px" src="images/icons/kyoko.png" alt="kyoko" height="70" /></a>
-  <a href="https://www.tbs.co.jp/anime/is/chara/chara06.html"><img style="margin: 10px" src="images/icons/laura.png" alt="laura" height="70" /></a>
-  <a href="https://www.lovelive-anime.jp/otonokizaka/member/member06.html"><img style="margin: 10px" src="images/icons/maki.png" alt="maki" height="70" /></a>
-  <a href=""><img style="margin: 10px" src="images/icons/ruriruri.png" alt="ruriruri" height="70" /></a>
-  <a href="https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18"><img style="margin: 10px" src="images/icons/yami.png" alt="yami" height="70" /></a>
+  <a href="https://girls-und-panzer.jp/chara/anchovy/"><img src="images/icons/anchovy.png" alt="anchovy" height="70px" /></a>
+  <a href="https://sao-p.net/intro-character/character/#argo"><img src="images/icons/argo.png" alt="argo" height="70px" /></a>
+  <a href="https://gochiusa.com/chara/chino.html"><img src="images/icons/chino.png" alt="chino" height="70px" /></a>
+  <a href="https://frieren-anime.jp/character/chara_group1/1-1/"><img src="images/icons/freiren.png" alt="freiren" height="70px" /></a>
+  <a href="http://www.lucky-ch.com/luckypedia/index.html#chara"><img src="images/icons/konata.png" alt="konata" height="70px" /></a>
+  <a href="https://www.madoka-magica.com/tv/character/"><img src="images/icons/kyoko.png" alt="kyoko" height="70px" /></a>
+  <a href="https://www.tbs.co.jp/anime/is/chara/chara06.html"><img src="images/icons/laura.png" alt="laura" height="70px" /></a>
+  <a href="https://www.lovelive-anime.jp/otonokizaka/member/member06.html"><img src="images/icons/maki.png" alt="maki" height="70px" /></a>
+  <a href=""><img src="images/icons/ruriruri.png" alt="ruriruri" height="70px" /></a>
+  <a href="https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18"><img src="images/icons/yami.png" alt="yami" height="70px" /></a>
 </p>
 
 <p>
   <b>- Game -</b><br>
   <!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
   <!--
-  <a href=""><img style="margin: 10px" src="images/.png" alt="" height="70" /></a>
+  <a href=""><img src="images/.png" alt="" height="70px" /></a>
  -->
 </p>
 
@@ -723,9 +723,15 @@
 <br>
 
 ## 温泉 ♨　- Hot Spring -
-浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
+浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　舘山寺　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
 <br>
 
 ### 温泉むすめ　- Onsen Musume -
   <p><b>Started since　2021.06.05</b><br>
     🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing">ぽか活まとめ</a></p>
+  <p>
+    <a href=""><img src="images/icons/hitoka.png" alt="hitoka" height="70px" /></a>
+    <a href=""><img src="images/icons/nodoka.png" alt="nodoka" height="70px" /></a>
+    <a href=""><img src="images/icons/yaeka.png" alt="yaeka" height="70px" /></a>
+    <a href=""><img src="images/icons/mitsuba.png" alt="mitsuba" height="70px" /></a>
+  </p>
