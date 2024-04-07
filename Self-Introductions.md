@@ -156,49 +156,49 @@
   <tbody align="center">
     <tr>
       <th>
-        茉宮祈芹　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        茉宮祈芹　<a href="https://twitter.com/kiseri0502"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2018年</td>
       <td>2020.10.03</td>
     </tr>
     <tr>
       <th>
-        天川さっこ　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        天川さっこ　<a href="https://twitter.com/amakawasakko"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2017年</td>
       <td>2019.06.26</td>
     </tr>
     <tr>
       <th>
-        あづみ一樹　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        あづみ一樹　<a href="https://twitter.com/kazukiadumi"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2016年</td>
       <td>2021.01.08</td>
     </tr>
     <tr>
       <th>
-        白もち桜　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        白もち桜　<a href="https://twitter.com/sakura_siromoti"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2015年</td>
       <td>-</td>
     </tr>
     <tr>
       <th>
-        おもちもなか　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        おもちもなか　<a href="https://twitter.com/monaka_0326_"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2021年</td>
       <td>-</td>
     </tr>
     <tr>
       <th>
-        ひづき夜宵　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        ひづき夜宵　<a href="https://twitter.com/hiduki_yayoi"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2019年</td>
       <td>-</td>
     </tr>
     <tr>
       <th>
-        muku　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
+        muku　<a href="https://twitter.com/muku_apupop"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
       </th>
       <td>2019年</td>
       <td>-</td>
