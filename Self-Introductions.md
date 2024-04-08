@@ -345,43 +345,43 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th>jubeat</th>
+      <th><a href=""><img src="images/logos/jubeat.png" alt="jubeat" height="70px" /></a></th>
       <td>saucer</td>
       <td>2013.10.13</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>SOUND VOLTEX</th>
+      <th><a href=""><img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px" /></a></th>
       <td>Ⅱ -infinite infection-</td>
       <td>2014.04.27</td>
       <td>VF 8.453</td>
     </tr>
     <tr>
-      <th>beatmaniaⅡDX</th>
+      <th><a href=""><img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px" /></a></th>
       <td>SPADA</td>
       <td>2014.04.27</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>BeatStream</th>
+      <th><a href=""><img src="images/logos/BeatStream.png" alt="beatstream" height="70px" /></a></th>
       <td>無印</td>
       <td>2014.10.23</td>
       <td>Rank6</td>
     </tr>
     <tr>
-      <th>CHUNITHM</th>
+      <th><a href=""><img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px" /></a></th>
       <td>無印</td>
       <td>2015.12.10</td>
       <td>max16.32</td>
     </tr>
     <tr>
-      <th>オンゲキ</th>
+      <th><a href=""><img src="images/logos/ONGEKI.png" alt="ongeki" height="70px" /></a></th>
       <td>無印</td>
       <td>2018.08.11</td>
       <td>max9.62</td>
     </tr>
     <tr>
-      <th>MUSIC DIVER</th>
+      <th><a href=""><img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px" /></a></th>
       <td>無印</td>
       <td>2023.05.12</td>
       <td>max5229.47</td>
@@ -402,82 +402,80 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th>pop'n music</th>
+      <th><a href=""><img src="images/logos/pop'n_music.png" alt="pop'n_music" height="70px" /></a></th>
       <td>16 PARTY♪</td>
       <td>2008.08.17</td>
     </tr>
     <tr>
-      <th>太鼓の達人</th>
+      <th><a href=""><img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" height="70px" /></a></th>
       <td>11</td>
       <td>2008.??.??</td>
     </tr>
     <tr>
-      <th>REFLECT BEAT</th>
+      <th><a href=""><img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" height="70px" /></a></th>
       <td>groovin'!!</td>
       <td>2014.10.23</td>
     </tr>
     <tr>
-      <th>初音ミク Project DIVA Arcade</th>
+      <th><a href=""><img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" height="70px" /></a></th>
       <td>Future Tone</td>
       <td>2014.10.23</td>
     </tr>
     <tr>
-      <th>GROOVE COASTER</th>
+      <th><a href=""><img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" height="70px" /></a></th>
       <td>EX</td>
       <td>2014.12.05</td>
     </tr>
     <tr>
-      <th>GITADORA</th>
+      <th><a href=""><img src="images/logos/GITADORA.png" alt="gitadora" height="70px" /></a></th>
       <td>OverDrive</td>
       <td>2014.??.??</td>
     </tr>
     <tr>
-      <th>Dance Dance Revolution</th>
+      <th><a href=""><img src="images/logos/DanceDanceRevolution.png" alt="ddr" height="70px" /></a></th>
       <td>2013</td>
       <td>2014.??.??</td>
     </tr>
     <tr>
-      <th>シンクロニカ</th>
+      <th><a href=""><img src="images/logos/Synchronica.png" alt="synchronica" height="70px" /></a></th>
       <td>-</td>
       <td>2015.??.??</td>
     </tr>
     <tr>
-      <th>MÚSECA</th>
+      <th><a href=""><img src="images/logos/MÚSECA.png" alt="museca" height="70px" /></a></th>
       <td>無印</td>
       <td>2016.02.14</td>
     </tr>
     <tr>
-      <th>crossbeats REV.</th>
+      <th><a href=""><img src="images/logos/crossbeats_REV.png" alt="croosbeats" height="70px" /></a></th>
       <td>無印</td>
       <td>2016.03.16</td>
     </tr>
     <tr>
-      <th>maimai</th>
+      <th><a href=""><img src="images/logos/maimai.png" alt="maimai" height="70px" /></a></th>
       <td>PiNK</td>
       <td>2016.05.20</td>
     </tr>
     <tr>
-      <th>ノスタルジア</th>
+      <th><a href=""><img src="images/logos/NOSTALGIA.png" alt="nostalgia" height="70px" /></a></th>
       <td>無印</td>
       <td>2017.03.13</td>
     </tr>
     <tr>
-      <th>CHRONO CIRCLE</th>
+      <th><a href=""><img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" height="70px" /></a></th>
       <td>無印</td>
       <td>2023.07.05</td>
     </tr>
     <tr>
-      <th>DANCERUSH STARDOM</th>
+      <th><a href=""><img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" height="70px" /></a></th>
       <td>無印</td>
       <td>2024.03.22</td>
     </tr>
-    <!--
     <tr>
-      <th>ポラリスコード</th>
+      <th><a href=""><img src="images/logos/Polaris_Chord.png" alt="polarischord" height="70px" /></a></th>
       <td>無印</td>
       <td>2024.04.06</td>
     </tr>
-    -->
   </tbody>
 </table>
 <br>
