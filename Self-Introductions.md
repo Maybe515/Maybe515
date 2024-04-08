@@ -117,33 +117,33 @@
   <!--
   <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
    -->
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/mutsumi.png" alt="mutsumi" height="70px" /></a>
+  <a href=""><img src="images/icons/yukiho.png" alt="yukiho" height="70px" /></a>
+  <a href=""><img src="images/icons/cafe.png" alt="cafe" height="70px" /></a>
+  <a href=""><img src="images/icons/scarlet.png" alt="scarlet" height="70px" /></a>
+  <a href=""><img src="images/icons/tachyon.png" alt="tachyon" height="70px" /></a>
+  <a href=""><img src="images/icons/taishin.png" alt="taishin" height="70px" /></a>
+  <a href=""><img src="images/icons/hibiki.png" alt="hibiki" height="70px" /></a>
+  <a href=""><img src="images/icons/zuiho.png" alt="zuiho" height="70px" /></a>
+  <a href=""><img src="images/icons/zuikaku.png" alt="zuikaku" height="70px" /></a>
+  <a href=""><img src="images/icons/kuro.png" alt="kuro" height="70px" /></a>
+  <a href=""><img src="images/icons/chall.png" alt="chall" height="70px" /></a>
+  <a href=""><img src="images/icons/fuyuko.png" alt="fuyuko" height="70px" /></a>
+  <a href=""><img src="images/icons/madoka.png" alt="madoka" height="70px" /></a>
+  <a href=""><img src="images/icons/murasame.png" alt="murasame" height="70px" /></a>
+  <a href=""><img src="images/icons/monica.png" alt="monica" height="70px" /></a>
+  <a href=""><img src="images/icons/flandre.png" alt="flandre" height="70px" /></a>
+  <a href=""><img src="images/icons/remilia.png" alt="remilia" height="70px" /></a>
+  <a href=""><img src="images/icons/anko.png" alt="anko" height="70px" /></a>
+  <a href=""><img src="images/icons/neneka.png" alt="neneka" height="70px" /></a>
+  <a href=""><img src="images/icons/saren.png" alt="saren" height="70px" /></a>
+  <a href=""><img src="images/icons/hina.png" alt="hina" height="70px" /></a>
+  <a href=""><img src="images/icons/iori.png" alt="iori" height="70px" /></a>
+  <a href=""><img src="images/icons/neru.png" alt="neru" height="70px" /></a>
+  <a href=""><img src="images/icons/ui.png" alt="ui" height="70px" /></a>
+  <a href=""><img src="images/icons/kirara.png" alt="kirara" height="70px" /></a>
+  <a href=""><img src="images/icons/nanaka.png" alt="nanaka" height="70px" /></a>
+  <a href=""><img src="images/icons/yuzu.png" alt="yuzu" height="70px" /></a>
 </p>
 
 <details>
@@ -758,8 +758,9 @@
 ### 温泉むすめ　- Onsen Musume -
   <p><b>Started since　2021.06.05</b><br>
     🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing">ぽか活まとめ</a></p>
+  <br>
   <p>
-    <b>- 推しむすめ -</b>
+    <b>- 推しむすめ -</b><br>
     <a href="https://onsen-musume.jp/character/miyahama_hitoka"><img src="images/icons/hitoka.png" alt="hitoka" height="70px" /></a>
     <a href="https://onsen-musume.jp/character/nyuto_nodoka"><img src="images/icons/nodoka.png" alt="nodoka" height="70px" /></a>
     <a href="https://onsen-musume.jp/character/iriomotejima_yaeka"><img src="images/icons/yaeka.png" alt="yaeka" height="70px" /></a>
