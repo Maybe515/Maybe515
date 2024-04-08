@@ -345,43 +345,43 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th><a href=""><img src="images/logos/jubeat.png" alt="jubeat" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/jubeat/"><img src="images/logos/jubeat.png" alt="jubeat" height="70px" /></a></th>
       <td>saucer</td>
       <td>2013.10.13</td>
       <td>-</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/sdvx/"><img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px" /></a></th>
       <td>Ⅱ -infinite infection-</td>
       <td>2014.04.27</td>
       <td>VF 8.453</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/2dx/"><img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px" /></a></th>
       <td>SPADA</td>
       <td>2014.04.27</td>
       <td>-</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/BeatStream.png" alt="beatstream" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/beatstream/index.html"><img src="images/logos/BeatStream.png" alt="beatstream" height="70px" /></a></th>
       <td>無印</td>
       <td>2014.10.23</td>
       <td>Rank6</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px" /></a></th>
+      <th><a href="https://chunithm.sega.jp/"><img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px" /></a></th>
       <td>無印</td>
       <td>2015.12.10</td>
       <td>max16.32</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/ONGEKI.png" alt="ongeki" height="70px" /></a></th>
+      <th><a href="https://ongeki.sega.jp/"><img src="images/logos/ONGEKI.png" alt="ongeki" height="70px" /></a></th>
       <td>無印</td>
       <td>2018.08.11</td>
       <td>max9.62</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px" /></a></th>
+      <th><a href="https://musicdiver.jp/"><img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px" /></a></th>
       <td>無印</td>
       <td>2023.05.12</td>
       <td>max5229.47</td>
@@ -402,62 +402,62 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th><a href=""><img src="images/logos/pop'n_music.png" alt="pop'n_music" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/popn/"><img src="images/logos/pop'n_music.png" alt="pop'n_music" height="70px" /></a></th>
       <td>16 PARTY♪</td>
       <td>2008.08.17</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" height="70px" /></a></th>
+      <th><a href="https://taiko.namco-ch.net/taiko/"><img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" height="70px" /></a></th>
       <td>11</td>
       <td>2008.??.??</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/reflec/index.html"><img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" height="70px" /></a></th>
       <td>groovin'!!</td>
       <td>2014.10.23</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" height="70px" /></a></th>
+      <th><a href="http://miku.sega.jp/arcade/"><img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" height="70px" /></a></th>
       <td>Future Tone</td>
       <td>2014.10.23</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" height="70px" /></a></th>
+      <th><a href="https://groovecoaster.com/"><img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" height="70px" /></a></th>
       <td>EX</td>
       <td>2014.12.05</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/GITADORA.png" alt="gitadora" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/gfdm/"><img src="images/logos/GITADORA.png" alt="gitadora" height="70px" /></a></th>
       <td>OverDrive</td>
       <td>2014.??.??</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/DanceDanceRevolution.png" alt="ddr" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/ddr/"><img src="images/logos/DanceDanceRevolution.png" alt="ddr" height="70px" /></a></th>
       <td>2013</td>
       <td>2014.??.??</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/Synchronica.png" alt="synchronica" height="70px" /></a></th>
+      <th><a href="https://bandainamco-am.co.jp/am/vg/Synchronica/"><img src="images/logos/Synchronica.png" alt="synchronica" height="70px" /></a></th>
       <td>-</td>
       <td>2015.??.??</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/MÚSECA.png" alt="museca" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/museca/"><img src="images/logos/MÚSECA.png" alt="museca" height="70px" /></a></th>
       <td>無印</td>
       <td>2016.02.14</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/crossbeats_REV.png" alt="croosbeats" height="70px" /></a></th>
+      <th><a href="https://www.capcom.co.jp/arcade/rev/"><img src="images/logos/crossbeats_REV.png" alt="croosbeats" height="70px" /></a></th>
       <td>無印</td>
       <td>2016.03.16</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/maimai.png" alt="maimai" height="70px" /></a></th>
+      <th><a href="https://maimai.sega.jp/"><img src="images/logos/maimai.png" alt="maimai" height="70px" /></a></th>
       <td>PiNK</td>
       <td>2016.05.20</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/NOSTALGIA.png" alt="nostalgia" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/nostalgia/"><img src="images/logos/NOSTALGIA.png" alt="nostalgia" height="70px" /></a></th>
       <td>無印</td>
       <td>2017.03.13</td>
     </tr>
@@ -467,12 +467,12 @@
       <td>2023.07.05</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/dan/"><img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" height="70px" /></a></th>
       <td>無印</td>
       <td>2024.03.22</td>
     </tr>
     <tr>
-      <th><a href=""><img src="images/logos/Polaris_Chord.png" alt="polarischord" height="70px" /></a></th>
+      <th><a href="https://p.eagate.573.jp/game/polarischord/pc/index.html"><img src="images/logos/PolarisChord.png" alt="polarischord" height="70px" /></a></th>
       <td>無印</td>
       <td>2024.04.06</td>
     </tr>
@@ -764,3 +764,60 @@
     <a href="https://onsen-musume.jp/character/iriomotejima_yaeka"><img src="images/icons/yaeka.png" alt="yaeka" height="70px" /></a>
     <a href="https://onsen-musume.jp/character/hirayu_mitsuba"><img src="images/icons/mitsuba.png" alt="mitsuba" height="70px" /></a>
   </p>
+
+<!--
+<a href=""><img src="images/logos/.png" alt="" height="70px" /></a>
+
+mutsumi.png
+yukiho.png
+cafe.png
+scarlet.png
+tachyon.png
+taishin.png
+hibiki.png
+zuiho.png
+zuikaku.png
+kuro.png
+chall.png
+fuyuko.png
+madoka.png
+murasame.png
+monica.png
+flandre.png
+remilia.png
+anko.png
+neneka.png
+saren.png
+hina.png
+iori.png
+neru.png
+ui.png
+kirara.png
+nanaka.png
+yuzu.png
+
+
+jubeat.png
+SOUND_VOLTEX.png
+beatmania_iidx.png
+BeatStream.png
+CHUNITHM.png
+ONGEKI.png
+MUSIC_DIVER.png
+
+pop'n_music.png
+Taiko_no_Tatsujin.png
+REFLECT_BEAT.png
+HatsuneMiku_DIVA_AC.png
+GROOVE_COASTER.png
+GITADORA.png
+DanceDanceRevolution.png
+Synchronica.png
+MÚSECA.png
+crossbeats_REV.png
+maimai.png
+NOSTALGIA.png
+CHRONO_CIRCLE.png
+DANCERUSH_STARDOM.png
+PolarisChord.png
+-->
