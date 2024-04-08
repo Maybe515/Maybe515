@@ -115,8 +115,35 @@
   <b>- Game -</b><br>
   <!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
   <!--
-  <a href=""><img src="images/.png" alt="" height="70px" /></a>
- -->
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+   -->
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
 </p>
 
 <details>
@@ -283,12 +310,14 @@
   </thead>
   <tbody align="center">
     <tr>
-      <th>兄者弟者</th>
+      <th>
+        兄者弟者　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15" / ></a>
+      </th>
       <td>2010年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>如月ささら</th>
+      <th>如月ささら　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15" / ></a></th>
       <td>2023年</td>
       <td>2023.03.01</td>
     </tr>
@@ -730,8 +759,9 @@
   <p><b>Started since　2021.06.05</b><br>
     🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing">ぽか活まとめ</a></p>
   <p>
-    <a href=""><img src="images/icons/hitoka.png" alt="hitoka" height="70px" /></a>
-    <a href=""><img src="images/icons/nodoka.png" alt="nodoka" height="70px" /></a>
-    <a href=""><img src="images/icons/yaeka.png" alt="yaeka" height="70px" /></a>
-    <a href=""><img src="images/icons/mitsuba.png" alt="mitsuba" height="70px" /></a>
+    <b>- 推しむすめ -</b>
+    <a href="https://onsen-musume.jp/character/miyahama_hitoka"><img src="images/icons/hitoka.png" alt="hitoka" height="70px" /></a>
+    <a href="https://onsen-musume.jp/character/nyuto_nodoka"><img src="images/icons/nodoka.png" alt="nodoka" height="70px" /></a>
+    <a href="https://onsen-musume.jp/character/iriomotejima_yaeka"><img src="images/icons/yaeka.png" alt="yaeka" height="70px" /></a>
+    <a href="https://onsen-musume.jp/character/hirayu_mitsuba"><img src="images/icons/mitsuba.png" alt="mitsuba" height="70px" /></a>
   </p>
