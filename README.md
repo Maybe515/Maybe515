@@ -24,6 +24,7 @@
   
   <!-- GitHub Stats Card -->
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Maybe515&theme=onedark&show_icons=true"/>
+  <img alt="github stats" height="150px" src="https://bad-apple-github-readme-stats.vercel.app/api?show_bg=1&username=Maybe515"/>
 </p>
 
 <!-- GitHub Profile Trophy -->
@@ -84,27 +85,26 @@
   <summary>Skillmap</summary>
   <ul>
     <b>- Software -</b>
-    <li>プログラミング(VBA, VB, ラダー)</li>
+    <li>Programming (VBA, VB, Ladder)</li>
     <li>CAD</li>
-    <li>IC制御 (ラズパイ)</li>
-    <li>アプリ開発 (Android)</li>
-    <li>SSG自作</li>
+    <li>App development (Android)</li>
+    <li>Made a SSG file</li>
     <br>
     <b>- Hardware -</b>
-    <li>ソルダリング</li>
-    <li>修理 (ノートPC, スマホ)</li>
-    <li>電気工事</li>
-    <li>自作 (PC, マルチテスタ, 電子オルゴール)</li>
-    <li>シーケンス制御 (MELSEC)</li>
+    <li>Soldering</li>
+    <li>Repair (Note PC, iPhone)</li>
+    <li>Electrical construction</li>
+    <li>Hand-made (PC, Multimeter, Electronic Music box)</li>
+    <li>Sequential Control (MELSEC)</li>
     <br>
     <b>- Create -</b>
-    <li>お絵かき</li>
-    <li>消しはん作り</li>
-    <li>切り絵</li>
-    <li>動画編集</li>
-    <li>画像加工</li>
-    <li>3DCG</li>
-    <li>MMD</li>
-    <li>アクセサリー作り</li>
+    <li>Illustration</li>
+    <li>Made a Eraser Stamp</li>
+    <li>Paper-cutting</li>
+    <li>Video editing</li>
+    <li>Image editing</li>
+    <li>3D Modeling</li>
+    <li>Miku Miku Dance</li>
+    <li>Made a Accessory</li>
   </ul>
 </details>
