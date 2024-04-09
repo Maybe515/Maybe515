@@ -71,11 +71,30 @@
 
 ## 推しているもの 💗　- FAV. -
 ### 作品　- Anime, Comics, Novels -
-<!-- タイトルロゴを並べる。公式HPへ飛ばす。 -->
+<!--
+タイトルロゴを並べる。公式HPへ飛ばす。
+<a href=""><img src="images/logos/.png" alt="" height="70px" /></a>
+
+<a href=""><img src="images/logos/Angel_Beats!.png" alt="AB" height="70px" /></a>
+<a href=""><img src="images/logos/IDOL_M@STER.png" alt="im@s" height="70px" /></a>
+<a href=""><img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px" /></a>
+<a href=""><img src="images/logos/Yamato.png" alt="yamato" height="70px" /></a>
+<a href=""><img src="images/logos/Uruseiyatsura.png" alt="uruseiyatsura" height="70px" /></a>
+<a href=""><img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px" /></a>
+<a href=""><img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px" /></a>
+<a href=""><img src="images/logos/City_Hunter.png" alt="cityhunter" height="70px" /></a>
+<a href=""><img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px" /></a>
+<a href=""><img src="images/logos/Sailor_Moon.png" alt="sailormoon" height="70px" /></a>
+<a href=""><img src="images/logos/Madoka_Magica.png" alt="madomagi" height="70px" /></a>
+<a href=""><img src="images/logos/Shugogetten.png" alt="shugogetten" height="70px" /></a>
+<a href=""><img src="images/logos/Yatogame-chan.png" alt="yatogame-chan" height="70px" /></a>
+<a href=""><img src="images/logos/Lucky_Star.png" alt="luckystar" height="70px" /></a>
+<a href=""><img src="images/logos/Love_Live!.png" alt="lovelive" height="70px" /></a>
+-->
+
 <details>
   <summary>好きな作品　一覧</summary>
   <ul>
-    <li>AIR</li>
     <li>AngelBeats!</li>
     <li>アイマス(765)</li>
     <li>インフィニットストラトス</li>
@@ -111,12 +130,12 @@
   <a href="https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18"><img src="images/icons/yami.png" alt="yami" height="70px" /></a>
 </p>
 
+<!--
+キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。
+<a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+  
 <p>
-  <b>- Game -</b><br>
-  <!-- キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。 -->
-  <!--
-  <a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
-   -->
+  <b>- Game -</b><br> 
   <a href=""><img src="images/icons/mutsumi.png" alt="mutsumi" height="70px" /></a>
   <a href=""><img src="images/icons/yukiho.png" alt="yukiho" height="70px" /></a>
   <a href=""><img src="images/icons/cafe.png" alt="cafe" height="70px" /></a>
@@ -145,6 +164,7 @@
   <a href=""><img src="images/icons/nanaka.png" alt="nanaka" height="70px" /></a>
   <a href=""><img src="images/icons/yuzu.png" alt="yuzu" height="70px" /></a>
 </p>
+-->
 
 <details>
   <summary>ゲーム</summary>
