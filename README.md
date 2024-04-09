@@ -24,7 +24,6 @@
   
   <!-- GitHub Stats Card -->
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Maybe515&theme=onedark&show_icons=true"/>
-  <img alt="github stats" height="150px" src="https://bad-apple-github-readme-stats.vercel.app/api?show_bg=1&username=Maybe515"/>
 </p>
 
 <!-- GitHub Profile Trophy -->
@@ -66,7 +65,7 @@
 <br>
 <b>- Others -</b>
 <details>
-  <summary>License</summary>
+  <summary>License (Japanese)</summary>
   <ul>
     <b>【国家資格】</b>
     <li>第二種電気工事士</li>
