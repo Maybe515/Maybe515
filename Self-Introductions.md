@@ -22,7 +22,7 @@
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
-<p>某エロゲブランドとは関係ありません。</p>
+<p>※某エロゲブランドとは関係ありません。</p>
 <p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
   空き瓶を探しています。未だに見つかってません。情報求厶…</p>
 <img alt="meibi" height="150px" src="images/meibi.jpg">
@@ -77,19 +77,19 @@
 
 <a href=""><img src="images/logos/Angel_Beats!.png" alt="AB" height="70px" /></a>
 <a href=""><img src="images/logos/IDOL_M@STER.png" alt="im@s" height="70px" /></a>
-<a href=""><img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px" /></a>
+<a href="https://www.tbs.co.jp/anime/is/"><img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px" /></a>
 <a href=""><img src="images/logos/Yamato.png" alt="yamato" height="70px" /></a>
 <a href=""><img src="images/logos/Uruseiyatsura.png" alt="uruseiyatsura" height="70px" /></a>
 <a href=""><img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px" /></a>
-<a href=""><img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px" /></a>
+<a href="https://gochiusa.com/"><img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px" /></a>
 <a href=""><img src="images/logos/City_Hunter.png" alt="cityhunter" height="70px" /></a>
-<a href=""><img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px" /></a>
+<a href="https://frieren-anime.jp/"><img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px" /></a>
 <a href=""><img src="images/logos/Sailor_Moon.png" alt="sailormoon" height="70px" /></a>
-<a href=""><img src="images/logos/Madoka_Magica.png" alt="madomagi" height="70px" /></a>
+<a href="https://www.madoka-magica.com/tv/"><img src="images/logos/Madoka_Magica.png" alt="madomagi" height="70px" /></a>
 <a href=""><img src="images/logos/Shugogetten.png" alt="shugogetten" height="70px" /></a>
 <a href=""><img src="images/logos/Yatogame-chan.png" alt="yatogame-chan" height="70px" /></a>
-<a href=""><img src="images/logos/Lucky_Star.png" alt="luckystar" height="70px" /></a>
-<a href=""><img src="images/logos/Love_Live!.png" alt="lovelive" height="70px" /></a>
+<a href="http://www.lucky-ch.com/"><img src="images/logos/Lucky_Star.png" alt="luckystar" height="70px" /></a>
+<a href="https://www.lovelive-anime.jp/"><img src="images/logos/Love_Live!.png" alt="lovelive" height="70px" /></a>
 -->
 
 <details>
