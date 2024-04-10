@@ -704,6 +704,7 @@
 ## RTA 🏆　- Speedrun -
 <p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/">Account</a></p>
 <table>
+  <caption>▼以下録画していないため、非公式記録</caption>
   <thead>
     <tr>
       <th>Title (Region) / Hard</th>
