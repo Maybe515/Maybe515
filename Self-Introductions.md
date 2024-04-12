@@ -93,7 +93,7 @@
 -->
 
 <details>
-  <summary>好きな作品　一覧</summary>
+  <summary>好きな作品</summary>
   <ul>
     <li>AngelBeats!</li>
     <li>アイマス(765)</li>
@@ -318,7 +318,7 @@
 </table>
 <br>
 
-### 配信者さん　- Streamers -
+### 配信者さん　- Live Streamers -
 <!-- YouTubeのリンク先を追加して飛べるようにする -->
 <table>
   <thead>
@@ -344,6 +344,11 @@
   </tbody>
 </table>
 <br>
+
+<!--
+## イラスト活動　- Illustrations -
+<p>Drawed since 2007.</p>
+-->
 
 ## 音ゲー 🎹　- Rhythm Games -
 <!-- 機種セルにタイトルロゴを追加する＋公式HPへ飛べるようにする -->
@@ -537,7 +542,7 @@
 ## 家庭用ゲーム 🎮　- CS Games -
 <!-- 好きな作品だけ記載して、プレイ済み等はスプレッドシートにまとめる -->
 <details>
-  <summary>好きなタイトル・やりこんだタイトル　一覧</summary>
+  <summary>好きなタイトル・やりこんだタイトル</summary>
   <ul>
     <li>スーパーメトロイド（SFC）</li>
     <li>ゼルダの伝説 神トラ（SFC）</li>
@@ -704,7 +709,7 @@
 ## RTA 🏆　- Speedrun -
 <p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/">Account</a></p>
 <table>
-  <caption>▼以下録画していないため、非公式記録</caption>
+  <caption>▼申請していない非公式記録</caption>
   <thead>
     <tr>
       <th>Title (Region) / Hard</th>
@@ -771,7 +776,10 @@
 <br>
 
 ## 温泉 ♨　- Hot Spring -
-浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　舘山寺　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
+<p>
+  <b>今までに訪れた温泉郷<b><br>
+  浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　舘山寺　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
+</p>
 <br>
 
 ### 温泉むすめ　- Onsen Musume -
