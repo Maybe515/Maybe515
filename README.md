@@ -80,6 +80,7 @@
     <li>英検2級</li>
   </ul>
 </details>
+<!-- スキルマップをグラフで表示できるようにする -->
 <details>
   <summary>Skillmap</summary>
   <ul>
