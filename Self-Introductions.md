@@ -774,14 +774,11 @@
 <br>
 
 ## 旅行 🚋　- Travels -
-<p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/">経県値マップ 都道府県版</a>（2024/3/10時）</p>
+<p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/">経県値マップ 都道府県版</a></p>
 <br>
 
 ## 温泉 ♨　- Hot Spring -
-<p>
-  <b>今までに訪れた温泉郷</b><br>
-  浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　舘山寺　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
-</p>
+<p>🔗<a href="https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021">今までに訪れた温泉郷</a></p>
 <br>
 
 ### 温泉むすめ　- Onsen Musume -
