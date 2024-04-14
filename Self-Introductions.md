@@ -126,7 +126,7 @@
   <a href="https://www.madoka-magica.com/tv/character/"><img src="images/icons/kyoko.png" alt="kyoko" height="70px" /></a>
   <a href="https://www.tbs.co.jp/anime/is/chara/chara06.html"><img src="images/icons/laura.png" alt="laura" height="70px" /></a>
   <a href="https://www.lovelive-anime.jp/otonokizaka/member/member06.html"><img src="images/icons/maki.png" alt="maki" height="70px" /></a>
-  <a href=""><img src="images/icons/ruriruri.png" alt="ruriruri" height="70px" /></a>
+  <a href="https://king-cr.jp/special/nadeshiko/"><img src="images/icons/ruriruri.png" alt="ruriruri" height="70px" /></a>
   <a href="https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18"><img src="images/icons/yami.png" alt="yami" height="70px" /></a>
 </p>
 
@@ -331,13 +331,13 @@
   <tbody align="center">
     <tr>
       <th>
-        兄者弟者　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15" / ></a>
+        兄者弟者　<a href="https://www.youtube.com/@norunine"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15" / ></a>
       </th>
       <td>2010年</td>
       <td>-</td>
     </tr>
     <tr>
-      <th>如月ささら　<a href=""><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15" / ></a></th>
+      <th>如月ささら　<a href="https://www.youtube.com/@kisaragi_sasara_today1cap"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15" / ></a></th>
       <td>2023年</td>
       <td>2023.03.01</td>
     </tr>
@@ -562,6 +562,7 @@
   </ul>
 </details>
 
+<!--
 <p>
   <b>- FC -</b><br>
   海腹川背　忍者龍剣伝　メトロイド
@@ -606,6 +607,7 @@
   <b>- PS4 -</b><br>
   KH3　NieR:Automata
 </p>
+-->
 
 <br>
   
@@ -777,7 +779,7 @@
 
 ## 温泉 ♨　- Hot Spring -
 <p>
-  <b>今までに訪れた温泉郷<b><br>
+  <b>今までに訪れた温泉郷</b><br>
   浅虫　乳頭　玉川　花巻　鉛　山の神　大沢　渡り　松島　秋保　作並　かみのやま　蔵王　飯坂　磐梯熱海　宇奈月　舘山寺　伊東　修善寺　下田　南知多　下呂　高山　平湯　白骨　奥飛騨　　大町　加賀　湯の山　伊勢船江　榊原　鳥羽　志摩　嵐山　犬鳴山　十津川　洞川　南紀勝浦　有馬　城崎　湯村　湯郷　奥津　宮浜　はわい　東郷　三朝　皆生　松江しんじ湖　玉造　温泉津　二日市　原鶴　日田　雲仙　玉名　阿蘇　西表島
 </p>
 <br>
