@@ -72,23 +72,23 @@
 ### 作品　- Anime, Comics, Novels -
 <!--
 タイトルロゴを並べる。公式HPへ飛ばす。
-<a href=""><img src="images/logos/.png" alt="" height="70px" /></a>
+[<img src="images/logos/.png" alt="" height="70px">]()
 
-<a href=""><img src="images/logos/Angel_Beats!.png" alt="AB" height="70px" /></a>
-<a href=""><img src="images/logos/IDOL_M@STER.png" alt="im@s" height="70px" /></a>
-<a href="https://www.tbs.co.jp/anime/is/"><img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px" /></a>
-<a href=""><img src="images/logos/Yamato.png" alt="yamato" height="70px" /></a>
-<a href=""><img src="images/logos/Uruseiyatsura.png" alt="uruseiyatsura" height="70px" /></a>
-<a href=""><img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px" /></a>
-<a href="https://gochiusa.com/"><img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px" /></a>
-<a href=""><img src="images/logos/City_Hunter.png" alt="cityhunter" height="70px" /></a>
-<a href="https://frieren-anime.jp/"><img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px" /></a>
-<a href=""><img src="images/logos/Sailor_Moon.png" alt="sailormoon" height="70px" /></a>
-<a href="https://www.madoka-magica.com/tv/"><img src="images/logos/Madoka_Magica.png" alt="madomagi" height="70px" /></a>
-<a href=""><img src="images/logos/Shugogetten.png" alt="shugogetten" height="70px" /></a>
-<a href=""><img src="images/logos/Yatogame-chan.png" alt="yatogame-chan" height="70px" /></a>
-<a href="http://www.lucky-ch.com/"><img src="images/logos/Lucky_Star.png" alt="luckystar" height="70px" /></a>
-<a href="https://www.lovelive-anime.jp/"><img src="images/logos/Love_Live!.png" alt="lovelive" height="70px" /></a>
+[<img src="images/logos/Angel_Beats!.png" alt="AB" height="70px">]()
+[<img src="images/logos/IDOL_M@STER.png" alt="im@s" height="70px">]()
+[<img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px">](https://www.tbs.co.jp/anime/is/)
+[<img src="images/logos/Yamato.png" alt="yamato" height="70px">]()
+[<img src="images/logos/Uruseiyatsura.png" alt="uruseiyatsura" height="70px">]()
+[<img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px">]()
+[<img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px">](https://gochiusa.com/)
+[<img src="images/logos/City_Hunter.png" alt="cityhunter" height="70px">]()
+[<img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px">](https://frieren-anime.jp/)
+[<img src="images/logos/Sailor_Moon.png" alt="sailormoon" height="70px">]()
+[<img src="images/logos/Madoka_Magica.png" alt="madomagi" height="70px">](https://www.madoka-magica.com/tv/)
+[<img src="images/logos/Shugogetten.png" alt="shugogetten" height="70px">]()
+[<img src="images/logos/Yatogame-chan.png" alt="yatogame-chan" height="70px">]()
+[<img src="images/logos/Lucky_Star.png" alt="luckystar" height="70px">](http://www.lucky-ch.com/)
+[<img src="images/logos/Love_Live!.png" alt="lovelive" height="70px">](https://www.lovelive-anime.jp/)
 -->
 
 <details>
@@ -115,54 +115,50 @@
 <br>
 
 ### キャラクター　- My wife -
-<p>
-  <b>- Anime, Manga -</b><br>
-  <a href="https://girls-und-panzer.jp/chara/anchovy/"><img src="images/icons/anchovy.png" alt="anchovy" height="70px" /></a>
-  <a href="https://sao-p.net/intro-character/character/#argo"><img src="images/icons/argo.png" alt="argo" height="70px" /></a>
-  <a href="https://gochiusa.com/chara/chino.html"><img src="images/icons/chino.png" alt="chino" height="70px" /></a>
-  <a href="https://frieren-anime.jp/character/chara_group1/1-1/"><img src="images/icons/freiren.png" alt="freiren" height="70px" /></a>
-  <a href="http://www.lucky-ch.com/luckypedia/index.html#chara"><img src="images/icons/konata.png" alt="konata" height="70px" /></a>
-  <a href="https://www.madoka-magica.com/tv/character/"><img src="images/icons/kyoko.png" alt="kyoko" height="70px" /></a>
-  <a href="https://www.tbs.co.jp/anime/is/chara/chara06.html"><img src="images/icons/laura.png" alt="laura" height="70px" /></a>
-  <a href="https://www.lovelive-anime.jp/otonokizaka/member/member06.html"><img src="images/icons/maki.png" alt="maki" height="70px" /></a>
-  <a href="https://king-cr.jp/special/nadeshiko/"><img src="images/icons/ruriruri.png" alt="ruriruri" height="70px" /></a>
-  <a href="https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18"><img src="images/icons/yami.png" alt="yami" height="70px" /></a>
-</p>
+**- Anime, Manga -** <br>
+  [<img src="images/icons/anchovy.png" alt="anchovy" height="70px">](https://girls-und-panzer.jp/chara/anchovy/)
+  [<img src="images/icons/argo.png" alt="argo" height="70px">](https://sao-p.net/intro-character/character/#argo)
+  [<img src="images/icons/chino.png" alt="chino" height="70px">](https://gochiusa.com/chara/chino.html)
+  [<img src="images/icons/freiren.png" alt="freiren" height="70px">](https://frieren-anime.jp/character/chara_group1/1-1/)
+  [<img src="images/icons/konata.png" alt="konata" height="70px">](http://www.lucky-ch.com/luckypedia/index.html#chara)
+  [<img src="images/icons/kyoko.png" alt="kyoko" height="70px">](https://www.madoka-magica.com/tv/character/)
+  [<img src="images/icons/laura.png" alt="laura" height="70px">](https://www.tbs.co.jp/anime/is/chara/chara06.html)
+  [<img src="images/icons/maki.png" alt="maki" height="70px">](https://www.lovelive-anime.jp/otonokizaka/member/member06.html)
+  [<img src="images/icons/ruriruri.png" alt="ruriruri" height="70px">](https://king-cr.jp/special/nadeshiko/)
+  [<img src="images/icons/yami.png" alt="yami" height="70px">](https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18)
 
 <!--
 キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。
-<a href=""><img src="images/icons/.png" alt="" height="70px" /></a>
+[<img src="images/icons/.png" alt="" height="70px">]()
   
-<p>
-  <b>- Game -</b><br> 
-  ![<img src="images/icons/mutsumi.png" alt="mutsumi" height="70px">]()
-  ![<img src="images/icons/yukiho.png" alt="yukiho" height="70px">]()
-  ![<img src="images/icons/cafe.png" alt="cafe" height="70px">]()
-  ![<img src="images/icons/scarlet.png" alt="scarlet" height="70px">]()
-  ![<img src="images/icons/tachyon.png" alt="tachyon" height="70px">]()
-  ![<img src="images/icons/taishin.png" alt="taishin" height="70px">]()
-  ![<img src="images/icons/hibiki.png" alt="hibiki" height="70px">]()
-  ![<img src="images/icons/zuiho.png" alt="zuiho" height="70px">]()
-  ![<img src="images/icons/zuikaku.png" alt="zuikaku" height="70px">]()
-  ![<img src="images/icons/kuro.png" alt="kuro" height="70px">]()
-  ![<img src="images/icons/chall.png" alt="chall" height="70px">]()
-  ![<img src="images/icons/fuyuko.png" alt="fuyuko" height="70px">]()
-  ![<img src="images/icons/madoka.png" alt="madoka" height="70px">]()
-  ![<img src="images/icons/murasame.png" alt="murasame" height="70px">]()
-  ![<img src="images/icons/monica.png" alt="monica" height="70px">]()
-  ![<img src="images/icons/flandre.png" alt="flandre" height="70px">]()
-  ![<img src="images/icons/remilia.png" alt="remilia" height="70px">]()
-  ![<img src="images/icons/anko.png" alt="anko" height="70px">]()
-  ![<img src="images/icons/neneka.png" alt="neneka" height="70px">]()
-  ![<img src="images/icons/saren.png" alt="saren" height="70px">]()
-  ![<img src="images/icons/hina.png" alt="hina" height="70px">]()
-  ![<img src="images/icons/iori.png" alt="iori" height="70px">]()
-  ![<img src="images/icons/neru.png" alt="neru" height="70px">]()
-  ![<img src="images/icons/ui.png" alt="ui" height="70px">]()
-  ![<img src="images/icons/kirara.png" alt="kirara" height="70px">]()
-  ![<img src="images/icons/nanaka.png" alt="nanaka" height="70px">]()
-  ![<img src="images/icons/yuzu.png" alt="yuzu" height="70px">]()
-</p>
+**- Game -** <br> 
+[<img src="images/icons/mutsumi.png" alt="mutsumi" height="70px">]()
+[<img src="images/icons/yukiho.png" alt="yukiho" height="70px">]()
+[<img src="images/icons/cafe.png" alt="cafe" height="70px">]()
+[<img src="images/icons/scarlet.png" alt="scarlet" height="70px">]()
+[<img src="images/icons/tachyon.png" alt="tachyon" height="70px">]()
+[<img src="images/icons/taishin.png" alt="taishin" height="70px">]()
+[<img src="images/icons/hibiki.png" alt="hibiki" height="70px">]()
+[<img src="images/icons/zuiho.png" alt="zuiho" height="70px">]()
+[<img src="images/icons/zuikaku.png" alt="zuikaku" height="70px">]()
+[<img src="images/icons/kuro.png" alt="kuro" height="70px">]()
+[<img src="images/icons/chall.png" alt="chall" height="70px">]()
+[<img src="images/icons/fuyuko.png" alt="fuyuko" height="70px">]()
+[<img src="images/icons/madoka.png" alt="madoka" height="70px">]()
+[<img src="images/icons/murasame.png" alt="murasame" height="70px">]()
+[<img src="images/icons/monica.png" alt="monica" height="70px">]()
+[<img src="images/icons/flandre.png" alt="flandre" height="70px">]()
+[<img src="images/icons/remilia.png" alt="remilia" height="70px">]()
+[<img src="images/icons/anko.png" alt="anko" height="70px">]()
+[<img src="images/icons/neneka.png" alt="neneka" height="70px">]()
+[<img src="images/icons/saren.png" alt="saren" height="70px">]()
+[<img src="images/icons/hina.png" alt="hina" height="70px">]()
+[<img src="images/icons/iori.png" alt="iori" height="70px">]()
+[<img src="images/icons/neru.png" alt="neru" height="70px">]()
+[<img src="images/icons/ui.png" alt="ui" height="70px">]()
+[<img src="images/icons/kirara.png" alt="kirara" height="70px">]()
+[<img src="images/icons/nanaka.png" alt="nanaka" height="70px">]()
+[<img src="images/icons/yuzu.png" alt="yuzu" height="70px">]()
 -->
 
 <details>
