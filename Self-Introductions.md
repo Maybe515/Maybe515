@@ -203,38 +203,12 @@
 <br>
 
 ### 歌手・グループ　- Singers & Groups -
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Since</th>
-      <th>FANCLUB</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>ave;new</th>
-      <td>2008年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>ガゼル (やなぎなぎ)</th>
-      <td>2008年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>Queen</th>
-      <td>2014年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>三代目 J Soul Brothers<br>from EXILE TRIBE</th>
-      <td>2015年</td>
-      <td><b>【EX Family】</b>2017.07.14 (No.1114564)<br>
-      <b>【mate】</b>2022.11.02 (No.JSB0023720)</td>
-    </tr>
-  </tbody>
-</table>
+|Name|Since|FANCLUB|
+:-:|:-:|:-:
+|**ave;new**|2008年|-|
+|**ガゼル（やなぎなぎ）**|2008年|-|
+|**Queen**|2014年|-|
+|**三代目 J Soul Brothers<br>from EXILE TRIBE**|2015年|**【EX Family】** 2017.07.14 (No.1114564)<br> **【mate】** 2022.11.02 (No.JSB0023720)|
 <br>
 
 ### 配信者さん　- Live Streamers -
@@ -674,27 +648,26 @@
 <br>
 
 ## 旅行 🚋　- Travels -
-<p>🔗<a href="https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/">経県値マップ 都道府県版</a></p>
-<br>
+🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/)
+<br><br>
 
 ## 温泉 ♨　- Hot Spring -
-<p>🔗<a href="https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021">今までに訪れた温泉郷</a></p>
-<br>
+🔗[今までに訪れた温泉郷](https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021)
+<br><br>
 
 ### 温泉むすめ　- Onsen Musume -
-  <p><b>Started since　2021.06.05</b><br>
-    🔗<a href="https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing">ぽか活まとめ</a></p>
-  <br>
-  <p>
-    <b>- 推しむすめ -</b><br>
-    <a href="https://onsen-musume.jp/character/miyahama_hitoka"><img src="images/icons/hitoka.png" alt="hitoka" height="70px" /></a>
-    <a href="https://onsen-musume.jp/character/nyuto_nodoka"><img src="images/icons/nodoka.png" alt="nodoka" height="70px" /></a>
-    <a href="https://onsen-musume.jp/character/iriomotejima_yaeka"><img src="images/icons/yaeka.png" alt="yaeka" height="70px" /></a>
-    <a href="https://onsen-musume.jp/character/hirayu_mitsuba"><img src="images/icons/mitsuba.png" alt="mitsuba" height="70px" /></a>
-  </p>
+**Started since　2021.06.05** <br>
+🔗[ぽか活まとめ](https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing)
+<br><br>
+  
+**- 推しむすめ -** <br>
+[<img src="images/icons/hitoka.png" alt="hitoka" height="70px">](https://onsen-musume.jp/character/miyahama_hitoka)
+[<img src="images/icons/nodoka.png" alt="nodoka" height="70px">](https://onsen-musume.jp/character/nyuto_nodoka)
+[<img src="images/icons/yaeka.png" alt="yaeka" height="70px">](https://onsen-musume.jp/character/iriomotejima_yaeka)
+[<img src="images/icons/mitsuba.png" alt="mitsuba" height="70px">](https://onsen-musume.jp/character/hirayu_mitsuba)
 
 <!--
-<a href=""><img src="images/logos/.png" alt="" height="70px" /></a>
+[<img src="images/logos/.png" alt="" height="70px">]()
 
 mutsumi.png
 yukiho.png
