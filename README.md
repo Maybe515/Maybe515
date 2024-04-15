@@ -1,44 +1,40 @@
 <h1 align="center">✨ 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝑴𝒚 𝑷𝒓𝒐𝒇𝒊𝒍𝒆 ✨</h1>
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515" />
+    <img src="https://komarev.com/ghpvc/?username=Maybe515&label=Profile%20views&color=0e75b6&style=flat" alt="Maybe515_ProfileViews" />
 </p>
 
 ### About Me 👤
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi! I'm めいびぃ(Maybe515). From Japan in Aichi.<br>
-   　　I'm not engineer, I program just for fun.
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="shake_hands" width="28"> Hi! I'm めいびぃ(Maybe515). From Japan in Aichi.<br>
+     I'm not engineer, I program just for fun.
 </p>
 
 ### Connect with me, and more... 🌐
-<ul>
-  <li><p>🔗<a href="https://potofu.me/maybe515">POTOFU Account</a></p></li>
-  <li><p>𝒂𝒏𝒅 𝒎𝒐𝒓𝒆...　🔗<a href="Self-Introductions.md">Self-Introductions.md</a></p></li>
-</ul>
+- 🔗[POTOFU Account](https://potofu.me/maybe515")
+- 𝒂𝒏𝒅 𝒎𝒐𝒓𝒆...　🔗[Self-Introductions.md](Self-Introductions.md)
 <br>
 
 ## My GitHub Status 🏆
-<p align="left"> 
-  <b>- Top Langs & Stats -</b><br>
-  <!-- Top Languages Card -->
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe515&layout=compact&show_icons=true&theme=onedark" />
-  
-  <!-- GitHub Stats Card -->
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Maybe515&theme=onedark&show_icons=true"/>
+<p>
+    <b>- Top Langs & Stats -</b><br>
+    <!-- Top Languages Card -->
+    <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe515&layout=compact&show_icons=true&theme=onedark" />
+    <!-- GitHub Stats Card -->
+    <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Maybe515&theme=onedark&show_icons=true"/>
 </p>
 
 <!-- GitHub Profile Trophy -->
-<b>- Trophies -</b><br>
+**- Trophies -** <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maybe515&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://raw.githubusercontent.com/Maybe515/Maybe515/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 <!-- GitHub Readme Streak Stats -->
-<b>- Streak Stats -</b><br>
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)](https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark)
+**- Streak Stats -** <br>
+<img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark" />
 <br><br>
 
 ## My Skills 🔧
-<b>- Languages and Tools -</b>
-<br>
+**- Languages and Tools -** <br>
 <div>  
   <a href="https://www.cprogramming.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="50" /></a>  
   <a href="https://www.cplusplus.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="50" /></a>  
@@ -63,7 +59,8 @@
  -->
 </div>
 <br>
-<b>- Others -</b>
+
+**- Others -**
 <details>
   <summary>License (Japanese)</summary>
   <ul>
