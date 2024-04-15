@@ -5,27 +5,26 @@
   You're not Japanese?<br>
   Don't worry. I translated a my profile from Japananese into English.<br>
   Let's check it out!<br>
-  🔗<a href="Self-Introductions_en.md">Self-Introductions_en.md</a>
+  🔗[Self-Introductions_en.md](Self-Introductions_en.md)
 </p>
 <br>
 -->
 
 ### プロフィール 👤　- About Me -
-<p>あちこち出かけたり、ゲームしてたり、たまに絵を描いてたりします。</p>
+あちこち出かけたり、ゲームしてたり、たまに絵を描いてたりします。
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
-<ul>
-  <li><p>リンク先は 🔗<a href="https://potofu.me/maybe515">こちら</a> にまとめてあります。</p></li>
-  <li><p>GitHubのプロフィールは 🔗<a href="https://github.com/Maybe515">こちら</a></p></li>
-</ul>
+- リンク先は 🔗[こちら](https://potofu.me/maybe515) にまとめてあります。
+- GitHubのプロフィールは 🔗[こちら](https://github.com/Maybe515)
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
 <p>※某エロゲブランドとは関係ありません。</p>
-<p>'08年に発売された 🔗<a href="https://gigazine.net/news/20080817_sukumizu_meibi/"><b>アキバ系飲料「めいびぃ！」</b></a> から。<br>
-  空き瓶を探しています。未だに見つかってません。情報求厶…</p>
-<img alt="meibi" height="150px" src="images/meibi.jpg">
+
+'08年に発売された 🔗[**アキバ系飲料「めいびぃ！」**](https://gigazine.net/news/20080817_sukumizu_meibi/) から。<br>
+空き瓶を探しています。未だに見つかってません。情報求厶…<br>
+<p><img src="images/meibi.jpg" alt="meibi" height="150px"></p>
 <br>
 
 <!--
@@ -136,33 +135,33 @@
   
 <p>
   <b>- Game -</b><br> 
-  <a href=""><img src="images/icons/mutsumi.png" alt="mutsumi" height="70px" /></a>
-  <a href=""><img src="images/icons/yukiho.png" alt="yukiho" height="70px" /></a>
-  <a href=""><img src="images/icons/cafe.png" alt="cafe" height="70px" /></a>
-  <a href=""><img src="images/icons/scarlet.png" alt="scarlet" height="70px" /></a>
-  <a href=""><img src="images/icons/tachyon.png" alt="tachyon" height="70px" /></a>
-  <a href=""><img src="images/icons/taishin.png" alt="taishin" height="70px" /></a>
-  <a href=""><img src="images/icons/hibiki.png" alt="hibiki" height="70px" /></a>
-  <a href=""><img src="images/icons/zuiho.png" alt="zuiho" height="70px" /></a>
-  <a href=""><img src="images/icons/zuikaku.png" alt="zuikaku" height="70px" /></a>
-  <a href=""><img src="images/icons/kuro.png" alt="kuro" height="70px" /></a>
-  <a href=""><img src="images/icons/chall.png" alt="chall" height="70px" /></a>
-  <a href=""><img src="images/icons/fuyuko.png" alt="fuyuko" height="70px" /></a>
-  <a href=""><img src="images/icons/madoka.png" alt="madoka" height="70px" /></a>
-  <a href=""><img src="images/icons/murasame.png" alt="murasame" height="70px" /></a>
-  <a href=""><img src="images/icons/monica.png" alt="monica" height="70px" /></a>
-  <a href=""><img src="images/icons/flandre.png" alt="flandre" height="70px" /></a>
-  <a href=""><img src="images/icons/remilia.png" alt="remilia" height="70px" /></a>
-  <a href=""><img src="images/icons/anko.png" alt="anko" height="70px" /></a>
-  <a href=""><img src="images/icons/neneka.png" alt="neneka" height="70px" /></a>
-  <a href=""><img src="images/icons/saren.png" alt="saren" height="70px" /></a>
-  <a href=""><img src="images/icons/hina.png" alt="hina" height="70px" /></a>
-  <a href=""><img src="images/icons/iori.png" alt="iori" height="70px" /></a>
-  <a href=""><img src="images/icons/neru.png" alt="neru" height="70px" /></a>
-  <a href=""><img src="images/icons/ui.png" alt="ui" height="70px" /></a>
-  <a href=""><img src="images/icons/kirara.png" alt="kirara" height="70px" /></a>
-  <a href=""><img src="images/icons/nanaka.png" alt="nanaka" height="70px" /></a>
-  <a href=""><img src="images/icons/yuzu.png" alt="yuzu" height="70px" /></a>
+  ![<img src="images/icons/mutsumi.png" alt="mutsumi" height="70px">]()
+  ![<img src="images/icons/yukiho.png" alt="yukiho" height="70px">]()
+  ![<img src="images/icons/cafe.png" alt="cafe" height="70px">]()
+  ![<img src="images/icons/scarlet.png" alt="scarlet" height="70px">]()
+  ![<img src="images/icons/tachyon.png" alt="tachyon" height="70px">]()
+  ![<img src="images/icons/taishin.png" alt="taishin" height="70px">]()
+  ![<img src="images/icons/hibiki.png" alt="hibiki" height="70px">]()
+  ![<img src="images/icons/zuiho.png" alt="zuiho" height="70px">]()
+  ![<img src="images/icons/zuikaku.png" alt="zuikaku" height="70px">]()
+  ![<img src="images/icons/kuro.png" alt="kuro" height="70px">]()
+  ![<img src="images/icons/chall.png" alt="chall" height="70px">]()
+  ![<img src="images/icons/fuyuko.png" alt="fuyuko" height="70px">]()
+  ![<img src="images/icons/madoka.png" alt="madoka" height="70px">]()
+  ![<img src="images/icons/murasame.png" alt="murasame" height="70px">]()
+  ![<img src="images/icons/monica.png" alt="monica" height="70px">]()
+  ![<img src="images/icons/flandre.png" alt="flandre" height="70px">]()
+  ![<img src="images/icons/remilia.png" alt="remilia" height="70px">]()
+  ![<img src="images/icons/anko.png" alt="anko" height="70px">]()
+  ![<img src="images/icons/neneka.png" alt="neneka" height="70px">]()
+  ![<img src="images/icons/saren.png" alt="saren" height="70px">]()
+  ![<img src="images/icons/hina.png" alt="hina" height="70px">]()
+  ![<img src="images/icons/iori.png" alt="iori" height="70px">]()
+  ![<img src="images/icons/neru.png" alt="neru" height="70px">]()
+  ![<img src="images/icons/ui.png" alt="ui" height="70px">]()
+  ![<img src="images/icons/kirara.png" alt="kirara" height="70px">]()
+  ![<img src="images/icons/nanaka.png" alt="nanaka" height="70px">]()
+  ![<img src="images/icons/yuzu.png" alt="yuzu" height="70px">]()
 </p>
 -->
 
@@ -187,100 +186,24 @@
 <br>
 
 ### 絵師さん　- Illustrators -
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Since</th>
-      <th>FANBOX</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>
-        茉宮祈芹　<a href="https://twitter.com/kiseri0502"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2018年</td>
-      <td>2020.10.03</td>
-    </tr>
-    <tr>
-      <th>
-        天川さっこ　<a href="https://twitter.com/amakawasakko"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2017年</td>
-      <td>2019.06.26</td>
-    </tr>
-    <tr>
-      <th>
-        あづみ一樹　<a href="https://twitter.com/kazukiadumi"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2016年</td>
-      <td>2021.01.08</td>
-    </tr>
-    <tr>
-      <th>
-        白もち桜　<a href="https://twitter.com/sakura_siromoti"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2015年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>
-        おもちもなか　<a href="https://twitter.com/monaka_0326_"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2021年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>
-        ひづき夜宵　<a href="https://twitter.com/hiduki_yayoi"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2019年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>
-        muku　<a href="https://twitter.com/muku_apupop"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15" / ></a>
-      </th>
-      <td>2019年</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+|Name|Since|FANBOX|
+:-:|:-:|:-:
+|**茉宮祈芹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="kiseri" height="15">](https://twitter.com/kiseri0502)|2018年|2020.10.03|
+|**天川さっこ** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="sakko" height="15">](https://twitter.com/amakawasakko)|2017年|2019.06.26|
+|**あづみ一樹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="adumi_kazuki" height="15">](https://twitter.com/kazukiadumi)|2016年|2021.01.08|
+|**白もち桜** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="shiromoti_sakura" height="15">](https://twitter.com/sakura_siromoti)|2015年|-|
+|**おもちもなか** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="monaka" height="15">](https://twitter.com/monaka_0326_)|2021年|-|
+|**ひづき夜宵** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="hiduki_yayoi" height="15">](https://twitter.com/hiduki_yayoi)|2019年|-|
+|**muku** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter-NoBackground.png" alt="muku" height="15">](https://twitter.com/muku_apupop)|2019年|-|
 <br>
 
 ### 声優さん　- Voice Actors -
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Since</th>
-      <th>FANCLUB</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>田口宏子</th>
-      <td>2006年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>野中藍</th>
-      <td>2006年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>川上とも子</th>
-      <td>2006年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>堀江由衣</th>
-      <td>2013年</td>
-      <td><b>【黒ネコ同盟】</b>2020.06.26 (No.14880)</td>
-    </tr>
-  </tbody>
-</table>
+|Name|Since|FANCLUB|
+:-:|:-:|:-:
+|**田口宏子**|2006年|-|
+|**野中藍**|2006年|-|
+|**川上とも子**|2006年|-|
+|**堀江由衣**|2013年|**【黒ネコ同盟】** 2020.06.26 (No.14880)|
 <br>
 
 ### 歌手・グループ　- Singers & Groups -
@@ -320,29 +243,10 @@
 
 ### 配信者さん　- Live Streamers -
 <!-- YouTubeのリンク先を追加して飛べるようにする -->
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Since</th>
-      <th>Member ship</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>
-        兄者弟者　<a href="https://www.youtube.com/@norunine"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15" / ></a>
-      </th>
-      <td>2010年</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>如月ささら　<a href="https://www.youtube.com/@kisaragi_sasara_today1cap"><img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15" / ></a></th>
-      <td>2023年</td>
-      <td>2023.03.01</td>
-    </tr>
-  </tbody>
-</table>
+|Name|Since|Member ship|
+:-:|:-:|:-:
+|**兄者弟者** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15">](https://www.youtube.com/@norunine)|2010年|-|
+|**如月ささら** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15">](https://www.youtube.com/@kisaragi_sasara_today1cap)|2023年|2023.03.01|
 <br>
 
 <!--
