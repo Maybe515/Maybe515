@@ -35,27 +35,28 @@
 
 ## My Skills 🔧
 **- Languages and Tools -** <br>
-<div>  
-  <a href="https://www.cprogramming.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="50" /></a>  
-  <a href="https://www.cplusplus.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="50" /></a>  
-  <a href="https://en.wikipedia.org/wiki/HTML5"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" height="50" /></a>  
-  <a href="https://www.w3schools.com/css/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" height="50" /></a>  
-  <a href="https://www.java.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="50" /></a>  
-  <a href="https://www.javascript.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="50" /></a>
-  <a href="https://jquery.com"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="JQuery" height="50" /></a>
-  <a href="https://docs.microsoft.com/en-us/powershell/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50" /></a>  
-  <a href="https://code.visualstudio.com"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" height="50" /></a>    
-  <a href="https://www.adobe.com/in/products/photoshop.html"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" height="50" /></a>
-  <a href="https://www.adobe.com/in/products/illustrator.html"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Illustrator" height="50" /></a> 
-  <a href="https://www.blender.org/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" height="50" /></a>  
-  <a href="https://www.raspberrypi.org/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" height="50" /></a>    
-  <a href="https://www.android.com/intl/en_in/"><img style="margin: 10px" src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Android-Dark.png" alt="Android" height="50" /></a>
-  <a href="https://appinventor.mit.edu"><img style="margin: 10px" src="https://github.com/Maybe515/skill-icons/blob/main/Icons/MIT_AppInventor.png" alt="MIT_AppInventor" height="50" /></a>  
-  <a href="https://github.com/"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50" /></a>
-  <a href="https://discord.com"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50" /></a>
-  <a href="https://discord.com"><img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBots" height="50" /></a>
+
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="50">](https://www.cprogramming.com/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="50">](https://www.cplusplus.com/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="HTML5" height="50">](https://en.wikipedia.org/wiki/HTML5)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" height="50">](https://www.w3schools.com/css/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="Java" height="50">](https://www.java.com/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="JavaScript" height="50">](https://www.javascript.com/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JQuery.svg" alt="JQuery" height="50">](https://jquery.com)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50">](https://docs.microsoft.com/en-us/powershell/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" height="50">](https://code.visualstudio.com)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" height="50">](https://www.adobe.com/in/products/photoshop.html)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Illustrator" height="50">](https://www.adobe.com/in/products/illustrator.html)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" height="50">](https://www.blender.org/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RaspberryPi-Dark.svg" alt="Raspberry Pi" height="50">](https://www.raspberrypi.org/)
+ [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Android-Dark.png" alt="Android" height="50">](https://www.android.com/intl/en_in/)
+ [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/MIT_AppInventor.png" alt="MIT_AppInventor" height="50">](https://appinventor.mit.edu)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50">](https://github.com/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50">](https://discord.com)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBots" height="50">](https://discord.com)
+
 <!--
-  <a href=""><img style="margin: 10px" src=".svg" alt="" height="50" /></a>
+  [<img src=".svg" alt="" height="50">]()
  -->
 </div>
 <br>
