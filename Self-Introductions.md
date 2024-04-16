@@ -380,8 +380,8 @@
 
 |Title (Region) / Hard|Category|Time|Date|
 :-:|:-:|:-:|:-:
-|**Jak1(JP) / PCSX2**|100%|3h 11m 27s|'23/03/12 02:40|
-|**Jak1(JP) / PCSX2**|Any%|21m 19s|'23/03/19 02:47|
+|**Jak1 (JP) / PCSX2**|100%|3h 11m 27s|'23/03/12 02:40|
+|**Jak1 (JP) / PCSX2**|Any%|21m 19s|'23/03/19 02:47|
 <br>
 
 ## 美少女ゲーム 🖥　- Eroge & Galge -
