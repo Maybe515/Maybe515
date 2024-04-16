@@ -1,5 +1,5 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
-<p align="right"><b>Update since　2024.04.08</b></p>
+<p align="right"><b>Update since　2024.04.16</b></p>
 <!--
 <p>
   You're not Japanese?<br>
@@ -116,16 +116,16 @@
 
 ### キャラクター　- My wife -
 **- Anime, Manga -** <br>
-  [<img src="images/icons/anchovy.png" alt="anchovy" height="70px">](https://girls-und-panzer.jp/chara/anchovy/)
-  [<img src="images/icons/argo.png" alt="argo" height="70px">](https://sao-p.net/intro-character/character/#argo)
-  [<img src="images/icons/chino.png" alt="chino" height="70px">](https://gochiusa.com/chara/chino.html)
-  [<img src="images/icons/freiren.png" alt="freiren" height="70px">](https://frieren-anime.jp/character/chara_group1/1-1/)
-  [<img src="images/icons/konata.png" alt="konata" height="70px">](http://www.lucky-ch.com/luckypedia/index.html#chara)
-  [<img src="images/icons/kyoko.png" alt="kyoko" height="70px">](https://www.madoka-magica.com/tv/character/)
-  [<img src="images/icons/laura.png" alt="laura" height="70px">](https://www.tbs.co.jp/anime/is/chara/chara06.html)
-  [<img src="images/icons/maki.png" alt="maki" height="70px">](https://www.lovelive-anime.jp/otonokizaka/member/member06.html)
-  [<img src="images/icons/ruriruri.png" alt="ruriruri" height="70px">](https://king-cr.jp/special/nadeshiko/)
-  [<img src="images/icons/yami.png" alt="yami" height="70px">](https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18)
+[<img src="images/icons/anchovy.png" alt="anchovy" height="70px">](https://girls-und-panzer.jp/chara/anchovy/)
+[<img src="images/icons/argo.png" alt="argo" height="70px">](https://sao-p.net/intro-character/character/#argo)
+[<img src="images/icons/chino.png" alt="chino" height="70px">](https://gochiusa.com/chara/chino.html)
+[<img src="images/icons/freiren.png" alt="freiren" height="70px">](https://frieren-anime.jp/character/chara_group1/1-1/)
+[<img src="images/icons/konata.png" alt="konata" height="70px">](http://www.lucky-ch.com/luckypedia/index.html#chara)
+[<img src="images/icons/kyoko.png" alt="kyoko" height="70px">](https://www.madoka-magica.com/tv/character/)
+[<img src="images/icons/laura.png" alt="laura" height="70px">](https://www.tbs.co.jp/anime/is/chara/chara06.html)
+[<img src="images/icons/maki.png" alt="maki" height="70px">](https://www.lovelive-anime.jp/otonokizaka/member/member06.html)
+[<img src="images/icons/ruriruri.png" alt="ruriruri" height="70px">](https://king-cr.jp/special/nadeshiko/)
+[<img src="images/icons/yami.png" alt="yami" height="70px">](https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18)
 
 <!--
 キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。
@@ -221,196 +221,56 @@
 
 <!--
 ## イラスト活動　- Illustrations -
-<p>Drawed since 2007.</p>
+<p>Drawed since 2007</p>
 -->
 
 ## 音ゲー 🎹　- Rhythm Games -
 <!-- 機種セルにタイトルロゴを追加する＋公式HPへ飛べるようにする -->
 ### - Arcade -
-<p><b>Started since　2008.08.17</b><br>
-🔗<a href="https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing">音ゲーまとめ</a></p>
+**Started since　2008.08.17** <br>
+- 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
 <br>
-<table>
-  <caption>
-    ▼メインでプレイしている筐体
-  </caption>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Version</th>
-      <th>Since</th>
-      <th>Ability</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/jubeat/"><img src="images/logos/jubeat.png" alt="jubeat" height="70px" /></a></th>
-      <td>saucer</td>
-      <td>2013.10.13</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/sdvx/"><img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px" /></a></th>
-      <td>Ⅱ -infinite infection-</td>
-      <td>2014.04.27</td>
-      <td>VF 8.453</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/2dx/"><img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px" /></a></th>
-      <td>SPADA</td>
-      <td>2014.04.27</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/beatstream/index.html"><img src="images/logos/BeatStream.png" alt="beatstream" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2014.10.23</td>
-      <td>Rank6</td>
-    </tr>
-    <tr>
-      <th><a href="https://chunithm.sega.jp/"><img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2015.12.10</td>
-      <td>max16.32</td>
-    </tr>
-    <tr>
-      <th><a href="https://ongeki.sega.jp/"><img src="images/logos/ONGEKI.png" alt="ongeki" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2018.08.11</td>
-      <td>max9.62</td>
-    </tr>
-    <tr>
-      <th><a href="https://musicdiver.jp/"><img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2023.05.12</td>
-      <td>max5229.47</td>
-    </tr>
-  </tbody>
-</table>
+<caption>▼メインでプレイしている筐体</caption>
+
+|Title|Version|Since|Ability|
+:-:|:-:|:-:|:-:
+|[<img src="images/logos/jubeat.png" alt="jubeat" height="70px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|
+|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|
+|[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|
+|[<img src="images/logos/BeatStream.png" alt="beatstream" height="70px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|
+|[<img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|
+|[<img src="images/logos/ONGEKI.png" alt="ongeki" height="70px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|
+|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|
 <br>
-<table>
-  <caption>
-    ▼その他、過去にプレイした筐体
-  </caption>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Version</th>
-      <th>Since</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/popn/"><img src="images/logos/pop'n_music.png" alt="pop'n_music" height="70px" /></a></th>
-      <td>16 PARTY♪</td>
-      <td>2008.08.17</td>
-    </tr>
-    <tr>
-      <th><a href="https://taiko.namco-ch.net/taiko/"><img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" height="70px" /></a></th>
-      <td>11</td>
-      <td>2008.??.??</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/reflec/index.html"><img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" height="70px" /></a></th>
-      <td>groovin'!!</td>
-      <td>2014.10.23</td>
-    </tr>
-    <tr>
-      <th><a href="http://miku.sega.jp/arcade/"><img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" height="70px" /></a></th>
-      <td>Future Tone</td>
-      <td>2014.10.23</td>
-    </tr>
-    <tr>
-      <th><a href="https://groovecoaster.com/"><img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" height="70px" /></a></th>
-      <td>EX</td>
-      <td>2014.12.05</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/gfdm/"><img src="images/logos/GITADORA.png" alt="gitadora" height="70px" /></a></th>
-      <td>OverDrive</td>
-      <td>2014.??.??</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/ddr/"><img src="images/logos/DanceDanceRevolution.png" alt="ddr" height="70px" /></a></th>
-      <td>2013</td>
-      <td>2014.??.??</td>
-    </tr>
-    <tr>
-      <th><a href="https://bandainamco-am.co.jp/am/vg/Synchronica/"><img src="images/logos/Synchronica.png" alt="synchronica" height="70px" /></a></th>
-      <td>-</td>
-      <td>2015.??.??</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/museca/"><img src="images/logos/MÚSECA.png" alt="museca" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2016.02.14</td>
-    </tr>
-    <tr>
-      <th><a href="https://www.capcom.co.jp/arcade/rev/"><img src="images/logos/crossbeats_REV.png" alt="croosbeats" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2016.03.16</td>
-    </tr>
-    <tr>
-      <th><a href="https://maimai.sega.jp/"><img src="images/logos/maimai.png" alt="maimai" height="70px" /></a></th>
-      <td>PiNK</td>
-      <td>2016.05.20</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/nostalgia/"><img src="images/logos/NOSTALGIA.png" alt="nostalgia" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2017.03.13</td>
-    </tr>
-    <tr>
-      <th><a href=""><img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2023.07.05</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/dan/"><img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2024.03.22</td>
-    </tr>
-    <tr>
-      <th><a href="https://p.eagate.573.jp/game/polarischord/pc/index.html"><img src="images/logos/PolarisChord.png" alt="polarischord" height="70px" /></a></th>
-      <td>無印</td>
-      <td>2024.04.06</td>
-    </tr>
-  </tbody>
-</table>
+
+<caption>▼その他、過去にプレイした筐体</caption>
+
+|Title|Version|Since|
+:-:|:-:|:-:
+|[<img src="images/logos/pop'n_music.png" alt="pop'n_music" height="70px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|
+|[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" height="70px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|
+|[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" height="70px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|
+|[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" height="70px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|
+|[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" height="70px">](https://groovecoaster.com/)|EX|2014.12.05|
+|[<img src="images/logos/GITADORA.png" alt="gitadora" height="70px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|
+|[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" height="70px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|
+|[<img src="images/logos/Synchronica.png" alt="synchronica" height="70px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|
+|[<img src="images/logos/MÚSECA.png" alt="museca" height="70px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|
+|[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" height="70px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|
+|[<img src="images/logos/maimai.png" alt="maimai" height="70px">](https://maimai.sega.jp/)|PiNK|2016.05.20|
+|[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" height="70px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|
+|[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" height="70px">]()|無印|2023.07.05|
+|[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" height="70px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|
+|[<img src="images/logos/PolarisChord.png" alt="polarischord" height="70px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|
 <br>
 
 ### - PC, Consumer -
-<table>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Playing environment</th>
-      <th>Ability</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>BMS</th>
-      <td>専コン</td>
-      <td>beatmaniaと同様</td>
-    </tr>
-    <tr>
-      <th>k-shoot MANIA</th>
-      <td>キーボード</td>
-      <td>Lv14：AAクリア</td>
-    </tr>
-    <tr>
-      <th>Step Mania 5</th>
-      <td>キーボード</td>
-      <td>Lv11：AAクリア</td>
-    </tr>
-    <tr>
-      <th>DJMAX RESPECT Ⅴ</th>
-      <td>キーボード</td>
-      <td align="left">【4B】Lv15：S　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</td>
-    </tr>
-  </tbody>
-</table>			
+|Title|Playing environment|Ability|
+:-:|:-:|:-:
+|**BMS**|専コン|beatmaniaと同様|
+|**k-shoot MANIA**|キーボード|Lv14：AAクリア|
+|**Step Mania 5**|キーボード|Lv11：AAクリア|
+|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|		
 <br>
 
 ## 家庭用ゲーム 🎮　- CS Games -
@@ -482,137 +342,51 @@
   KH3　NieR:Automata
 </p>
 -->
-
 <br>
   
 ## アプリゲー 📱　- App Games -
-<table>
-  <caption>
-    ▼現在プレイ中のタイトル
-  </caption>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>UserID</th>
-      <th>Since</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>ブルリフS</th>
-      <td>425824573</td>
-      <td>2023.02.21</td>
-    </tr>
-    <tr>
-      <th>駅メモ</th>
-      <td>XBGYCS2121</td>
-      <td>2021.10.04</td>
-    </tr>
-  </tbody>
-</table>
+<caption>▼現在プレイ中のタイトル</caption>
+
+|Title|UserID|Since|
+:-:|:-:|:-:
+|**ブルリフS**|425824573|2023.02.21|
+|**駅メモ**|XBGYCS2121|2021.10.04|
 <br>
-<table>
-  <caption>
-    ▼過疎っているタイトル
-  </caption>
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>UserID (Main)</th>
-      <th>UserID (Sub)</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>パズドラ</th>
-      <td>161461878</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>白猫</th>
-      <td>CEJHWK2R4</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>放置少女</th>
-      <td>53077</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>プリコネR</th>
-      <td>886784051</td>
-      <td>456423834</td>
-    </tr>
-    <tr>
-      <th>ブルアカ</th>
-      <td>BFXRQCVQ</td>
-      <td>ASCVBOLR</td>
-    </tr>
-    <tr>
-      <th>NieR</th>
-      <td>182075368914</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>ウマ娘</th>
-      <td>189849910</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>ヘブバン</th>
-      <td>-</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>Nikke</th>
-      <td>73254891</td>
-      <td>-</td>
-    </tr>
-    <tr>
-      <th>崩壊スターレイル</th>
-      <td>802967539</td>
-      <td>-</td>
-    </tr>
-  </tbody>
-</table>
+<caption>▼過疎っているタイトル</caption>
+
+|Title|UserID (Main)|UserID (Sub)|
+:-:|:-:|:-:
+|**パズドラ**|161461878|-|
+|**白猫**|CEJHWK2R4|-|
+|**放置少女**|53077|-|
+|**プリコネR**|886784051|456423834|
+|**ブルアカ**|BFXRQCVQ|ASCVBOLR|
+|**NieR**|182075368914|-|
+|**ウマ娘**|189849910|-|
+|**ヘブバン**|-|-|
+|**Nikke**|73254891|-|
+|**崩壊スターレイル**|802967539|-|
 <br>
 
 ## ソシャゲ 💻　- Social Games -
-<p>GF(仮)　🔗<a href="http://vcard.ameba.jp/profile?userId=4374025">Account</a></p>
-<p>グラブル　🔗<a href="http://gbf.game.mbga.jp/#profile/18259066">Account</a></p>
+- GF(仮)　🔗[Account](http://vcard.ameba.jp/profile?userId=4374025) <br>
+- グラブル　🔗[Account](http://gbf.game.mbga.jp/#profile/18259066) <br>
 <br>
 
 ## RTA 🏆　- Speedrun -
-<p>speedrun.com　🔗<a href="https://www.speedrun.com/user/Maybe515/">Account</a></p>
-<table>
-  <caption>▼申請していない非公式記録</caption>
-  <thead>
-    <tr>
-      <th>Title (Region) / Hard</th>
-      <th>Category</th>
-      <th>Time</th>
-      <th>Date</th>
-    </tr>
-  </thead>
-  <tbody align="center">
-    <tr>
-      <th>Jak1(JP) / PCSX2</th>
-      <td>100%</td>
-      <td>3h 11m 27s</td>
-      <td>'23/03/12 02:40</td>
-    </tr>
-    <tr>
-      <th>Jak1(JP) / PCSX2</th>
-      <td>Any%</td>
-      <td>21m 19s</td>
-      <td>'23/03/19 02:47</td>
-    </tr>					
-  </tbody>
-</table>
+- speedrun.com　🔗[Account](https://www.speedrun.com/user/Maybe515/)
+<br>
+<caption>▼申請していない非公式記録</caption>
+
+|Title (Region) / Hard|Category|Time|Date|
+:-:|:-:|:-:|:-:
+|**Jak1(JP) / PCSX2**|100%|3h 11m 27s|'23/03/12 02:40|
+|**Jak1(JP) / PCSX2**|Any%|21m 19s|'23/03/19 02:47|
 <br>
 
 ## 美少女ゲーム 🖥　- Eroge & Galge -
-<p>エロゲー批評空間　🔗<a href="https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515">Account</a></p>
+- エロゲー批評空間　🔗[Account](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515)
+<br>
 <table>
   <tbody>
     <tr>
@@ -648,16 +422,16 @@
 <br>
 
 ## 旅行 🚋　- Travels -
-🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/)
+- 🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/FjwTajqshcjrcjwTtIejuirzx/)
 <br><br>
 
 ## 温泉 ♨　- Hot Spring -
-🔗[今までに訪れた温泉郷](https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021)
+- 🔗[今までに訪れた温泉郷](https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021)
 <br><br>
 
 ### 温泉むすめ　- Onsen Musume -
 **Started since　2021.06.05** <br>
-🔗[ぽか活まとめ](https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing)
+- 🔗[ぽか活まとめ](https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing)
 <br><br>
   
 **- 推しむすめ -** <br>
