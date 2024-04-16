@@ -80,7 +80,7 @@
 </details>
 <!-- スキルマップをグラフで表示できるようにする -->
 <details>
-  <summary>More Skill</summary>
+  <summary>Skills more</summary>
   <ul>
     <b>- Software -</b>
     <li>Programming (VBA, VB, Ladder)</li>
