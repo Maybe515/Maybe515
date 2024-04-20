@@ -218,8 +218,8 @@
 <!-- YouTubeのリンク先を追加して飛べるようにする -->
 |Name|Since|Member ship|
 :-:|:-:|:-:
-|**兄者弟者** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15">](https://www.youtube.com/@norunine)|2010年|-|
-|**如月ささら** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15">](https://www.youtube.com/@kisaragi_sasara_today1cap)|2023年|2023.03.01|
+|**兄者弟者** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube-NoBackground.png" alt="norunine" height="15">](https://www.youtube.com/@norunine)|2010年|-|
+|**如月ささら** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube-NoBackground.png" alt="sasara" height="15">](https://www.youtube.com/@kisaragi_sasara_today1cap)|2023年|2023.03.01|
 <br>
 
 <!--
@@ -274,6 +274,12 @@
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|
 |**Step Mania 5**|キーボード|Lv11：AAクリア|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|		
+<br>
+
+### - Application -
+|Title|Playing environment|Ability|
+:-:|:-:|:-:
+|**Arcaea**|iPhone SE2|PET 1.08|
 <br>
 
 ## 家庭用ゲーム 🎮　- CS Games -
@@ -354,6 +360,7 @@
 :-:|:-:|:-:
 |**ブルリフS**|425824573|2023.02.21|
 |**駅メモ**|XBGYCS2121|2021.10.04|
+|**Arcaea**|938108129|2017.03.09|
 <br>
 <caption>▼過疎っているタイトル</caption>
 
