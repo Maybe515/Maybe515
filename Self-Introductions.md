@@ -235,15 +235,15 @@
 <br>
 <caption>▼メインでプレイしている筐体</caption>
 
-|Title|Version|Since|Ability|
-:-:|:-:|:-:|:-:
-|[<img src="images/logos/jubeat.png" alt="jubeat" height="70px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|
-|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|
-|[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|
-|[<img src="images/logos/BeatStream.png" alt="beatstream" height="70px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|
-|[<img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|
-|[<img src="images/logos/ONGEKI.png" alt="ongeki" height="70px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|
-|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|
+|Title|Version|Since|Ability|Play Option|
+:-:|:-:|:-:|:-:|:-:
+|[<img src="images/logos/jubeat.png" alt="jubeat" height="70px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|None|
+|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|None|
+|[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|None|
+|[<img src="images/logos/BeatStream.png" alt="beatstream" height="70px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
+|[<img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|None|
+|[<img src="images/logos/ONGEKI.png" alt="ongeki" height="70px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|AB縛り|
+|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|None|
 <br>
 
 <caption>▼その他、過去にプレイした筐体</caption>
@@ -268,18 +268,19 @@
 <br>
 
 ### - PC, Consumer -
-|Title|Playing environment|Ability|
-:-:|:-:|:-:
-|**BMS**|専コン|beatmaniaと同様|
-|**k-shoot MANIA**|キーボード|Lv14：AAクリア|
-|**Step Mania 5**|キーボード|Lv11：AAクリア|
-|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|		
+|Title|Playing environment|Ability|Play Option|
+:-:|:-:|:-:|:-:
+|**BMS**|専コン|beatmaniaと同様|None|
+|**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
+|**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse|
+|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア</div>|AC縛り（STANDARDのみ）|
 <br>
 
 ### - Application -
-|Title|Playing environment|Ability|
-:-:|:-:|:-:
-|**Arcaea**|iPhone SE2|PET 1.08|
+|Title|Playing environment|Ability|Play Option|
+:-:|:-:|:-:|:-:
+|**Arcaea**|iPhone SE2|PET 1.08|FR & EX+縛り|
 <br>
 
 ## 家庭用ゲーム 🎮　- CS Games -
