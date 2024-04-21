@@ -30,12 +30,6 @@
 <p><img src="images/meibi.jpg" alt="meibi" height="150px"></p>
 <br>
 
-<!--
-## 座右の銘　- Motto -
-<p><a href="https://hoyme.jp/shindan/86849/results/983">水滴石穿</a>（すいてきせきせん）</p>
-<br>
--->
-
 ## 趣味 🎾　- Enjoying Play, Into it, Hobbies -
 <!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
 <p>
@@ -215,20 +209,19 @@
 <br>
 
 ### 配信者さん　- Live Streamers -
-<!-- YouTubeのリンク先を追加して飛べるようにする -->
 |Name|Since|Member ship|
 :-:|:-:|:-:
 |**兄者弟者** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube-NoBackground.png" alt="norunine" height="15">](https://www.youtube.com/@norunine)|2010年|-|
 |**如月ささら** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube-NoBackground.png" alt="sasara" height="15">](https://www.youtube.com/@kisaragi_sasara_today1cap)|2023年|2023.03.01|
 <br>
 
-<!--
+
 ## イラスト活動　- Illustrations -
-<p>Drawed since 2007</p>
--->
+Draw since 2007
+- Pixiv 🔗[Account](https://www.pixiv.net/users/14572354) <br>
+<br>
 
 ## 音ゲー 🎹　- Rhythm Games -
-<!-- 機種セルにタイトルロゴを追加する＋公式HPへ飛べるようにする -->
 ### - Arcade -
 **Started since　2008.08.17** <br>
 - 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
@@ -307,50 +300,38 @@
 </details>
 
 <!--
-<p>
-  <b>- FC -</b><br>
-  海腹川背　忍者龍剣伝　メトロイド
-</p>
-<p>
-  <b>- SFC -</b><br>
-  神トラ　スーパーメトロイド　セプテントリオン　かまいたちの夜　ときメモ　トワイライトシンドローム　風来のシレン　プリペル　マリオワールド
-</p>
-<p>
-  <b>- PS -</b><br>
-  I.Q　MGS　moon　クロノトリガー　サルゲッチュ　ポポロクロイス物語　ロックマンDASH1,2
-</p>
-<p>
-  <b>- N64 -</b><br>
-  時オカ　マリオ64　ムジュラ
-</p>
-<p>
-  <b>- PS2 -</b><br>
-  Jak1,2　KH1,2　MGS2,3　ToS　サルゲッチュ2,3　ダーククラウド　ダーククロニクル　ピポサル2001　
-</p>
-<p>
-  <b>- GC -</b><br>
-  風タク　トワプリ　マリオサンシャイン
-</p>
-<p>
-  <b>- PSP -</b><br>
-  MGSPW　MHP2G,3rd
-</p>
-<p>
-  <b>- NDS -</b><br>
-  おい森　ポケモンDP
-</p>
-<p>
-  <b>- Wii -</b><br>
-  MH3　街森　マリオギャラクシー1,2
-</p>
-<p>
-  <b>- 3DS -</b><br>
-  とび森
-</p>
-<p>
-  <b>- PS4 -</b><br>
-  KH3　NieR:Automata
-</p>
+- FC -
+海腹川背　忍者龍剣伝　メトロイド
+
+- SFC -
+神トラ　スーパーメトロイド　セプテントリオン　かまいたちの夜　ときメモ　トワイライトシンドローム　風来のシレン　プリペル　マリオワールド
+
+- PS -
+I.Q　MGS　moon　クロノトリガー　サルゲッチュ　ポポロクロイス物語　ロックマンDASH1,2
+
+- N64 -
+時オカ　マリオ64　ムジュラ
+
+- PS2 -
+Jak1,2　KH1,2　MGS2,3　ToS　サルゲッチュ2,3　ダーククラウド　ダーククロニクル　ピポサル2001　
+
+- GC -
+風タク　トワプリ　マリオサンシャイン
+
+- PSP -
+MGSPW　MHP2G,3rd
+
+- NDS -
+おい森　ポケモンDP
+
+- Wii -
+MH3　街森　マリオギャラクシー1,2
+
+- 3DS -
+とび森
+
+- PS4 -
+KH3　NieR:Automata
 -->
 <br>
   
