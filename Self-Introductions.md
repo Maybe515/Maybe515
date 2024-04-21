@@ -237,34 +237,34 @@
 
 |Title|Version|Since|Ability|Play Option|
 :-:|:-:|:-:|:-:|:-:
-|[<img src="images/logos/jubeat.png" alt="jubeat" height="70px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|None|
-|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" height="70px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|None|
-|[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" height="70px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|None|
-|[<img src="images/logos/BeatStream.png" alt="beatstream" height="70px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
-|[<img src="images/logos/CHUNITHM.png" alt="chunithm" height="70px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|None|
-|[<img src="images/logos/ONGEKI.png" alt="ongeki" height="70px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|AB縛り|
-|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" height="70px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|None|
+|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|None|
+|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|None|
+|[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|None|
+|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
+|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|None|
+|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|AB縛り|
+|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|None|
 <br>
 
 <caption>▼その他、過去にプレイした筐体</caption>
 
 |Title|Version|Since|
 :-:|:-:|:-:
-|[<img src="images/logos/pop'n_music.png" alt="pop'n_music" height="70px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|
-|[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" height="70px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|
-|[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" height="70px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|
-|[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" height="70px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|
-|[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" height="70px">](https://groovecoaster.com/)|EX|2014.12.05|
-|[<img src="images/logos/GITADORA.png" alt="gitadora" height="70px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|
-|[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" height="70px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|
-|[<img src="images/logos/Synchronica.png" alt="synchronica" height="70px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|
-|[<img src="images/logos/MÚSECA.png" alt="museca" height="70px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|
-|[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" height="70px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|
-|[<img src="images/logos/maimai.png" alt="maimai" height="70px">](https://maimai.sega.jp/)|PiNK|2016.05.20|
-|[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" height="70px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|
-|[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" height="70px">]()|無印|2023.07.05|
-|[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" height="70px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|
-|[<img src="images/logos/PolarisChord.png" alt="polarischord" height="70px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|
+|[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|
+|[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|
+|[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|
+|[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|
+|[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.05|
+|[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|
+|[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|
+|[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|
+|[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|
+|[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|
+|[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|
+|[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|
+|[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|
+|[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|
+|[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|
 <br>
 
 ### - PC, Consumer -
