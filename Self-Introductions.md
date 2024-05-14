@@ -216,10 +216,9 @@
 <br>
 
 
-## イラスト活動　- Illustrations -
-- pixiv 🔗[Account](https://www.pixiv.net/users/14572354) <br>
+## 創作活動　- Creations -
+イラスト　消しゴムはんこ　切り絵　アクセサリー作り etc...<br>
 
-### 活動年表
 <details>
   <summary>活動年表</summary>
   <ul>
@@ -236,8 +235,11 @@
     <li>2015.01　サークル（🔗<a href="https://portal.circle.ms/Circle/Index/10483177">MAYBEL</a>）を立ち上げる</li>
     <li>2015.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2016.03　🔗<a href="https://www.pixiv.net/users/14572354">pixiv</a> を開設</li>
+    <li>2016.08　消しゴムはんこ・切り絵をやり始める</li>
     <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2017.10　母校の体育祭で応援装飾（イラスト兼監督）を担当する</li>
+    <li>2018.04　アクセサリー作りをする</li>
+    <li>2024.04　🔗<a href="">FANBOX</a>　🔗<a href="">Fantia</a>　🔗<a href="">Skeb</a>　🔗<a href="">BOOTH</a> を開設</li>
   </ul>
 </details>
 <br>
@@ -279,6 +281,8 @@
 |[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|
 |[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|
 |[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|
+|[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|
+|[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|
 <br>
 
 ### - PC, Consumer -
