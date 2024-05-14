@@ -22,6 +22,10 @@
 - GitHubのプロフィールは 🔗[こちら](https://github.com/Maybe515)
 <br>
 
+### その他　- Others -
+- [Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
+<br>
+
 ## コテハン由来 🖋　- My handle name comes from -
 <p>※某エロゲブランド様、某漫画家様とは関係ありません。</p>
 
@@ -216,7 +220,7 @@
 <br>
 
 
-## 創作活動　- Creations -
+## 創作活動 ✍　- Creations -
 イラスト　消しゴムはんこ　切り絵　アクセサリー作り etc...<br>
 
 <details>
