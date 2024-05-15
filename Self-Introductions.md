@@ -292,11 +292,12 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS / INFINITAS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 295|
+|**BMS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
 |**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
+|**INFINITAS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 290|
 <br>
 
 ### - Application -
