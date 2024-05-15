@@ -243,7 +243,7 @@
     <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2017.10　母校の体育祭で応援装飾（イラスト兼監督）を担当する</li>
     <li>2018.04　アクセサリー作りをする</li>
-    <li>2024.04　🔗<a href="">FANBOX</a>　🔗<a href="">Fantia</a>　🔗<a href="">Skeb</a>　🔗<a href="">BOOTH</a> を開設</li>
+    <li>2024.04　🔗<a href="">FANBOX</a> 🔗<a href="">Fantia</a> 🔗<a href="">Skeb</a> 🔗<a href="">BOOTH</a> を開設</li>
   </ul>
 </details>
 <br>
@@ -292,11 +292,11 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS**|専コン|beatmaniaと同様|None|
+|**BMS / INFINITAS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 295|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
 |**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|AC縛り（STANDARDのみ）|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
 <br>
 
 ### - Application -
