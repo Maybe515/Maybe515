@@ -80,7 +80,7 @@
 [<img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px">](https://www.tbs.co.jp/anime/is/)
 [<img src="images/logos/Yamato.png" alt="yamato" height="70px">]()
 [<img src="images/logos/Uruseiyatsura.png" alt="uruseiyatsura" height="70px">]()
-[<img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px">]()
+[<img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px">](https://king-cr.jp/special/nadeshiko/)
 [<img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px">](https://gochiusa.com/)
 [<img src="images/logos/City_Hunter.png" alt="cityhunter" height="70px">]()
 [<img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px">](https://frieren-anime.jp/)
@@ -297,7 +297,7 @@
 |**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
-|**INFINITAS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**INFINITAS**|専コン|Lv7：AA(Hard)　Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 <br>
 
 ### - Application -
