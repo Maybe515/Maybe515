@@ -299,7 +299,7 @@
 |**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
-|**INFINITAS**|専コン|Lv7：AA(Hard)　Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv7：AA(Hard)　Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 <br>
 
 ### - Application -
