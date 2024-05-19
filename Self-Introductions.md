@@ -26,6 +26,8 @@
 
 ### その他 🔗　- Others -
 - [Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
+
+Nostrに興味がある方はこちらをお読みください。
 - [Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
 
