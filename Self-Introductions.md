@@ -14,7 +14,9 @@
 -->
 
 ### プロフィール 👤　- About Me -
-あちこち出かけたり、ゲームしてたり、たまに絵を描いてたりします。<br>
+あちこち出かけたり、ゲームしてたり、色々しています。  
+絵を描いてたりもします。  
+普段は、TwitterかNostrにいます。  
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
@@ -22,8 +24,9 @@
 - GitHubのプロフィールは 🔗[こちら](https://github.com/Maybe515)
 <br>
 
-### その他　- Others -
+### その他 🔗　- Others -
 - [Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
+- [Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
