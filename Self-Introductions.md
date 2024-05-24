@@ -20,7 +20,7 @@
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
-- リンク先は 🔗[こちら](https://potofu.me/maybe515) にまとめてあります。
+- リンク先は 🔗[こちら](https://lit.link/Maybe515) にまとめてあります。
 - GitHubのプロフィールは 🔗[こちら](https://github.com/Maybe515)
 <br>
 
