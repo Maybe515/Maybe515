@@ -10,7 +10,7 @@
 </p>
 
 ### Connect with me, and more... 🌐
-- 🔗[POTOFU Account](https://potofu.me/maybe515")
+- 🔗[Lit.Link Account](https://lit.link/Maybe515)
 - 𝒂𝒏𝒅 𝒎𝒐𝒓𝒆...　🔗[Self-Introductions.md](Self-Introductions.md)
 <br>
 
