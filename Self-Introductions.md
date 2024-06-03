@@ -1,6 +1,6 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.05.08</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.06.03</div>
 </p></b>
 
 <!--
@@ -16,7 +16,7 @@
 ### プロフィール 👤　- About Me -
 あちこち出かけたり、ゲームしてたり、色々しています。  
 絵を描いてたりもします。  
-普段は、TwitterかNostrにいます。  
+普段は、🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
