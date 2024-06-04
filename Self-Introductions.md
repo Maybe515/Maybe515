@@ -28,6 +28,7 @@
 ### その他 🔗　- Others -
 - Nostr、Blueskyでの活動履歴　🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
 - 自作スキルアイコン　🔗[Skill Icons - GitHub](https://github.com/Maybe515/skill-icons)
+<br>
 - Nostrに興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
 
