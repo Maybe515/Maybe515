@@ -14,7 +14,8 @@
 -->
 
 ### プロフィール 👤　- About Me -
-あちこち出かけたり、ゲームしてたり、色々しています。  
+「めびさん」「めびちゃん」と呼ばれてます。
+あちこちお出かけたり、ゲームしてたり、色々しています。  
 絵を描いてたりもします。  
 普段は、🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
@@ -25,10 +26,9 @@
 <br>
 
 ### その他 🔗　- Others -
-- [Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
+- Nostr、Blueskyでの活動履歴<br>🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
 
-Nostrに興味がある方はこちらをお読みください。
-- [Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
+- Nostrに興味がある方はこちらをお読みください。<br>🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
@@ -248,8 +248,8 @@ Nostrに興味がある方はこちらをお読みください。
     <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2017.10　母校の体育祭で応援装飾（イラスト兼監督）を担当する</li>
     <li>2018.04　アクセサリー作りをする</li>
-    <li>2019.03　<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
-    <li>2019.08　<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
+    <li>2019.03　🔗<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
+    <li>2019.08　🔗<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
     <li>2024.04　🔗<a href="">FANBOX</a> 🔗<a href="">Fantia</a> 🔗<a href="">Skeb</a> 🔗<a href="">BOOTH</a> を開設（整備中）</li>
   </ul>
 </details>
