@@ -63,7 +63,7 @@
 
 **- Others -**
 <details>
-  <summary>License (Japanese)</summary>
+  <summary>License (Japan)</summary>
   <ul>
     <b>【国家資格】</b>
     <li>第二種電気工事士</li>
@@ -78,7 +78,6 @@
     <li>英検2級</li>
   </ul>
 </details>
-<!-- スキルマップをグラフで表示できるようにする -->
 <details>
   <summary>Skills more</summary>
   <ul>
