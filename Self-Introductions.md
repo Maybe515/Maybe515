@@ -17,7 +17,7 @@
 「めびさん」「めびちゃん」と呼ばれてます。「わっち」「嫁」と呼ばれることも。  
 あちこちお出かけたり、ゲームしてたり、色々しています。  
 絵を描いてたりもします。  
-普段は、🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
+普段は 🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
@@ -27,7 +27,8 @@
 
 ### その他 🔗　- Others -
 - Nostr、Blueskyでの活動履歴　🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
-- 自作スキルアイコン　🔗[Skill Icons - GitHub](https://github.com/Maybe515/skill-icons)
+- 自作アイコン　🔗[Skill Icons - GitHub](https://github.com/Maybe515/skill-icons)
+- 自作フィード(Bluesky)　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
 <br>
 - Nostrに興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
