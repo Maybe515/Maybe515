@@ -79,8 +79,7 @@
 
 ## 推しているもの 💗　- FAV. -
 ### 作品　- Anime, Comics, Novels -
-<!--
-タイトルロゴを並べる。公式HPへ飛ばす。
+<!-- タイトルロゴを並べる。公式HPへ飛ばす。
 [<img src="images/logos/.png" alt="" height="70px">]()
 
 [<img src="images/logos/Angel_Beats!.png" alt="AB" height="70px">]()
@@ -304,8 +303,8 @@
 :-:|:-:|:-:|:-:
 |**BMS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
-|**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse<br>Judge: 4|
-|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
+|**Step Mania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>Reverse<br>**[Judge]** 4|
+|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.6|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード||None|
