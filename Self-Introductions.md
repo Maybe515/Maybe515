@@ -16,7 +16,7 @@
 ### プロフィール 👤　- About Me -
 「めびさん」「めびちゃん」と呼ばれてます。「わっち」「嫁」と呼ばれることも。  
 あちこちお出かけたり、ゲームしてたり、色々しています。  
-絵を描いてたりもします。  
+たまに絵を描くよ。  
 普段は 🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
 
@@ -35,7 +35,7 @@
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
-<p>※某エロゲブランド様、某漫画家様とは関係ありません。</p>
+<p>※某エ○ゲブランド様、某漫画家様とは関係ありません。</p>
 
 '08年に発売された 🔗[**アキバ系飲料「めいびぃ！」**](https://gigazine.net/news/20080817_sukumizu_meibi/) から。<br>
 空き瓶を探しています。未だに見つかってません。情報求厶…<br>
@@ -241,7 +241,7 @@
     <li>2009.07　うごメモでプチマンガを描く</li>
     <li>2009.07　街森でマイデザ配布をする</li>
     <li>2009.09　モンハンを題材にしたプチマンガやプチアートを描く</li>
-    <li>2010.??　うごメモで開催された格闘作品で入賞</li>
+    <li>2010.??　うごメモで開催された格闘作品コンテストで入賞する</li>
     <li>2013.05　マイクラでドット絵アートをやり始める</li>
     <li>2014.03　美少女系イラスト（アニメ調）を描き始める</li>
     <li>2015.01　サークル（🔗<a href="https://portal.circle.ms/Circle/Index/10483177">MAYBEL</a>）を立ち上げる</li>
@@ -304,10 +304,12 @@
 :-:|:-:|:-:|:-:
 |**BMS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
-|**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse|
+|**Step Mania 5**|キーボード|Lv11：AAクリア|Reverse<br>Judge: 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|None|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
-|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)　Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**MUSE DASH**|キーボード||None|
+|**MUSYNX**|キーボード||None|
 <br>
 
 ### - Application -
@@ -380,30 +382,33 @@ KH3　NieR:Automata
 
 |Title|UserID|Since|
 :-:|:-:|:-:
-|**ブルリフS (サ終)**|425824573|2023.02.21|
 |**駅メモ**|XBGYCS2121|2021.10.04|
-|**Arcaea**|938108129|2017.03.09|
-|**学マス**|MJSET52L|2024.05.22|
+|**ZenlessZoneZero**|-|2024.07.04|
 <br>
-<caption>▼過疎っているタイトル</caption>
 
-|Title|UserID (Main)|UserID (Sub)|
+<caption>▼その他タイトル</caption>
+
+|Title|UserID (Main / Sub)|Since|
 :-:|:-:|:-:
 |**パズドラ**|161461878|-|
 |**白猫**|CEJHWK2R4|-|
 |**放置少女**|53077|-|
-|**プリコネR**|886784051|456423834|
-|**ブルアカ**|BFXRQCVQ|ASCVBOLR|
+|**Arcaea**|938108129|2017.03.09|
+|**プリコネR**|886784051 / 456423834|-|
+|**ブルアカ**|BFXRQCVQ / ASCVBOLR|-|
 |**NieR (サ終)**|182075368914|-|
 |**ウマ娘**|189849910|-|
 |**ヘブバン**|-|-|
+|**ブルリフS (サ終)**|425824573|2023.02.21|
 |**Nikke**|73254891|-|
 |**崩壊スターレイル**|802967539|-|
+|**学マス**|MJSET52L|2024.05.22|
 <br>
 
 ## ソシャゲ 💻　- Social Games -
-- GF(仮)　🔗[Account](http://vcard.ameba.jp/profile?userId=4374025) <br>
-- グラブル　🔗[Account](http://gbf.game.mbga.jp/#profile/18259066) <br>
+- GF(仮)　🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)
+- MapleStory
+- グラブル　🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)
 <br>
 
 ## RTA 🏆　- Speedrun -
