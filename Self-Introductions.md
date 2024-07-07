@@ -276,7 +276,7 @@
 |[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|**[Hi-Speed]** 5.0|
 <br>
 
-<caption>▼その他、過去にプレイした筐体</caption>
+<caption>▼その他プレイした筐体</caption>
 
 |Title|Version|Since|
 :-:|:-:|:-:
@@ -308,8 +308,8 @@
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.6|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
-|**MUSE DASH**|キーボード||None|
-|**MUSYNX**|キーボード||None|
+|**MUSE DASH**|キーボード|Lv5：Sクリア|None|
+|**MUSYNX**|キーボード||**[Hi-Speed]** 4.75|
 <br>
 
 ### - Application -
@@ -407,7 +407,7 @@ KH3　NieR:Automata
 
 ## ソシャゲ 💻　- Social Games -
 - GF(仮)　🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)
-- MapleStory
+- MapleStory　エンジェリックバスター　Lv230
 - グラブル　🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)
 <br>
 
