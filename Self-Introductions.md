@@ -1,6 +1,6 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.06.03</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.07.08</div>
 </p></b>
 
 <!--
@@ -26,7 +26,7 @@
 <br>
 
 ### その他 🔗　- Others -
-- Nostr、Blueskyでの活動履歴　🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
+- Nostr ＆ Bluesky での活動履歴　🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
 - 自作アイコン　🔗[Skill Icons - GitHub](https://github.com/Maybe515/skill-icons)
 - 自作フィード(Bluesky)　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
 <br>
@@ -58,7 +58,7 @@
 </p>
 <p>
   <b>- Collections -</b><br>
-  古銭集め　御朱印集め　御船印集め　ICカード集め　切符・硬券収集
+  古銭集め　御朱印集め　御船印集め　鉄印集め　交通系ICカード集め　切符・硬券収集
 </p>
 <p>
   <b>- Mania -</b><br>
@@ -180,12 +180,12 @@
     <li>【バトガ】あんこ</li>
     <li>【シャニマス】冬優子、円香</li>
     <li>【ウマ娘】タキオン、カフェ、ダスカ、タイシン</li>
-    <li>【ブルアカ】ネル、ヒナ、イオリ、ウイ</li>
+    <li>【ブルアカ】ネル、ヒナ、イオリ、ウイ、レンゲ</li>
     <li>【千恋＊万花】ムラサメちゃん</li>
     <li>【ﾀﾞｰｸｸﾛﾆｸﾙ】モニカ</li>
     <li>【サルゲッチュ】チャル</li>
     <li>【ブルリフ】きらら、なーな、ユズ</li>
-    <li>【ゼンゼロ】猫又、カレン、クレタ、蒼角</li>
+    <li>【ゼンゼロ】クレタ、カレン、猫又、蒼角</li>
   </ul>
 </details>
 <br>
@@ -271,7 +271,7 @@
 |[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
 |[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
 |[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
-|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|**[Hi-Speed]** 10.50|
+|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|**[Hi-Speed]** 10.50<br>**[判定ﾀｲﾐﾝｸﾞB]** +6|
 |[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**【AB縛り】**<br>**[Hi-Speed]** 12.0|
 |[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|**[Hi-Speed]** 5.0|
 <br>
@@ -406,6 +406,10 @@ KH3　NieR:Automata
 <br>
 
 ## ソシャゲ 💻　- Social Games -
+
+|Title|Play Data|URL|
+:-:|:-:|:-:
+
 - GF(仮)　🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)
 - MapleStory　エンジェリックバスター　Lv230
 - グラブル　🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)
