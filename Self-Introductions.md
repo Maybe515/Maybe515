@@ -409,10 +409,9 @@ KH3　NieR:Automata
 
 |Title|Play Data|URL|
 :-:|:-:|:-:
-
-- GF(仮)　🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)
-- MapleStory　エンジェリックバスター　Lv230
-- グラブル　🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)
+|GF(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
+|MapleStory|ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ Lv230||
+|グラブル|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
 ## RTA 🏆　- Speedrun -
