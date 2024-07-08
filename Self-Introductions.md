@@ -382,7 +382,7 @@ KH3　NieR:Automata
 |Title|UserID|Since|
 :-:|:-:|:-:
 |**駅メモ**|XBGYCS2121|2021.10.04|
-|**ゼンレスゾーンゼロ**|-|2024.07.04|
+|**ゼンレスゾーンゼロ（PC）**|-|2024.07.04|
 <br>
 
 <caption>▼その他タイトル</caption>
@@ -400,7 +400,7 @@ KH3　NieR:Automata
 |**ヘブバン**|-|-|
 |**ブルリフS (サ終)**|425824573|2023.02.21|
 |**Nikke**|73254891|-|
-|**崩壊スターレイル**|802967539|-|
+|**崩壊スターレイル（PC）**|802967539|-|
 |**学マス**|MJSET52L|2024.05.22|
 <br>
 
@@ -409,7 +409,7 @@ KH3　NieR:Automata
 |Title|Play Data|URL|
 :-:|:-:|:-:
 |GF(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
-|MapleStory|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230||
+|MapleStory|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv60||
 |グラブル|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
