@@ -15,8 +15,7 @@
 
 ### プロフィール 👤　- About Me -
 「めびさん」「めびちゃん」と呼ばれてたりします。「わっち」「嫁」と呼ばれることも。  
-あちこちお出かけたり、ゲームしてたり、色々しています。  
-たまに絵を描くよ。  
+旅行したり、ゲームしたり、色々しています。たまに絵も描くよ。  
 普段は 🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
 
@@ -31,11 +30,11 @@
 - 自作フィード(Bluesky)　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
 <br>
 
-- Nostrに興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
+- **Nostr** にご興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
 
 ## コテハン由来 🖋　- My handle name comes from -
-<p>※某エ○ゲブランド様、某漫画家様とは関係ありません。</p>
+<p>※某エ○ゲブランド様、某漫画家様とは関係ございません。</p>
 
 '08年に発売された 🔗[**アキバ系飲料「めいびぃ！」**](https://gigazine.net/news/20080817_sukumizu_meibi/) から。<br>
 空き瓶を探しています。未だに見つかってません。情報求厶…<br>
@@ -271,7 +270,7 @@
 |[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
 |[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
 |[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
-|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.32|**[Hi-Speed]** 10.50<br>**[判定ﾀｲﾐﾝｸﾞB]** +6|
+|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.33|**[Hi-Speed]** 10.50<br>**[判定ﾀｲﾐﾝｸﾞB]** +6|
 |[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**【AB縛り】**<br>**[Hi-Speed]** 12.0|
 |[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|**[Hi-Speed]** 5.0|
 <br>
@@ -302,11 +301,11 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**BMS**|専コン|Lv7：AA 　v9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
 |**Step Mania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.6|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|FADE1|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|**[Hi-Speed]** 4.5<br>FADE1|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv5：Sクリア|None|
 |**MUSYNX**|キーボード||**[Hi-Speed]** 4.75|
@@ -315,7 +314,7 @@
 ### - Application -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**Arcaea**|iPhone SE2|PET 1.08|FR & EX+縛り|
+|**Arcaea**|iPhone SE2|PET 1.08|**【FR & EX+縛り】**|
 <br>
 
 ## 家庭用ゲーム 🎮　- CS Games -
@@ -383,7 +382,7 @@ KH3　NieR:Automata
 |Title|UserID|Since|
 :-:|:-:|:-:
 |**駅メモ**|XBGYCS2121|2021.10.04|
-|**ZenlessZoneZero**|-|2024.07.04|
+|**ゼンレスゾーンゼロ**|-|2024.07.04|
 <br>
 
 <caption>▼その他タイトル</caption>
@@ -410,7 +409,7 @@ KH3　NieR:Automata
 |Title|Play Data|URL|
 :-:|:-:|:-:
 |GF(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
-|MapleStory|ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ Lv230||
+|MapleStory|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230||
 |グラブル|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
