@@ -303,15 +303,15 @@
 :-:|:-:|:-:|:-:
 |**BMS**|専コン|Lv7：AA 　v9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|None|
-|**Step Mania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>Reverse<br>**[Judge]** 4|
+|**Step Mania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.6|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|**[Hi-Speed]** 4.5<br>FADE1|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|**[Hi-Speed]** 4.5<br>**[FADER EFFECTOR]** FADE IN 1|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv5：Sクリア|None|
 |**MUSYNX**|キーボード||**[Hi-Speed]** 4.75|
 <br>
 
-### - Application -
+### - Mobile -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
 |**Arcaea**|iPhone SE2|PET 1.08|**【FR & EX+縛り】**|
@@ -395,10 +395,10 @@ KH3　NieR:Automata
 |**Arcaea**|938108129|2017.03.09|
 |**プリコネR**|886784051 / 456423834|2020.01.18|
 |**ブルアカ**|BFXRQCVQ / ASCVBOLR|-|
-|**NieR (サ終)**|182075368914|-|
+|**NieR Re[in]carnation【サ終】**|182075368914|-|
 |**ウマ娘**|189849910|-|
-|**ヘブバン**|-|-|
-|**ブルリフS (サ終)**|425824573|2023.02.21|
+|**ヘブバン（PC）**|-|-|
+|**ブルリフS【サ終】**|425824573|2023.02.21|
 |**Nikke**|73254891|-|
 |**崩壊スターレイル（PC）**|802967539|-|
 |**学マス**|MJSET52L|2024.05.22|
