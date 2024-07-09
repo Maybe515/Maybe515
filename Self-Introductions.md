@@ -228,7 +228,7 @@
 
 
 ## 創作活動 ✍　- Creations -
-イラスト　消しゴムはんこ　切り絵　アクセサリー作り etc...<br>
+イラスト　消しゴムはんこ　切り絵　アクセサリー作り　etc...<br>
 
 <details>
   <summary>活動年表</summary>
