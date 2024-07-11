@@ -67,8 +67,12 @@
 
 ## 好きなもの ⭐　- Like it -
 <p>
-  <b>- Foods & Drinks -</b><br>
-  スイーツ全般　紅茶　コーヒー　日本酒
+  <b>- Foods -</b><br>
+  オムライス　天津飯　パスタ　まぜそば　スイーツ全般
+</p>
+<p>
+  <b>- Drinks -</b><br>
+  紅茶　コーヒー　お酒(日本酒)
 </p>
 <p>
   <b>- Others -</b><br>
@@ -389,15 +393,16 @@ KH3　NieR:Automata
 
 |Title|UserID (Main / Sub)|Since|
 :-:|:-:|:-:
-|**パズドラ**|161461878|2013.05.??|
-|**白猫**|CEJHWK2R4|-|
+|**パズドラ**|161461878|2013.05.21|
+|**白猫**|CEJHWK2R4|2014.??.??|
 |**放置少女**|53077|-|
 |**Arcaea**|938108129|2017.03.09|
 |**プリコネR**|886784051 / 456423834|2020.01.18|
 |**ブルアカ**|BFXRQCVQ / ASCVBOLR|-|
-|**NieR Re[in]carnation【サ終】**|182075368914|-|
-|**ウマ娘**|189849910|-|
-|**ヘブバン（PC）**|-|-|
+|**NieR Re[in]carnation【サ終】**|182075368914|2021.02.18|
+|**ウマ娘**|189849910|2021.02.24|
+|**ヘブバン（PC）**|-|2022.02.10|
+|**マギレコ**|-|2022.07.31|
 |**ブルリフS【サ終】**|425824573|2023.02.21|
 |**Nikke**|73254891|-|
 |**崩壊スターレイル（PC）**|802967539|-|
@@ -409,14 +414,14 @@ KH3　NieR:Automata
 |Title|Play Data|URL|
 :-:|:-:|:-:
 |GF(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
-|MapleStory|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv60||
+|MapleStory|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv105||
 |グラブル|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
 ## RTA 🏆　- Speedrun -
 - speedrun.com　🔗[Account](https://www.speedrun.com/user/Maybe515/)
 <br>
-<caption>▼申請していない非公式記録</caption>
+<caption>▼非公式記録</caption>
 
 |Title [Region] / Hard|Category|Time|Date|
 :-:|:-:|:-:|:-:
