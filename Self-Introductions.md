@@ -306,9 +306,9 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS**|専コン|Lv7：AA 　v9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**BMS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|**[FHS]** 700|
-|**Step Mania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>**[Scroll]** Reverse<br>**[Judge]** 4|
+|**StepMania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.6|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left">【BASIC】Lv16：Sクリア<br>【STANDARD】Lv14：Sクリア</div>|**[Hi-Speed]** 4.5<br>**[FADER EFFECTOR]** FADE IN 1|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
@@ -387,7 +387,7 @@ KH3　NieR:Automata
 |Title|UserID|Since|
 :-:|:-:|:-:
 |**駅メモ**|XBGYCS2121|2021.10.04|
-|**ゼンレスゾーンゼロ（PC）**|-|2024.07.04|
+|**ゼンレスゾーンゼロ**|-|2024.07.04|
 <br>
 
 <caption>▼その他タイトル</caption>
@@ -396,26 +396,31 @@ KH3　NieR:Automata
 :-:|:-:|:-:
 |**パズドラ**|161461878|2013.05.21|
 |**白猫**|CEJHWK2R4|2014.??.??|
+|**バトルガール**||2015.??.??|
 |**放置少女**|53077|-|
 |**Arcaea**|938108129|2017.03.09|
 |**プリコネR**|886784051 / 456423834|2020.01.18|
 |**ブルアカ**|BFXRQCVQ / ASCVBOLR|-|
+|**原神**|-|-|
 |**NieR Re[in]carnation【サ終】**|182075368914|2021.02.18|
 |**ウマ娘**|189849910|2021.02.24|
-|**ヘブバン（PC）**|-|2022.02.10|
+|**ヘブバン**|-|2022.02.10|
 |**マギレコ**|-|2022.07.31|
 |**ブルリフS【サ終】**|425824573|2023.02.21|
-|**Nikke**|73254891|-|
-|**崩壊スターレイル（PC）**|802967539|-|
+|**NIKKE**|73254891|-|
+|**崩壊スターレイル**|802967539|-|
 |**学マス**|MJSET52L|2024.05.22|
 <br>
 
 ## ソシャゲ 💻　- Social Games -
 
-|Title|Play Data|URL|
+|Title|Play Data|Others|
 :-:|:-:|:-:
-|GF(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
-|MapleStory|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv105||
+|艦これ|Lv63|ラバウル基地|
+|とらドル【サ終】|Lv100↑||
+|プリンセスコネクト！|Lv250↑||
+|ＧＦ(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
+|メイプルストーリー|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv108||
 |グラブル|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
