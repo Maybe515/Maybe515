@@ -1,6 +1,6 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.07.08</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.07.12</div>
 </p></b>
 
 <!--
@@ -306,7 +306,7 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS**|専コン|Lv7：AA　Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**BMS**|専コン|Lv8：AA(Hard)<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AAクリア|**[FHS]** 700|
 |**StepMania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left">【4B】Lv15：S(FC)　SC13：A<br>【5B】-<br>【6B】Lv15：A<br>【8B】Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.6|
