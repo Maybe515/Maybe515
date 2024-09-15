@@ -189,7 +189,7 @@
     <li>【ﾀﾞｰｸｸﾛﾆｸﾙ】モニカ</li>
     <li>【サルゲッチュ】チャル</li>
     <li>【ブルリフ】きらら、なーな、ユズ</li>
-    <li>【ゼンゼロ】クレタ、エレン、猫又、青衣</li>
+    <li>【ゼンゼロ】クレタ、ルーシー、エレン、青衣</li>
   </ul>
 </details>
 <br>
@@ -473,7 +473,7 @@ KH3　NieR:Automata
 <br>
 
 ## 旅行 🚋　- Travels -
-- 🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/rzjyTajqsjwcjytIejuiv/)
+- 🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/ajqsjwcjytjxirjpoTy/)
 <br><br>
 
 ## 温泉 ♨　- Hot Spring -
