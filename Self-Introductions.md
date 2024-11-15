@@ -1,6 +1,6 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.08.19</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.11.15</div>
 </p></b>
 
 <!--
