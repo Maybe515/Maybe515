@@ -275,8 +275,8 @@
 |[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
 |[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
 |[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
-|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.33|**[Hi-Speed]** 10.50<br>**[判定ﾀｲﾐﾝｸﾞB]** +0.6|
-|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**【AB縛り】**<br>**[Hi-Speed]** 12.0|
+|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.33|**[Hi-Speed]** 10.50|
+|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**[Hi-Speed]** 12.0|
 |[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|**[Hi-Speed]** 5.0|
 <br>
 
@@ -306,16 +306,16 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS**|専コン|Lv8：AA(Hard)<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
-|**k-shoot MANIA**|キーボード|Lv14：AAクリア|**[FHS]** 700|
-|**StepMania 5**|キーボード|Lv11：AAクリア|**[Hi-Speed]** C575<br>**[Scroll]** Reverse<br>**[Judge]** 4|
-|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S(FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.8|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left">　**【BASIC】** Lv16：Sクリア<br> **【STANDARD】** Lv14：Sクリア</div>|**[Hi-Speed]** 4.5<br>**[FADER EFFECTOR]** FADE IN 1|
-|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA(Hard)<br>Lv9：A(Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
-|**MUSE DASH**|キーボード|Lv5：Sクリア|None|
-|**MUSYNX**|キーボード|Lv10：EX(FC)|**[Hi-Speed]** 5.00|
-|**vivid/stasis**|キーボード|Lv10：S|**[Hi-Speed]** 4.75|
-|**KALPA**|キーボード|**【Normal】** Lv16：S<br>**【Lunatic】** Lv16：A|**[Hi-Speed]** 4.8|
+|**BMS**|専コン|Lv8：AA (Hard)<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
+|**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
+|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S (FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left">　**【BASIC】** Lv16：S<br> **【STANDARD】** Lv15：S　Lv17：A</div>|**[Hi-Speed]** 5.0<br>**[FADER EFFECTOR]** FADE IN 1|
+|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA (Hard)<br>Lv9：A (Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**MUSE DASH**|キーボード|Lv7：S|None|
+|**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.00|
+|**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
+|**KALPA**|キーボード|**【Normal】** Lv16：S　Lv17：A+<br>**【Lunatic】** Lv16：A+　Lv17：A|**[Hi-Speed]** 5.5|
 <br>
 
 ### - Mobile -
@@ -333,6 +333,7 @@
     <li>ゼルダの伝説 神トラ（SFC）</li>
     <li>サルゲッチュ（PS）</li>
     <li>moon（PS）</li>
+    <li>アークザラッドⅡ（PS）</li>
     <li>ジャック×ダクスター 旧世界の遺産（PS2）</li>
     <li>ダーククロニクル（PS2）</li>
     <li>KH1（PS2）</li>
