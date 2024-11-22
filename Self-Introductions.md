@@ -189,7 +189,7 @@
     <li>【ﾀﾞｰｸｸﾛﾆｸﾙ】モニカ</li>
     <li>【サルゲッチュ】チャル</li>
     <li>【ブルリフ】きらら、なーな、ユズ</li>
-    <li>【ゼンゼロ】クレタ、ルーシー、エレン、青衣</li>
+    <li>【ゼンゼロ】クレタ、ルーシー、青衣</li>
   </ul>
 </details>
 <br>
@@ -277,7 +277,7 @@
 |[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
 |[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.33|**[Hi-Speed]** 10.50|
 |[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**[Hi-Speed]** 12.0|
-|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max5229.47|**[Hi-Speed]** 5.0|
+|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.0|
 <br>
 
 <caption>▼その他プレイした筐体</caption>
@@ -310,12 +310,12 @@
 |**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
 |**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S (FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left">　**【BASIC】** Lv16：S<br> **【STANDARD】** Lv15：S　Lv17：A</div>|**[Hi-Speed]** 5.0<br>**[FADER EFFECTOR]** FADE IN 1|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv16：S<br> **【STANDARD(4K)】** Lv15：S　Lv17：A</div>|**[Hi-Speed]** 5.5|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA (Hard)<br>Lv9：A (Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv7：S|None|
 |**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.00|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
-|**KALPA**|キーボード|**【Normal】** Lv16：S　Lv17：A+<br>**【Lunatic】** Lv16：A+　Lv17：A|**[Hi-Speed]** 5.5|
+|**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv16：S+　Lv17：A+<br>**【Lunatic(4K)】** Lv16：A+　Lv17：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.2<br>**[判定ライン]** -2ms|
 <br>
 
 ### - Mobile -
