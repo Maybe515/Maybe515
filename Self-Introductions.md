@@ -310,12 +310,12 @@
 |**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
 |**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S (FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv16：S<br> **【STANDARD(4K)】** Lv15：S　Lv17：A</div>|**[Hi-Speed]** 5.5|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv15：S++　Lv16：S<br> **【STANDARD(4K)】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display Delay]** -3ms|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA (Hard)<br>Lv9：A (Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv7：S|None|
 |**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.00|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
-|**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv16：S+　Lv17：A+<br>**【Lunatic(4K)】** Lv16：A+　Lv17：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.2<br>**[判定ライン]** -2ms|
+|**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv18：S+<br>**【Lunatic(4K)】** Lv16：A+　Lv18：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.5|
 <br>
 
 ### - Mobile -
