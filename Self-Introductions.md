@@ -1,6 +1,6 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2024.11.15</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2025.1.1</div>
 </p></b>
 
 <!--
@@ -432,10 +432,10 @@ KH3　NieR:Automata
 <br>
 <caption>▼非公式記録</caption>
 
-|Title [Region] / Hard|Category|Time|Date|
-:-:|:-:|:-:|:-:
-|**Jak1 [JP] / PCSX2**|100%|3h 11m 27s|'23/03/12 02:40|
-|**Jak1 [JP] / PCSX2**|Any%|21m 19s|'23/03/19 02:47|
+|Title [Region]|Hard|Category|Time|Date|
+:-:|:-:|:-:|:-:|:-:
+|**Jak1 [JP]**|PCSX2|100%|3h 11m 27s|'23/03/12 02:40|
+|**Jak1 [JP]**|PCSX2|Any%|21m 19s|'23/03/19 02:47|
 <br>
 
 ## 美少女ゲーム 🖥　- Eroge & Galge -
