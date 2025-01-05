@@ -5,7 +5,7 @@
 
 ### About Me 👤
 <p>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="shake_hands" width="28"> Hi! I'm めいびぃ(Maybe515). From Japan in Aichi.<br>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="shake_hands" width="28"> Hi! I'm めいびぃ(Maybe515). From Aichi, Japan.<br>
       　　I'm not engineer, I program just for fun.
 </p>
 
