@@ -194,7 +194,7 @@
 </details>
 <br>
 
-### 絵かきさん　- Illustrators -
+### 絵描きさん　- Illustrators -
 |Name|Since|FANBOX|
 :-:|:-:|:-:
 |**茉宮祈芹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="kiseri" height="15">](https://twitter.com/kiseri0502)|2018年|2020.10.03|
@@ -254,7 +254,7 @@
     <li>2016.08　消しゴムはんこ・切り絵をやり始める</li>
     <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2017.10　母校の体育祭で応援装飾（イラスト兼監督）を担当する</li>
-    <li>2018.04　アクセサリー作りをする</li>
+    <li>2018.04　アクセサリー作りをする（ネックレス）</li>
     <li>2019.03　🔗<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
     <li>2019.08　🔗<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
     <li>2024.04　🔗<a href="">FANBOX</a> 🔗<a href="">Fantia</a> 🔗<a href="">Skeb</a> 🔗<a href="">BOOTH</a> を開設（整備中）</li>
@@ -390,7 +390,7 @@ KH3　NieR:Automata
 |Title|UserID|Since|
 :-:|:-:|:-:
 |**駅メモ**|XBGYCS2121|2021.10.04|
-|**ゼンレスゾーンゼロ**|-|2024.07.04|
+|**ゼンレスゾーンゼロ**|1302046263|2024.07.04|
 <br>
 
 <caption>▼その他タイトル</caption>
