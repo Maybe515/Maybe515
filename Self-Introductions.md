@@ -273,7 +273,7 @@
 :-:|:-:|:-:|:-:|:-:
 |[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
 |[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
-|[<img src="images/logos/beatmania_iidx.png" alt="beatmaniaiidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
+|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
 |[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
 |[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.33|**[Hi-Speed]** 10.50|
 |[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**[Hi-Speed]** 12.0|
@@ -302,7 +302,7 @@
 |[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|
 |[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|
 |[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|
-|[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN|2025.01.03|
+|[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN -INTEGRAL COMPOSITION-|2025.01.03|
 |[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|
 |[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|
 <br>
