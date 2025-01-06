@@ -61,7 +61,7 @@
 </p>
 <p>
   <b>- Mania -</b><br>
-  車　鉄道　ミリタリー(銃, 艦体)　競馬鑑賞　F1・ラリー鑑賞
+  車　鉄道　ミリタリー（銃, 艦体）　競馬鑑賞　F1・ラリー鑑賞
 </p>
 <br>
 
@@ -72,7 +72,7 @@
 </p>
 <p>
   <b>- Drinks -</b><br>
-  お茶　紅茶　コーヒー　お酒(日本酒)
+  お茶　紅茶　コーヒー　お酒
 </p>
 <p>
   <b>- Others -</b><br>
@@ -301,6 +301,10 @@
 |[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|
 |[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|
 |[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|
+|[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|
+|[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN|2025.01.03|
+|[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|
+|[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|
 <br>
 
 ### - PC, Consumer -
