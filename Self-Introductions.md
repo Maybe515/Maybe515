@@ -14,7 +14,7 @@
 -->
 
 ### プロフィール 👤　- About Me -
-「めびさん」「めびちゃん」と呼ばれてたりします。
+「めびさん」「めびちゃん」と呼ばれてたりします。  
 旅行や、ゲーム、ダーツ等色々しています。たまに絵も描くよ。  
 普段は 🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
@@ -27,7 +27,7 @@
 ### その他 🔗　- Others -
 - Nostr ＆ Bluesky での活動履歴　🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
 - 自作アイコン　🔗[Skill Icons - GitHub](https://github.com/Maybe515/skill-icons)
-- 自作フィード(Bluesky)　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
+- 自作フィード（Bluesky）　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
 <br>
 
 - **Nostr** にご興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
