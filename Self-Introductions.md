@@ -389,14 +389,6 @@ KH3　NieR:Automata
 <br>
   
 ## アプリゲー 📱　- App Games -
-<caption>▼現在プレイ中のタイトル</caption>
-
-|Title|UserID|Since|
-:-:|:-:|:-:
-|**駅メモ**|XBGYCS2121|2021.10.04|
-|**ゼンレスゾーンゼロ**|1302046263|2024.07.04|
-<br>
-
 <caption>★：メインでプレイしているタイトル</caption>
 
 |Title|UserID (Main / Sub)|Since|
@@ -427,12 +419,12 @@ KH3　NieR:Automata
 
 |Title|Play Data|Others|
 :-:|:-:|:-:
-|艦これ|Lv63|ラバウル基地|
-|とらドル【サ終】|Lv100↑||
-|プリンセスコネクト！|Lv250↑||
-|ＧＦ(仮)|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
-|メイプルストーリー|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv108||
-|グラブル|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
+|**艦これ**|Lv63|ラバウル基地|
+|**とらドル【サ終】**|Lv100↑||
+|**プリンセスコネクト！【サ終】**|Lv250↑||
+|**ＧＦ(仮)**|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
+|**メイプルストーリー**|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv108||
+|**グラブル**|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
 ## RTA 🏆　- Speedrun -
