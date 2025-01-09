@@ -1,6 +1,6 @@
 <h1>🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
 <b><p>
-  ※PCでの閲覧を推奨しています。<div align="right">Update since　2025.1.8</div>
+  ※PCでの閲覧を推奨しています。<div align="right">Update since　2025.1.9</div>
 </p></b>
 
 <!--
@@ -266,45 +266,39 @@
 ### - Arcade -
 **Started since　2008.08.17** <br>
 - 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
-<br>
-<caption>▼メインでプレイしている筐体</caption>
 
-|Title|Version|Since|Ability|Play Option|
-:-:|:-:|:-:|:-:|:-:
-|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
-|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
-|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
-|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank6|None|
-|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max16.33|**[Hi-Speed]** 10.50|
-|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max9.62|**[Hi-Speed]** 12.0|
-|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.0|
-<br>
+<caption>★：メインでプレイしているタイトル</caption>
 
-<caption>▼その他プレイした筐体</caption>
-
-|Title|Version|Since|
-:-:|:-:|:-:
-|[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|
-|[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|
-|[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|
-|[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|
-|[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.05|
-|[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|
-|[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|
-|[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|
-|[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|
-|[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|
-|[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|
-|[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|
-|[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|
-|[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|
-|[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|
-|[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|
-|[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|
-|[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|
-|[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN -INTEGRAL COMPOSITION-|2025.01.03|
-|[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|
-|[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|
+|★|Title|Version|Since|Ability|Play Option|
+:-:|:-:|:-:|:-:|:-:|:-:
+||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|-|-|
+||[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|-|-|
+|★|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
+|★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
+|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|-|**[SUDDEN+]** 230<br>**[FHS]** 290|
+|★|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank 6|None|
+||[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|-|-|
+||[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|-|-|
+||[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.05|-|-|
+||[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|-|-|
+||[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|-|-|
+|★|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max 16.33|**[Hi-Speed]** 10.50|
+||[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|-|-|
+||[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|-|-|
+||[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|-|-|
+||[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|-|-|
+||[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|-|-|
+|★|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max 9.62|**[Hi-Speed]** 12.0|
+|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.0|
+||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|-|-|
+||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|-|-|
+||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|-|-|
+||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|-|-|
+||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|-|-|
+||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|-|-|
+||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN -INTEGRAL COMPOSITION-|2025.01.03|-|-|
+||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|-|
+||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|-|
 <br>
 
 ### - PC, Consumer -
@@ -391,28 +385,28 @@ KH3　NieR:Automata
 ## アプリゲー 📱　- App Games -
 <caption>★：メインでプレイしているタイトル</caption>
 
-|Title|UserID (Main / Sub)|Since|
-:-:|:-:|:-:
-|**パズドラ**|161461878|2013.05.21|
-|**白猫**|CEJHWK2R4|2014.??.??|
-|**バトルガール【サ終】**|-|2015.??.??|
-|**放置少女**|53077|-|
-|**Arcaea**|938108129|2017.03.09|
-|**プリコネR**|886784051 / 456423834|2020.01.18|
-|**ブルアカ**|BFXRQCVQ / ASCVBOLR|-|
-|**原神**|-|-|
-|**NieR Re[in]carnation【サ終】**|182075368914|2021.02.18|
-|**ウマ娘**|189849910|2021.02.24|
-|**★ 駅メモ**|XBGYCS2121|2021.10.04|
-|**ヘブバン**|-|2022.02.10|
-|**マギレコ【サ終】**|-|2022.07.31|
-|**ブルリフS【サ終】**|425824573|2023.02.21|
-|**NIKKE**|73254891|-|
-|**崩壊スターレイル**|802967539|-|
-|**学マス**|MJSET52L|2024.05.22|
-|**★ ゼンレスゾーンゼロ**|1302046263|2024.07.04|
-|**ポケポケ**|9971605025180645|2025.01.06|
-|**鳴潮**|711756354|2025.01.08|
+|★|Title|UserID (Main / Sub)|Since|
+:-:|:-:|:-:|:-:
+||**パズドラ**|161461878|2013.05.21|
+||**白猫**|CEJHWK2R4|2014.??.??|
+||**バトルガール【サ終】**|-|2015.??.??|
+||**放置少女**|53077|-|
+||**Arcaea**|938108129|2017.03.09|
+||**プリコネR**|886784051 / 456423834|2020.01.18|
+||**ブルアカ**|BFXRQCVQ / ASCVBOLR|-|
+||**原神**|-|-|
+||**NieR Re[in]carnation【サ終】**|182075368914|2021.02.18|
+||**ウマ娘**|189849910|2021.02.24|
+|★|**駅メモ**|XBGYCS2121|2021.10.04|
+||**ヘブバン**|-|2022.02.10|
+||**マギレコ【サ終】**|-|2022.07.31|
+||**ブルリフS【サ終】**|425824573|2023.02.21|
+||**NIKKE**|73254891|-|
+||**崩壊スターレイル**|802967539|-|
+||**学マス**|MJSET52L|2024.05.22|
+|★|**ゼンレスゾーンゼロ**|1302046263|2024.07.04|
+||**ポケポケ**|9971605025180645|2025.01.06|
+||**鳴潮**|711756354|2025.01.08|
 <br>
 
 ## ソシャゲ 💻　- Social Games -
