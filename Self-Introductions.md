@@ -253,11 +253,11 @@
     <li>2016.03　🔗<a href="https://www.pixiv.net/users/14572354">pixiv</a> を開設</li>
     <li>2016.08　消しゴムはんこ・切り絵をやり始める</li>
     <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
-    <li>2017.10　母校の体育祭で応援装飾（イラスト兼監督）を担当する</li>
+    <li>2017.10　母校の体育祭で応援装飾（イラスト兼所属長）を担当する</li>
     <li>2018.04　アクセサリー作りをする（ネックレス）</li>
     <li>2019.03　🔗<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
     <li>2019.08　🔗<a href="https://twitter.com/amakawasakko">天川さっこ</a> 先生へＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
-    <li>2024.04　🔗<a href="">FANBOX</a> 🔗<a href="">Fantia</a> 🔗<a href="">Skeb</a> 🔗<a href="">BOOTH</a> を開設（整備中）</li>
+    <li>2024.04　🔗<a href="">FANBOX</a> 🔗<a href="">Fantia</a> 🔗<a href="">Skeb</a> 🔗<a href="">BOOTH</a> を開設</li>
   </ul>
 </details>
 <br>
@@ -266,7 +266,7 @@
 ### - Arcade -
 **Started since　2008.08.17** <br>
 - 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
-
+<br>
 <caption>★：メインでプレイしているタイトル</caption>
 
 |★|Title|Version|Since|Ability|Play Option|
@@ -293,12 +293,12 @@
 ||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|-|-|
 ||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|-|-|
 ||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|-|-|
-||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|-|-|
+||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|-|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|-|-|
 ||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|-|-|
-||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN -INTEGRAL COMPOSITION-|2025.01.03|-|-|
-||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|-|
-||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|-|
+||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN -INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
+||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
+||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
 <br>
 
 ### - PC, Consumer -
@@ -311,7 +311,7 @@
 |**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv15：S++　Lv16：S<br> **【STANDARD(4K)】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display Delay]** -3ms|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA (Hard)<br>Lv9：A (Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv7：S|None|
-|**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.00|
+|**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.50|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
 |**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv18：S+<br>**【Lunatic(4K)】** Lv16：A+　Lv18：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.5|
 <br>
@@ -474,8 +474,10 @@ KH3　NieR:Automata
 <br><br>
 
 ## 温泉 ♨　- Hot Spring -
+<!--
 - 🔗[今までに訪れた温泉郷](https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021)
 <br><br>
+-->
 
 ### 温泉むすめ　- Onsen Musume -
 **Started since　2021.06.05** <br>
