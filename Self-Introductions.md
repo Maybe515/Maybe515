@@ -43,41 +43,22 @@
 
 ## 趣味 🎾　- Enjoying Play, Into it, Hobbies -
 <!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
-<p>
-  <b>- Indoor -</b><br>
-  ゲーム　お絵かき　音楽鑑賞　映画鑑賞　料理　ファッション　カラオケ
-</p>
-<p>
-  <b>- Outdoor -</b><br>
-  旅行　温泉　トレッキング　山登り　キャンプ　カフェ巡り　神社・お寺巡り　写真撮影
-</p>
-<p>
-  <b>- Sports, Activities -</b><br>
-  スノボ　ダンス　ゴルフ　バスケ　サッカー　バレー　バドミントン　インディアカ　ヨガ　ダーツ
-</p>
-<p>
-  <b>- Collections -</b><br>
-  古銭集め　御朱印・御船印・鉄印集め　ICカード集め　切符・硬券収集
-</p>
-<p>
-  <b>- Mania -</b><br>
-  車　鉄道　ミリタリー（銃, 艦体）　競馬鑑賞　F1・ラリー鑑賞
-</p>
+|Categories|<div align="center">Contents</div>|
+:-:|:-
+|Indoor|ゲーム、お絵かき、音楽鑑賞、映画鑑賞、料理、ファッション、カラオケ
+|Outdoor|旅行、温泉、登山、トレッキング、キャンプ、カフェ巡り、神社・お寺巡り、写真撮影
+|Sports & Activities|スノボ、ダンス、ゴルフ、バスケ、サッカー、バレー、バドミントン、インディアカ、ヨガ、ダーツ|
+|Collections|古銭集め、御朱印・御船印・鉄印集め、ICカード集め、切符・硬券収集|
+|Mania|車、鉄道、ミリタリー（銃, 艦体）、競馬鑑賞、F1・ラリー鑑賞|
 <br>
 
 ## 好きなもの ⭐　- Like it -
-<p>
-  <b>- Foods -</b><br>
-  オムライス　天津飯　パスタ　まぜそば　スイーツ全般
-</p>
-<p>
-  <b>- Drinks -</b><br>
-  お茶　紅茶　コーヒー　お酒
-</p>
-<p>
-  <b>- Others -</b><br>
-  腕時計　コーギー　植物
-</p>
+|Categories|<div align="center">Contents</div>|
+:-:|:-
+|Foods|オムライス、天津飯、パスタ、まぜそば、スイーツ全般|
+|Drinks|お茶、紅茶、コーヒー、お酒|
+|Animals|コーギー、ハシビロコウ|
+|Others|腕時計、植物|
 <br>
 
 ## 推しているもの 💗　- FAV. -
@@ -296,7 +277,7 @@
 ||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|-|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|-|-|
 ||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|-|-|
-||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN -INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
+||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
 ||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
 <br>
