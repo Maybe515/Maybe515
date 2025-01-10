@@ -275,7 +275,7 @@
 ||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|-|-|
 ||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：Achv Rt.99%|-|
 ||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
-||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ5：B|-|
+||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ 5：B|-|
 ||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv3：AA+|-|
 ||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
@@ -285,14 +285,14 @@
 ### - PC, Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS**|専コン|Lv8：AA (Hard)<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**BMS（LR2, QMS）**|専コン|Lv8：A（Hard）<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
 |**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
 |**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
-|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S (FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
+|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S（FC）　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
 |**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv15：S++　Lv16：S<br> **【STANDARD(4K)】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display Delay]** -3ms|
-|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA (Hard)<br>Lv9：A (Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA（Hard）<br>Lv9：A（Easy）|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv7：S|None|
-|**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.50|
+|**MUSYNX**|キーボード|Lv10：赤EX（FC）　Lv11：A|**[Hi-Speed]** 5.50|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
 |**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv18：S+<br>**【Lunatic(4K)】** Lv16：A+　Lv18：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.5|
 <br>
@@ -300,7 +300,7 @@
 ### - Mobile -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**Arcaea**|iPhone SE2|PET 1.08|**【FR & EX+縛り】**<br>**[Hi-Speed]** 4.0|
+|**Arcaea**|iPhone SE2|PET 1.08|**[Hi-Speed]** 4.0|
 <br>
 
 ## 家庭用ゲーム 🎮　- CS Games -
