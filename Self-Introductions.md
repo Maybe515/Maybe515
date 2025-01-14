@@ -33,7 +33,7 @@
 - **Nostr** にご興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
 <br>
 
-## コテハン由来 🖋　- My handle name comes from -
+### コテハン由来 🖋　- My handle name comes from -
 <p>※某エ○ゲブランド様、某漫画家様とは関係ございません。</p>
 
 '08年に発売された 🔗[**アキバ系飲料「めいびぃ！」**](https://gigazine.net/news/20080817_sukumizu_meibi/) から。<br>
