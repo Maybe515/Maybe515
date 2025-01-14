@@ -456,7 +456,18 @@ KH3　NieR:Automata
 <br>
 
 ## ダーツ 　- Darts -
-（編集中）
+ライブ勢 / Rt.3.00↑
+
+<details>
+  <summary>プレイ記録</summary>
+  <ul>
+    <li>2024.08.10　ダーツを始める</li>
+    <li>2024.08.11　初 LOW TON</li>
+    <li>2024.10.04　初 HIGH TON</li>
+    <li>2024.11.09　初 HAT TRICK</li>
+    <li>2025.01.11　初 THREE IN THE BLACK</li>
+  </ul>
+</details>
 <br>
 
 ## 旅行 🚋　- Travels -
