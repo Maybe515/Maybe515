@@ -243,67 +243,11 @@
 </details>
 <br>
 
-## 音ゲー 🎹　- Rhythm Games -
-### - Arcade -
-**Started since　2008.08.17** <br>
-- 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
-<br>
-<caption>★：メインでプレイしているタイトル</caption>
-
-|★|Title|Version|Since|Ability|Play Option|
-:-:|:-:|:-:|:-:|:-:|:-:
-||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|-|-|
-||[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|-|-|
-|★|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
-|★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
-|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)|**[SUDDEN+]** 210<br>**[FHS]** 310|
-|★|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank 6|None|
-||[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|-|-|
-||[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|-|-|
-||[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.05|-|-|
-||[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|-|-|
-||[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|-|-|
-|★|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max 16.33|**[Hi-Speed]** 10.50|
-||[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|-|-|
-||[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|-|-|
-||[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|-|-|
-||[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|-|-|
-||[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|Lv8：A|-|
-|★|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max 9.62|**[Hi-Speed]** 12.0|
-|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.0|
-||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|-|-|
-||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|-|-|
-||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：Achv Rt.99%|-|
-||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
-||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ 5：B|-|
-||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv3：AA+|-|
-||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
-||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
-||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
+## ゲーム 🎮　- Games -
+### アーケードゲーム 🎮　- Arcade Games -
 <br>
 
-### - PC, Consumer -
-|Title|Playing environment|Ability|Play Option|
-:-:|:-:|:-:|:-:
-|**BMS（LR2, QMS）**|専コン|Lv8：A（Hard）<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
-|**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
-|**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
-|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S（FC）　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv15：S++　Lv16：S<br> **【STANDARD(4K)】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display Delay]** -3ms|
-|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA（Hard）<br>Lv9：A（Easy）|**[SUDDEN+]** 240<br>**[FHS]** 290|
-|**MUSE DASH**|キーボード|Lv7：S|None|
-|**MUSYNX**|キーボード|Lv10：赤EX（FC）　Lv11：A|**[Hi-Speed]** 5.50|
-|**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
-|**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv18：S+<br>**【Lunatic(4K)】** Lv16：A+　Lv18：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.5|
-<br>
-
-### - Mobile -
-|Title|Playing environment|Ability|Play Option|
-:-:|:-:|:-:|:-:
-|**Arcaea**|iPhone SE2|PET 1.08|**[Hi-Speed]** 4.0|
-<br>
-
-## 家庭用ゲーム 🎮　- CS Games -
+### 家庭用ゲーム 🎮　- CS Games -
 <!-- 好きな作品だけ記載して、プレイ済み等はスプレッドシートにまとめる -->
 <details>
   <summary>好きなタイトル・やりこんだタイトル</summary>
@@ -363,7 +307,7 @@ KH3　NieR:Automata
 -->
 <br>
   
-## アプリゲー 📱　- App Games -
+### アプリゲー 📱　- App Games -
 <caption>★：メインでプレイしているタイトル</caption>
 
 |★|Title|UserID (Main / Sub)|Since|
@@ -390,7 +334,7 @@ KH3　NieR:Automata
 ||**鳴潮**|711756354|2025.01.08|
 <br>
 
-## ソシャゲ 💻　- Social Games -
+### ソシャゲ 💻　- Social Games -
 
 |Title|Play Data|Others|
 :-:|:-:|:-:
@@ -402,7 +346,7 @@ KH3　NieR:Automata
 |**グラブル**|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
-## RTA 🏆　- Speedrun -
+### RTA 🏆　- Speedrun -
 - speedrun.com　🔗[Account](https://www.speedrun.com/user/Maybe515/)
 <br>
 <caption>▼非公式記録</caption>
@@ -413,7 +357,67 @@ KH3　NieR:Automata
 |**Jak1 [JP]**|PCSX2|Any%|21m 19s|'23/03/19 02:47|
 <br>
 
-## 美少女ゲーム 🖥　- Eroge & Galge -
+### 音ゲー 🎹　- Rhythm Games -
+#### - Arcade -
+**Started since　2008.08.17** <br>
+- 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
+<br>
+<caption>★：メインでプレイしているタイトル</caption>
+
+|★|Title|Version|Since|Ability|Play Option|
+:-:|:-:|:-:|:-:|:-:|:-:
+||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|-|-|
+||[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|-|-|
+|★|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
+|★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
+|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)|**[SUDDEN+]** 210<br>**[FHS]** 310|
+|★|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank 6|None|
+||[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|-|-|
+||[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|-|-|
+||[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.05|-|-|
+||[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.??.??|-|-|
+||[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.??.??|-|-|
+|★|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max 16.33|**[Hi-Speed]** 10.50|
+||[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2015.??.??|-|-|
+||[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|-|-|
+||[<img src="images/logos/crossbeats_REV.png" alt="croosbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|-|-|
+||[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|-|-|
+||[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|Lv8：A|-|
+|★|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max 9.62|**[Hi-Speed]** 12.0|
+|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.0|
+||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|-|-|
+||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|-|-|
+||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：Achv Rt.99%|-|
+||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
+||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ 5：B|-|
+||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv3：AA+|-|
+||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
+||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
+||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
+<br>
+
+#### - PC, Consumer -
+|Title|Playing environment|Ability|Play Option|
+:-:|:-:|:-:|:-:
+|**BMS（LR2, QMS）**|専コン|Lv8：A（Hard）<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
+|**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
+|**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S（FC）　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC(4K)】** Lv15：S++　Lv16：S<br> **【STANDARD(4K)】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display Delay]** -3ms|
+|**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA（Hard）<br>Lv9：A（Easy）|**[SUDDEN+]** 240<br>**[FHS]** 290|
+|**MUSE DASH**|キーボード|Lv7：S|None|
+|**MUSYNX**|キーボード|Lv10：赤EX（FC）　Lv11：A|**[Hi-Speed]** 5.50|
+|**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
+|**KALPA**|キーボード|<div align="left"> **【Normal(4K)】** Lv18：S+<br>**【Lunatic(4K)】** Lv16：A+　Lv18：A<br>**【Lunatic(5K)】** Lv14：A</div>|**[Hi-Speed]** 5.5|
+<br>
+
+#### - Mobile -
+|Title|Playing environment|Ability|Play Option|
+:-:|:-:|:-:|:-:
+|**Arcaea**|iPhone SE2|PET 1.08|**[Hi-Speed]** 4.0|
+<br>
+
+### 美少女ゲーム 🖥　- Eroge & Galge -
 - エロゲー批評空間　🔗[Account](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515)
 <br>
 <table>
