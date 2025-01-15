@@ -457,9 +457,20 @@ KH3　NieR:Automata
 
 ## ダーツ 　- Darts -
 ライブ勢 / Rt.3.00↑
+<caption>▼PRACTICE スコア</caption>
+
+|Game|Score (Max)|
+:-:|:-:
+|**COUNT-UP**|615|
+|**CENTER COUNT-UP**|10120|
+|**CRICKET COUNT-UP**|303|
+|**EAGLE'S EYE**|275|
+|**SHOOT OUT**|2966|
+|**SKILL CHECK**|108|
+<br>
 
 <details>
-  <summary>プレイ記録</summary>
+  <summary>Anniversary</summary>
   <ul>
     <li>2024.08.10　ダーツを始める</li>
     <li>2024.08.11　初 LOW TON</li>
