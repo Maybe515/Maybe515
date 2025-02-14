@@ -340,7 +340,7 @@ KH3　NieR:Automata
 |Title|Play Data|Others|
 :-:|:-:|:-:
 |**艦体これくしょん**|Lv63|ラバウル基地|
-|**To LOVEる-とらぶる-ダークネス-Idol Revolution【サ終】**|Lv100↑||
+|**To LOVEる-とらぶる-ダークネス-<br>Idol Revolution【サ終】**|Lv100↑||
 |**プリンセスコネクト！【サ終】**|Lv250↑||
 |**ガールフレンド(仮)**|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
 |**メイプルストーリー**|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv108||
@@ -456,7 +456,7 @@ KH3　NieR:Automata
 <br>
 
 ## ダーツ　- Darts -
-ライブ勢 / Rt.3.00↑
+ライブ勢 / Rt. 3.00↑
 <caption>▼PRACTICE スコア</caption>
 
 |Game|Score (Max)|
