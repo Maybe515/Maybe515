@@ -455,7 +455,7 @@ KH3　NieR:Automata
 </table>
 <br>
 
-## ダーツ 　- Darts -
+## ダーツ　- Darts -
 ライブ勢 / Rt.3.00↑
 <caption>▼PRACTICE スコア</caption>
 
