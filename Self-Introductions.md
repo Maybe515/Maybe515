@@ -371,7 +371,7 @@ KH3　NieR:Automata
 ||[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|-|-|
 |★|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
 |★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
-|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)<br>Lv10：B (A-Easy)|**[SUDDEN+]** 180<br>**[FHS]** 310|
+|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)<br>Lv10：B (Assist)|**[SUDDEN+]** 180<br>**[FHS]** 310|
 |★|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank 6|None|
 ||[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|-|-|
 ||[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|-|-|
