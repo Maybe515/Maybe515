@@ -340,11 +340,11 @@ KH3　NieR:Automata
 |Title|Play Data|Others|
 :-:|:-:|:-:
 |**艦体これくしょん**|Lv63|ラバウル基地|
-|**To LOVEる-とらぶる-ダークネス-<br>Idol Revolution【サ終】**|Lv100↑||
-|**プリンセスコネクト！【サ終】**|Lv250↑||
+|**To LOVEる-とらぶる-ダークネス-<br>Idol Revolution【サ終】**|Lv100 ↑||
+|**プリンセスコネクト！【サ終】**|Lv250 ↑||
 |**ガールフレンド(仮)**|Lv167|🔗[Account](http://vcard.ameba.jp/profile?userId=4374025)|
 |**メイプルストーリー**|**[ｴﾝｼﾞｪﾘｯｸﾊﾞｽﾀｰ]** Lv230<br>**[森の子リン]** Lv108||
-|**グランブルーファンタジー**|Rank63|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
+|**グランブルーファンタジー**|Rank68|🔗[Account](http://gbf.game.mbga.jp/#profile/18259066)|
 <br>
 
 ### RTA 🏆　- Speedrun -
