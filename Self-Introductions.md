@@ -349,7 +349,6 @@ KH3　NieR:Automata
 
 ### RTA 🏆　- Speedrun -
 - speedrun.com　🔗[Account](https://www.speedrun.com/user/Maybe515/)
-<br>
 <caption>▼非公式記録</caption>
 
 |Title [Region]|Hard|Category|Time|Date|
@@ -361,8 +360,6 @@ KH3　NieR:Automata
 ### 音ゲー 🎹　- Rhythm Games -
 #### - Arcade -
 **Started since　2008.08.17** <br>
-- 🔗[音ゲーまとめ](https://docs.google.com/spreadsheets/d/1Ma2HGvr2WH0oBMPS-Nf0WbsOgIvLGiqPT04ecaEQ5n8/edit?usp=sharing) <br>
-<br>
 <caption>★：メインでプレイしているタイトル</caption>
 
 |★|Title|Version|Since|Ability|Play Option|
@@ -420,11 +417,11 @@ KH3　NieR:Automata
 
 ### 美少女ゲーム 🖥　- Eroge & Galge -
 - エロゲー批評空間　🔗[Account](https://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/user_infomation.php?user=Maybe515)
-<br>
+
 <table>
   <tbody>
     <tr>
-      <th>Items</th>
+      <th></th>
       <th>Eroge</th>
       <th>Galge</th>
     </tr>
@@ -495,7 +492,7 @@ KH3　NieR:Automata
 ### 温泉むすめ　- Onsen Musume -
 **Started since　2021.06.05** <br>
 - 🔗[ぽか活まとめ](https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing)
-<br><br>
+
   
 **- 推しむすめ -** <br>
 [<img src="images/icons/hitoka.png" alt="hitoka" height="70px">](https://onsen-musume.jp/character/miyahama_hitoka)
