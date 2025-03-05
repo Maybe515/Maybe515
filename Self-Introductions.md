@@ -3,24 +3,14 @@
   ※PCでの閲覧を推奨しています。<div align="right">Update since　2025.2.14</div>
 </p></b>
 
-<!--
-<p>
-  You're not Japanese?<br>
-  Don't worry. I translated a my profile from Japananese into English.<br>
-  Let's check it out!<br>
-  🔗[Self-Introductions_en.md](Self-Introductions_en.md)
-</p>
-<br>
--->
-
 ### プロフィール 👤　- About Me -
 「めびさん」「めびちゃん」と呼ばれてたりします。  
-旅行や、ゲーム、ダーツ等色々しています。たまに絵も描くよ。  
+旅行やゲーム、ダーツ等色々しています。たまに絵も描くよ。  
 普段は 🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
-- 各リンクは 🔗[こちら](https://lit.link/Maybe515) にまとめてあります。
+- 各リンクは 🔗[こちら (Lit.Link)](https://lit.link/Maybe515) にまとめてあります。
 - GitHubのプロフィールは 🔗[こちら](https://github.com/Maybe515)
 <br>
 
@@ -41,7 +31,7 @@
 <p><img src="images/meibi.jpg" alt="meibi" height="150px"></p>
 <br>
 
-## 趣味 🎾　- Enjoying Play, Into it, Hobbies -
+## 趣味 🎾　- Enjoying Play / Into it / Hobbies -
 <!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
 |Categories|<div align="center">Contents</div>|
 :-:|:-
@@ -62,7 +52,7 @@
 <br>
 
 ## 推しているもの 💗　- FAV. -
-### 作品　- Anime, Comics, Novels -
+### 作品　- Anime / Comics / Novels -
 <!-- タイトルロゴを並べる。公式HPへ飛ばす。
 [<img src="images/logos/.png" alt="" height="70px">]()
 
@@ -107,7 +97,7 @@
 <br>
 
 ### キャラクター　- My wife -
-**- Anime, Manga -** <br>
+**- Anime / Manga -** <br>
 [<img src="images/icons/anchovy.png" alt="anchovy" height="70px">](https://girls-und-panzer.jp/chara/anchovy/)
 [<img src="images/icons/argo.png" alt="argo" height="70px">](https://sao-p.net/intro-character/character/#argo)
 [<img src="images/icons/chino.png" alt="chino" height="70px">](https://gochiusa.com/chara/chino.html)
@@ -394,7 +384,7 @@ KH3　NieR:Automata
 ||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
 <br>
 
-#### - PC, Consumer -
+#### - PC / Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
 |**BMS（LR2, QMS）**|専コン|Lv8：A（Hard）<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
