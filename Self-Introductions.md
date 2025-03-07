@@ -387,7 +387,7 @@ KH3　NieR:Automata
 #### - PC / Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS（LR2, QMS）**|専コン|Lv8：A（Hard）<br>Lv9：A|**[SUDDEN+]** 240<br>**[FHS]** 325~330|
+|**BMS（LR2, QMS）**|専コン|Lv8：A（Hard）<br>Lv9：A|**[SUDDEN+]** 290<br>**[FHS]** 360|
 |**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
 |**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S（FC）　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
