@@ -378,7 +378,7 @@ KH3　NieR:Automata
 ||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：Achv Rt.99%|-|
 ||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ 5：B|-|
-||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv3：AA+|-|
+||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv4：SS|-|
 ||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
 ||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
@@ -387,7 +387,7 @@ KH3　NieR:Automata
 #### - PC / Consumer -
 |Title|Playing environment|Ability|Play Option|
 :-:|:-:|:-:|:-:
-|**BMS (LR2, QMS)**|専コン|Lv8：A (Hard)<br>Lv9：A|**[SUDDEN+]** 290<br>**[FHS]** 360|
+|**BMS (LR2, QMS)**|専コン|Lv8：A (Hard)<br>Lv9：A|**[SUDDEN+]** 210<br>**[FHS]** 310|
 |**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
 |**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S (FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
@@ -396,7 +396,7 @@ KH3　NieR:Automata
 |**MUSE DASH**|キーボード|Lv7：S|None|
 |**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.50|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
-|**KALPA**|キーボード|<div align="left"> **【Normal_4K】** Lv18：S+<br>**【Lunatic_4K】** Lv16：A+　Lv18：A<br>**【Lunatic_5K】** Lv14：A</div>|**[Hi-Speed]** 5.5|
+|**KALPA**|キーボード|<div align="left"> **【Normal_4K】** Lv18：S+　Lv19~Lv21：A<br>**【Lunatic_4K】** Lv16：A+　Lv18：A<br>**【Lunatic_5K】** Lv14：A</div>|**[Hi-Speed]** 5.8<br>**[判定ライン]** -2|
 <br>
 
 #### - Mobile -
@@ -459,12 +459,13 @@ KH3　NieR:Automata
 <details>
   <summary>Anniversary</summary>
   <ul>
-    <li>2024.08.10　ダーツを始める</li>
+    <li>2024.08.10　初 PLAY</li>
     <li>2024.08.11　初 LOW TON</li>
     <li>2024.10.04　初 HIGH TON</li>
     <li>2024.11.09　初 HAT TRICK</li>
     <li>2025.01.11　初 THREE IN THE BLACK</li>
     <li>2025.01.18　初 HIGH OUT</li>
+    <li>2025.05.03　初 THREE IN THE BED</li>
   </ul>
 </details>
 <br>
