@@ -49,6 +49,7 @@
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="PowerShell" height="50">](https://docs.microsoft.com/en-us/powershell/)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="VSCode" height="50">](https://code.visualstudio.com)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="VStudio" height="50">](https://visualstudio.microsoft.com/)
+ [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="DotNet" height="50">](https://dotnet.microsoft.com/ja-jp/)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="Photoshop" height="50">](https://www.adobe.com/in/products/photoshop.html)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="Illustrator" height="50">](https://www.adobe.com/in/products/illustrator.html)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" alt="Blender" height="50">](https://www.blender.org/)
@@ -58,6 +59,7 @@
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50">](https://github.com/)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50">](https://discord.com)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBots" height="50">](https://discord.com)
+ 
 
 <!--
   [<img src=".svg" alt="" height="50">]()
