@@ -88,16 +88,16 @@
   <summary>Skills more</summary>
   <ul>
     <b>- Software -</b>
-    <li>Programming (VBA, VB, Ladder)</li>
+    <li>Programing</li>
     <li>CAD</li>
     <li>App development (Android)</li>
     <li>Made a SSG file</li>
     <br>
     <b>- Hardware -</b>
     <li>Soldering</li>
-    <li>Repair (Note PC, iPhone)</li>
+    <li>Repair (Note PC, iPhone, Watch)</li>
     <li>Electrical construction</li>
-    <li>Hand-made (PC, Multimeter, Electronic Music box)</li>
+    <li>Hand-made (Desktop PC, Multimeter, Electronic Music box)</li>
     <li>Sequential Control (MELSEC)</li>
     <br>
     <b>- Create -</b>
