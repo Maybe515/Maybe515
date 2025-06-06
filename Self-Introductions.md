@@ -6,7 +6,6 @@
 ### プロフィール 👤　- About Me -
 「めびさん」「めびちゃん」と呼ばれてたりします。  
 旅行やゲーム、ダーツ等色々しています。たまに絵も描くよ。  
-普段は 🔗[Twitter](https://twitter.com/Maybe515) か 🔗[Nostr](https://nostter.app/maybe515@iris.to) にいます。  
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
@@ -199,7 +198,7 @@
 |Name|Since|Member ship|
 :-:|:-:|:-:
 |**兄者弟者** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15">](https://www.youtube.com/@norunine)|2010年|-|
-|**如月ささら** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="sasara" height="15">](https://www.youtube.com/@kisaragi_sasara_today1cap)|2023年|2023.03.01|
+|**DOLCE.** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="dolce" height="15">](https://www.youtube.com/@dolce_iwate)|2019年|-|
 <br>
 
 
@@ -219,16 +218,16 @@
     <li>2010.??　うごメモで開催された格闘作品コンテストで入賞する</li>
     <li>2013.05　マイクラでドット絵アートをやり始める</li>
     <li>2014.03　美少女系イラスト（アニメ調）を描き始める</li>
-    <li>2015.01　サークル（🔗<a href="https://portal.circle.ms/Circle/Index/10483177">MAYBEL</a>）を立ち上げる</li>
+    <li>2015.01　サークル（🔗<a href="https://portal.circle.ms/Circle/Index/10483177">MAYBEL</a>）開設</li>
     <li>2015.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2016.03　🔗<a href="https://www.pixiv.net/users/14572354">pixiv</a> を開設</li>
     <li>2016.08　消しゴムはんこ・切り絵をやり始める</li>
     <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
     <li>2017.10　母校の体育祭で応援装飾（イラスト兼所属長）を担当する</li>
     <li>2018.04　アクセサリー作りをする（ネックレス）</li>
-    <li>2019.03　ＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
-    <li>2019.08　ＦＡ（アナログ）を描く　※ご本人にお渡し済み</li>
-    <li>2024.04　🔗<a href="">FANBOX</a> 🔗<a href="">Fantia</a> 🔗<a href="">Skeb</a> 🔗<a href="">BOOTH</a> を開設</li>
+    <li>2019.03　ファンアート（アナログ）を描く</li>
+    <li>2019.08　ファンアート（アナログ）を描く</li>
+    <li>2024.04　🔗<a href="https://maybe515.fanbox.cc/">FANBOX</a> 🔗<a href="https://fantia.jp/Maybe515">Fantia</a> 🔗<a href="https://skeb.jp/@Maybe515">Skeb</a> 🔗<a href="https://maybe515.booth.pm/">BOOTH</a> を開設</li>
   </ul>
 </details>
 <br>
@@ -323,6 +322,7 @@ KH3　NieR:Automata
 |★|**ゼンレスゾーンゼロ**|1302046263|2024.07.04|
 ||**Pokémon Trading Card Game Pocket**|9971605025180645|2025.01.06|
 ||**鳴潮**|711756354|2025.01.08|
+||CoA|-|2025.06.01|
 <br>
 
 ### ソシャゲ 💻　- Social Games -
