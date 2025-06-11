@@ -453,7 +453,7 @@ KH3　NieR:Automata
 |**CRICKET COUNT-UP**|303|
 |**EAGLE'S EYE**|275|
 |**SHOOT OUT**|2966|
-|**SKILL CHECK**|108|
+|**SKILL CHECK**|117|
 <br>
 
 <details>
