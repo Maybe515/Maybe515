@@ -152,7 +152,7 @@
     <li>【艦これ】響、瑞鳳、瑞鶴</li>
     <li>【プリコネ】サレン、ネネカ</li>
     <li>【バトガ】あんこ</li>
-    <li>【シャニマス】冬優子、円香</li>
+    <li>【シャニマス】冬優子</li>
     <li>【ウマ娘】タキオン、カフェ、ダスカ、タイシン</li>
     <li>【ブルアカ】ネル、ヒナ、ウイ</li>
     <li>【千恋＊万花】ムラサメちゃん</li>
@@ -389,9 +389,9 @@ KH3　NieR:Automata
 :-:|:-:|:-:|:-:
 |**BMS (LR2, QMS)**|専コン|Lv8：A (Hard)<br>Lv9：A|**[SUDDEN+]** 210<br>**[FHS]** 310|
 |**k-shoot MANIA**|キーボード|Lv14：AA|**[FHS]** 700|
-|**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C600<br>**[Scroll]** Reverse<br>**[Judge]** 4|
+|**StepMania 5**|キーボード|Lv11：AA|**[Hi-Speed]** C675<br>**[Scroll]** Reverse<br>**[Judge]** 4|
 |**DJMAX RESPECT Ⅴ**|キーボード|<div align="left"> **【4B】** Lv15：S (FC)　SC13：A<br> **【5B】**-<br> **【6B】** Lv15：A<br>**【8B】** Lv9：S　Lv11：A</div>|**[Hi-Speed]** 4.5|
-|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC_4K】** Lv15：S++　Lv16：S<br> **【STANDARD_4K】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display Delay]** -3ms|
+|**EZ2ON REBOOT:R**|キーボード|<div align="left"> **【BASIC_4K】** Lv15：S++　Lv16：S<br> **【STANDARD_4K】** Lv13：S++　Lv15：S+　Lv16：S　Lv17：A</div>|**[Hi-Speed]** 6.5<br> **[Display/BGA Delay]** -25ms|
 |**beatmaniaⅡDX<br>INFINITAS**|専コン|Lv8：AA (Hard)<br>Lv9：A (Easy)|**[SUDDEN+]** 240<br>**[FHS]** 290|
 |**MUSE DASH**|キーボード|Lv7：S|None|
 |**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.50|
