@@ -19,8 +19,8 @@
 - 自作フィード（Bluesky）　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
 <br>
 
-- **Nostr** にご興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
-<br>
+<!-- **Nostr** にご興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
+<br>-->
 
 ### コテハン由来 🖋　- My handle name comes from -
 <p>※某エ○ゲブランド様、某漫画家様とは関係ございません。</p>
