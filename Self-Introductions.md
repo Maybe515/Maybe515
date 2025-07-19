@@ -471,7 +471,7 @@ KH3　NieR:Automata
 <br>
 
 ## 旅行 🚋　- Travels -
-- 🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/ajqsjwcjytjxirjpoTy/)
+- 🔗[経県値マップ 都道府県版](https://uub.jp/j.cgi/tjxirjplajqsjwcjyo/)
 <br><br>
 
 ## 温泉 ♨　- Hot Spring -
