@@ -396,7 +396,8 @@ KH3　NieR:Automata
 |**MUSE DASH**|キーボード|Lv7：S|None|
 |**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.50|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
-|**KALPA**|キーボード|<div align="left"> **【Normal_4K】** Lv18：S+　Lv19：S　Lv20，21：A<br>**【Lunatic_4K】** Lv16：A+　Lv18：A<br>**【Lunatic_5K】** Lv14：A</div>|**[Hi-Speed]** 5.7<br>**[判定ライン]** -2|
+|**KALPA**|キーボード|<div align="left"> **【Normal_4K】** Lv18：S+　Lv19：S　Lv20，21：A<br>**【Lunatic_4K】** Lv16：A+　Lv18：A<br>**【Lunatic_5K】** Lv16：S+　Lv17：A+</div>|**[Hi-Speed]** 5.7<br>**[判定ライン]** -2|
+|**東方ダンマクカグラ**|キーボード|<div align="left"> **【4K】** Lv28：SS<br>**【6K】** -|**[Hi-Speed]** 440<br>**[判定タイミング]** 5|
 <br>
 
 #### - Mobile -
