@@ -5,7 +5,7 @@
 
 ### プロフィール 👤　- About Me -
 「めびさん」「めびちゃん」と呼ばれてたりします。  
-旅行やゲーム、ダーツ等色々しています。たまに絵も描くよ。  
+旅行やゲーム、ダーツ等色々しています。たまに絵も描きます。  
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
@@ -354,11 +354,11 @@ KH3　NieR:Automata
 
 |★|Title|Version|Since|Ability|Play Option|
 :-:|:-:|:-:|:-:|:-:|:-:
-||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|Lv17：B (Normal)|**[Hi-Speed]** 2.0|
+||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|Lv17：B (Normal)|**[Hi-Speed]** 200|
 ||[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|11|2008.??.??|-|-|
 |★|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
 |★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
-|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)<br>Lv10：B (Easy)|**[SUDDEN+]** 210<br>**[FHS]** 300|
+|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)<br>Lv10：B (Easy)|**[SUDDEN+]** 210<br>**[FHS]** 293|
 |★|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank 6|None|
 ||[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|-|-|
 ||[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|-|-|
@@ -372,13 +372,13 @@ KH3　NieR:Automata
 ||[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|-|-|
 ||[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|Lv8：S|**[Hi-Speed]** 2.0|
 |★|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max 9.62|**[Hi-Speed]** 12.0|
-|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.0|
+|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.5|
 ||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|-|-|
 ||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|Lv7：92|**[Hi-Speed]** 4.0|
-||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：Achv Rt.99%|-|
+||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：SS<br>Lv8：S|-|
 ||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ 5：B|-|
-||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv4：SS|-|
+||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv4：SSS<br>Lv6：AA+|-|
 ||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
 ||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2025.01.03|-|**[Hi-Speed]** 3.0|
 ||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2025.01.03|-|**[Hi-Speed]** 3.0|
@@ -396,7 +396,7 @@ KH3　NieR:Automata
 |**MUSE DASH**|キーボード|Lv7：S|None|
 |**MUSYNX**|キーボード|Lv10：赤EX (FC)　Lv11：A|**[Hi-Speed]** 5.50|
 |**vivid/stasis**|キーボード|Lv11：SS+　Lv13：S|**[Hi-Speed]** 7.5|
-|**KALPA**|キーボード|<div align="left"> **【Normal_4K】** Lv18：S+　Lv19~Lv21：A<br>**【Lunatic_4K】** Lv16：A+　Lv18：A<br>**【Lunatic_5K】** Lv14：A</div>|**[Hi-Speed]** 5.8<br>**[判定ライン]** -2|
+|**KALPA**|キーボード|<div align="left"> **【Normal_4K】** Lv18：S+　Lv19：S　Lv20，21：A<br>**【Lunatic_4K】** Lv16：A+　Lv18：A<br>**【Lunatic_5K】** Lv14：A</div>|**[Hi-Speed]** 5.7<br>**[判定ライン]** -2|
 <br>
 
 #### - Mobile -
