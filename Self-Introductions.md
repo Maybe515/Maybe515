@@ -168,9 +168,9 @@
 |❤|Name|Since|FANBOX|
 :-:|:-:|:-:|:-:
 ||**白もち桜** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="shiromoti_sakura" height="15">](https://twitter.com/sakura_siromoti)|2015年|-|
-||**あづみ一樹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="adumi_kazuki" height="15">](https://twitter.com/kazukiadumi)|2016年|2021.01.08|
-|❤|**天川さっこ** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="sakko" height="15">](https://twitter.com/amakawasakko)|2017年|2019.06.26|
-|❤|**茉宮祈芹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="kiseri" height="15">](https://twitter.com/kiseri0502)|2018年|2020.10.03|
+||**あづみ一樹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="adumi_kazuki" height="15">](https://twitter.com/kazukiadumi)|2016年|2021.1.8|
+|❤|**天川さっこ** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="sakko" height="15">](https://twitter.com/amakawasakko)|2017年|2019.6.26|
+|❤|**茉宮祈芹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="kiseri" height="15">](https://twitter.com/kiseri0502)|2018年|2020.10.3|
 ||**ひづき夜宵** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="hiduki_yayoi" height="15">](https://twitter.com/hiduki_yayoi)|2019年|-|
 ||**muku** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="muku" height="15">](https://twitter.com/muku_apupop)|2019年|-|
 ||**おもちもなか** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="monaka" height="15">](https://twitter.com/monaka_0326_)|2021年|-|
@@ -182,7 +182,7 @@
 |**田口宏子**|2006年|-|
 |**野中藍**|2006年|-|
 |**川上とも子**|2006年|-|
-|**堀江由衣**|2013年|**【黒ネコ同盟】** 2020.06.26 (No.14880)|
+|**堀江由衣**|2013年|**【黒ネコ同盟】** 2020.6.26 (No.14880)|
 <br>
 
 ### 歌手・グループ　- Singers & Groups -
@@ -191,7 +191,7 @@
 |**ave;new**|2008年|-|
 |**ガゼル（やなぎなぎ）**|2008年|-|
 |**Queen**|2014年|-|
-|**三代目 J Soul Brothers<br>from EXILE TRIBE**|2015年|**【EX Family】** 2017.07.14 (No.1114564)<br> **【mate】** 2022.11.02 (No.JSB0023720)|
+|**三代目 J Soul Brothers<br>from EXILE TRIBE**|2015年|**【EX Family】** 2017.7.14 (No.1114564)<br> **【mate】** 2022.11.2 (No.JSB0023720)|
 <br>
 
 ### 配信者さん　- Live Streamers -
@@ -207,28 +207,54 @@
 
 <details>
   <summary>活動年表</summary>
+  2007年
   <ul>
-    <li>2007.??　イラスト（版権もの・模写）を描き始める</li>
-    <li>2009.04　うごメモで棒バトを描き始める</li>
-    <li>2009.05　うごメモでドット絵を描き始める</li>
-    <li>2009.05　うごメモで棒人間のデザインやカメラエフェクト、ドット絵などの素材を配布する</li>
-    <li>2009.07　うごメモでプチマンガを描く</li>
-    <li>2009.07　街森でマイデザ配布をする</li>
-    <li>2009.09　モンハンを題材にしたプチマンガやプチアートを描く</li>
-    <li>2010.??　うごメモで開催された格闘作品コンテストで入賞する</li>
-    <li>2013.05　マイクラでドット絵アートをやり始める</li>
-    <li>2014.03　美少女系イラスト（アニメ調）を描き始める</li>
-    <li>2015.01　サークル（🔗<a href="https://portal.circle.ms/Circle/Index/10483177">MAYBEL</a>）開設</li>
-    <li>2015.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
-    <li>2016.03　🔗<a href="https://www.pixiv.net/users/14572354">pixiv</a> を開設</li>
-    <li>2016.08　消しゴムはんこ・切り絵をやり始める</li>
-    <li>2016.10　母校の体育祭で応援装飾（イラスト）を担当する</li>
-    <li>2017.10　母校の体育祭で応援装飾（イラスト兼所属長）を担当する</li>
-    <li>2018.04　アクセサリー作りをする（ネックレス）</li>
-    <li>2019.03　ファンアート（アナログ）を描く</li>
-    <li>2019.08　ファンアート（アナログ）を描く</li>
-    <li>2024.04　🔗<a href="https://maybe515.fanbox.cc/">FANBOX</a> 🔗<a href="https://fantia.jp/Maybe515">Fantia</a> 🔗<a href="https://skeb.jp/@Maybe515">Skeb</a> 🔗<a href="https://maybe515.booth.pm/">BOOTH</a> を開設</li>
+    <li>イラスト（版権・写実画）を描き始める</li>
   </ul>
+  2009年
+  <ul>
+    <li>うごくメモ帳にて作品を投稿する（棒人間バトル、棒人間バトルに関するデザインやカメラエフェクト、ドット絵やBGMの素材など）</li>
+    <li>ピクセルアートを描き始める</li>
+    <li>どうぶつの森でマイデザインを配布する</li>
+    <li>モンハンの二次創作（マンガ、アート）を描く</li>
+  </ul>
+  2010年
+  <ul>
+    <li>うごくメモ帳で開催された格闘作品コンテストで入賞する</li>
+  </ul>
+  2014年
+  <ul>
+    <li>美少女系イラスト（アニメ調）を描き始める</li>
+  </ul>
+  2015年
+  <ul>
+    <li>サークル（🔗<a href="https://portal.circle.ms/Circle/Index/10483177">MAYBEL</a>）を開設</li>
+    <li>母校の体育祭の応援装飾（イラスト）を担当する</li>
+  </ul>
+  2016年
+  <ul>
+    <li>🔗<a href="https://www.pixiv.net/users/14572354">pixiv</a> にて作品を投稿する</li>
+    <li>消しゴムはんこ・切り絵を始める</li>
+    <li>母校の体育祭の応援装飾（イラスト）を担当する</li>
+  </ul>
+  2017年
+  <ul>
+    <li>母校の体育祭の応援装飾（イラスト）を担当する</li>
+  </ul>
+  2018年
+  <ul>
+    <li>アクセサリー（ネックレス）作りをする</li>
+  </ul>
+  2019年
+  <ul>
+    <li>ファンアート（アナログ絵）を描く</li>
+  </ul>
+  <!--
+  2024年
+  <ul>
+    <li>🔗<a href="https://maybe515.fanbox.cc/">FANBOX</a> 🔗<a href="https://fantia.jp/Maybe515">Fantia</a> 🔗<a href="https://skeb.jp/@Maybe515">Skeb</a> 🔗<a href="https://maybe515.booth.pm/">BOOTH</a> を開設</li>
+  </ul>
+  -->
 </details>
 <br>
 
@@ -302,27 +328,27 @@ KH3　NieR:Automata
 
 |★|Title|UserID (Main / Sub)|Since|
 :-:|:-:|:-:|:-:
-||**パズドラ**|161461878|2013.05.21|
+||**パズドラ**|161461878|2013.5.21|
 ||**白猫Project**|CEJHWK2R4|2014.??.??|
 ||**バトルガール【サ終】**|-|2015.??.??|
 ||**放置少女**|53077|-|
-||**Arcaea**|938108129|2017.03.09|
-||**プリンセスコネクトRe:Dive**|886784051 / 456423834|2020.01.18|
+||**Arcaea**|938108129|2017.3.9|
+||**プリンセスコネクトRe:Dive**|886784051 / 456423834|2020.1.18|
 ||**ブルーアーカイブ**|BFXRQCVQ / ASCVBOLR|-|
-||**原神**|833220432|2021.06.14|
-||**NieR Re[in]carnation【サ終】**|182075368914|2021.02.18|
-||**ウマ娘**|189849910|2021.02.24|
-|★|**駅メモ**|XBGYCS2121|2021.10.04|
-||**ヘブンバーンズレッド**|-|2022.02.10|
-||**マギアレコード【サ終】**|-|2022.07.31|
-||**BLUE REFLECTION 燦【サ終】**|425824573|2023.02.21|
+||**原神**|833220432|2021.6.14|
+||**NieR Re[in]carnation【サ終】**|182075368914|2021.2.18|
+||**ウマ娘**|189849910|2021.2.24|
+|★|**駅メモ**|XBGYCS2121|2021.10.4|
+||**ヘブンバーンズレッド**|-|2022.2.10|
+||**マギアレコード【サ終】**|-|2022.7.31|
+||**BLUE REFLECTION 燦【サ終】**|425824573|2023.2.21|
 ||**NIKKE**|73254891|-|
 ||**崩壊スターレイル**|802967539|-|
-||**学園アイドルマスター**|MJSET52L|2024.05.22|
-|★|**ゼンレスゾーンゼロ**|1302046263|2024.07.04|
-||**Pokémon Trading Card Game Pocket**|9971605025180645|2025.01.06|
-||**鳴潮**|711756354|2025.01.08|
-||**クリスタル・オブ・アトラン**|-|2025.06.01|
+||**学園アイドルマスター**|MJSET52L|2024.5.22|
+|★|**ゼンレスゾーンゼロ**|1302046263|2024.7.04|
+||**Pokémon Trading Card Game Pocket**|9971605025180645|2025.1.6|
+||**鳴潮**|711756354|2025.1.8|
+||**クリスタル・オブ・アトラン**|-|2025.6.1|
 <br>
 
 ### ソシャゲ 💻　- Social Games -
@@ -343,45 +369,45 @@ KH3　NieR:Automata
 
 |Title [Region]|Hard|Category|Time|Date|
 :-:|:-:|:-:|:-:|:-:
-|**Jak1 [JP]**|PCSX2|100%|3h 11m 27s|'23/03/12 02:40|
-|**Jak1 [JP]**|PCSX2|Any%|21m 19s|'23/03/19 02:47|
+|**Jak1 [JP]**|PCSX2|100%|3h 11m 27s|'23/3/12 2:40|
+|**Jak1 [JP]**|PCSX2|Any%|21m 19s|'23/3/19 2:47|
 <br>
 
 ### 音ゲー 🎹　- Rhythm Games -
 #### - Arcade -
-**Started since　2008.08.17** <br>
+**Started since　2007.9.??** <br>
 <caption>★：メインでプレイしているタイトル</caption>
 
 |★|Title|Version|Since|Ability|Play Option|
 :-:|:-:|:-:|:-:|:-:|:-:
 ||[<img src="images/logos/Taiko_no_Tatsujin.png" alt="taiko" width="150px">](https://taiko.namco-ch.net/taiko/)|10|2007.09.??|-|-|
-||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.08.17|Lv17：B (Normal)|**[Hi-Speed]** 200|
-||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2009.01.03|-|**[Hi-Speed]** 3.0|
-||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2009.01.03|-|**[Hi-Speed]** 3.0|
+||[<img src="images/logos/pop'n_music.png" alt="pop'n_music" width="150px">](https://p.eagate.573.jp/game/popn/)|16 PARTY♪|2008.8.17|Lv17：B (Normal)|**[Hi-Speed]** 200|
+||[<img src="" alt="beatmania_iii" width="150px">]()|APPEND CORE REMIX|2009.1.3|-|**[Hi-Speed]** 3.0|
+||[<img src="" alt="beatmania" width="150px">]()|THE FINAL|2009.1.3|-|**[Hi-Speed]** 3.0|
 |★|[<img src="images/logos/jubeat.png" alt="jubeat" width="150px">](https://p.eagate.573.jp/game/jubeat/)|saucer|2013.10.13|-|**[Marker]** Flower|
-|★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.04.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
-|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.04.27|Lv8：AA (Hard)<br>Lv9：A (Normal)<br>Lv10：B (Easy)|**[SUDDEN+]** 210<br>**[FHS]** 293|
+|★|[<img src="images/logos/SOUND_VOLTEX.png" alt="sdvx" width="150px">](https://p.eagate.573.jp/game/sdvx/)|Ⅱ -infinite infection-|2014.4.27|VF 8.453|**[FHS]** 690<br>**[JUDGE]** +3|
+|★|[<img src="images/logos/beatmania_iidx.png" alt="beatmania_iidx" width="150px">](https://p.eagate.573.jp/game/2dx/)|SPADA|2014.4.27|Lv8：AA (Hard)<br>Lv9：A (Normal)<br>Lv10：B (Easy)|**[SUDDEN+]** 210<br>**[FHS]** 293|
 |★|[<img src="images/logos/BeatStream.png" alt="beatstream" width="150px">](https://p.eagate.573.jp/game/beatstream/index.html)|無印|2014.10.23|Rank 6|None|
 ||[<img src="images/logos/REFLECT_BEAT.png" alt="reflectbeat" width="150px">](https://p.eagate.573.jp/game/reflec/index.html)|groovin'!!|2014.10.23|-|-|
 ||[<img src="images/logos/HatsuneMiku_DIVA_AC.png" alt="diva_ac" width="150px">](http://miku.sega.jp/arcade/)|Future Tone|2014.10.23|-|-|
-||[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.05|-|-|
-||[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.12.05|-|-|
-||[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.12.05|-|-|
+||[<img src="images/logos/GROOVE_COASTER.png" alt="groovecoaster" width="150px">](https://groovecoaster.com/)|EX|2014.12.5|-|-|
+||[<img src="images/logos/GITADORA.png" alt="gitadora" width="150px">](https://p.eagate.573.jp/game/gfdm/)|OverDrive|2014.12.5|-|-|
+||[<img src="images/logos/DanceDanceRevolution.png" alt="ddr" width="150px">](https://p.eagate.573.jp/game/ddr/)|2013|2014.12.5|-|-|
 |★|[<img src="images/logos/CHUNITHM.png" alt="chunithm" width="150px">](https://chunithm.sega.jp/)|無印|2015.12.10|max 16.33|**[Hi-Speed]** 10.50|
-||[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2016.02.14|-|-|
-||[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.02.14|-|-|
-||[<img src="images/logos/crossbeats_REV.png" alt="crossbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.03.16|-|-|
-||[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.05.20|-|-|
-||[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.03.13|Lv8：S|**[Hi-Speed]** 2.0|
-|★|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.08.11|max 9.62|**[Hi-Speed]** 12.0|
-|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.05.12|max 12853.02|**[Hi-Speed]** 5.5|
-||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.07.05|-|-|
-||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.03.22|Lv7：92|**[Hi-Speed]** 4.0|
-||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.04.06|Lv7：SS<br>Lv8：S|-|
-||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.05.01|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
-||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.05.01|EZ 5：B|-|
-||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.01.03|Lv4：SSS<br>Lv6：AA+|-|
-||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.01.03|-|**[Hi-Speed]** 2.50|
+||[<img src="images/logos/Synchronica.png" alt="synchronica" width="150px">](https://bandainamco-am.co.jp/am/vg/Synchronica/)|-|2016.2.14|-|-|
+||[<img src="images/logos/MÚSECA.png" alt="museca" width="150px">](https://p.eagate.573.jp/game/museca/)|無印|2016.2.14|-|-|
+||[<img src="images/logos/crossbeats_REV.png" alt="crossbeats" width="150px">](https://www.capcom.co.jp/arcade/rev/)|無印|2016.3.16|-|-|
+||[<img src="images/logos/maimai.png" alt="maimai" width="150px">](https://maimai.sega.jp/)|PiNK|2016.5.20|-|-|
+||[<img src="images/logos/NOSTALGIA.png" alt="nostalgia" width="150px">](https://p.eagate.573.jp/game/nostalgia/)|無印|2017.3.13|Lv8：S|**[Hi-Speed]** 2.0|
+|★|[<img src="images/logos/ONGEKI.png" alt="ongeki" width="150px">](https://ongeki.sega.jp/)|無印|2018.8.11|max 9.62|**[Hi-Speed]** 12.0|
+|★|[<img src="images/logos/MUSIC_DIVER.png" alt="musicdiver" width="150px">](https://musicdiver.jp/)|無印|2023.5.12|max 12853.02|**[Hi-Speed]** 5.5|
+||[<img src="images/logos/CHRONO_CIRCLE.png" alt="chronocircle" width="150px">]()|無印|2023.7.5|-|-|
+||[<img src="images/logos/DANCERUSH_STARDOM.png" alt="drs" width="150px">](https://p.eagate.573.jp/game/dan/)|無印|2024.3.22|Lv7：92|**[Hi-Speed]** 4.0|
+||[<img src="images/logos/PolarisChord.png" alt="polarischord" width="150px">](https://p.eagate.573.jp/game/polarischord/pc/index.html)|無印|2024.4.6|Lv7：SS<br>Lv8：S|-|
+||[<img src="" alt="ez2ac" width="150px">]()|FINAL：EX|2024.5.1|【5K RUBY】Lv5：B|**[Hi-Speed]** 2.50|
+||[<img src="" alt="3s" width="150px">]()|Renascence Burst|2024.5.1|EZ 5：B|-|
+||[<img src="" alt="piu" width="150px">]()|2023 PHOENIX|2025.1.3|Lv4：SSS<br>Lv6：AA+|-|
+||[<img src="" alt="ez2dj" width="150px">]()|Azure ExpressioN<br>-INTEGRAL COMPOSITION-|2025.1.3|-|**[Hi-Speed]** 2.50|
 <br>
 
 #### - PC / Consumer -
@@ -420,8 +446,8 @@ KH3　NieR:Automata
     </tr>
     <tr>
       <th>プレイ開始日</th>
-      <td>2016.07.19</td>
-      <td>2008.09.??</td>
+      <td>2016.7.19</td>
+      <td>2008.9.??</td>
     </tr>
     <tr>
       <th>初プレイ作品</th>
@@ -446,7 +472,7 @@ KH3　NieR:Automata
 <br>
 
 ## ダーツ 🎯　- Darts -
-ライブ勢 / Rt. 3.00↑
+ライブ勢 / Rt. 3.50↑
 <caption>▼PRACTICE スコア</caption>
 
 |Game|Score (Max)|
@@ -462,13 +488,13 @@ KH3　NieR:Automata
 <details>
   <summary>Anniversary</summary>
   <ul>
-    <li>2024.08.10　初 PLAY</li>
-    <li>2024.08.11　初 LOW TON</li>
-    <li>2024.10.04　初 HIGH TON</li>
-    <li>2024.11.09　初 HAT TRICK</li>
-    <li>2025.01.11　初 THREE IN THE BLACK</li>
-    <li>2025.01.18　初 HIGH OUT</li>
-    <li>2025.05.03　初 THREE IN THE BED</li>
+    <li>2024.8.10　初 PLAY</li>
+    <li>2024.8.11　初 LOW TON</li>
+    <li>2024.10.4　初 HIGH TON</li>
+    <li>2024.11.9　初 HAT TRICK</li>
+    <li>2025.1.11　初 THREE IN THE BLACK</li>
+    <li>2025.1.18　初 HIGH OUT</li>
+    <li>2025.5.3　初 THREE IN THE BED</li>
   </ul>
 </details>
 <br>
@@ -484,7 +510,7 @@ KH3　NieR:Automata
 -->
 
 ### 温泉むすめ　- Onsen Musume -
-**Started since　2021.06.05** <br>
+**Started since　2021.6.5** <br>
 - 🔗[ぽか活まとめ](https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing)
 
   
