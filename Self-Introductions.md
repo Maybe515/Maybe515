@@ -6,18 +6,8 @@
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
-- 🔗[Lit.Link](https://lit.link/Maybe515)
-- 🔗[GitHub](https://github.com/Maybe515)
+- 🔗[Lit.Link](https://lit.link/Maybe515)  
 <br>
-
-<!--
-### コテハン由来 🖋　- My handle name comes from -
-<p>※某エ○ゲブランド様、某漫画家様とは関係ございません。</p>
-
-'08年に発売された 🔗[**アキバ系飲料「めいびぃ！」**](https://gigazine.net/news/20080817_sukumizu_meibi/) から。<br>
-<p><img src="images/meibi.jpg" alt="meibi" height="150px"></p>
-<br>
--->
 
 ## 趣味 🎾　- Enjoying Play / Into it / Hobbies -
 |Categories|<div align="center">Contents</div>|
@@ -92,7 +82,7 @@
 </details>
 <br>
 
-### 音ゲー 🎹　- Rhythm Games -
+## 音ゲー 🎹　- Rhythm Games -
 #### - Arcade -
 **Started since　2007.9.??** <br>
 <caption>★：メインでプレイしているタイトル</caption>
@@ -146,4 +136,3 @@
 |**シクスターゲート**|キーボード|<div align="left"> **【Luna】** -<br>**【Solar】** -|**[Hi-Speed]** 500|
 |**MASH VP!**|キーボード|<div align="left"> **【2K】** Lv8：S<br>**【4K】**  Lv8：S|**[Hi-Speed]** 800|
 |**PLATiNA:LAB**|キーボード|<div align="left"> **【4K】** Lv26：S　Lv27：AA|**[Hi-Speed]** 4.8|
-<br>
