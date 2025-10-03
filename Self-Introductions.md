@@ -1,7 +1,4 @@
 <h1 align="center">🌟 𝑴𝒂𝒚𝒃𝒆𝟱𝟭𝟱'𝒔 𝑺𝒆𝒍𝒇-𝑰𝒏𝒕𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒔 🌟</h1>
-<b><p>
-  ※PCでの閲覧を推奨しています。
-</p></b>
 
 ### プロフィール 👤　- About Me -
 「めびさん」「めびちゃん」と呼ばれてたりします。  
@@ -9,36 +6,26 @@
 <br>
 
 ### 活動先リンク 🌐　- Connect with me -
-- 各リンクは 🔗[こちら (Lit.Link)](https://lit.link/Maybe515) にまとめてあります。
-- GitHubのプロフィールは 🔗[こちら](https://github.com/Maybe515)
+- 🔗[Lit.Link](https://lit.link/Maybe515)
+- 🔗[GitHub](https://github.com/Maybe515)
 <br>
 
-### その他 🔗　- Others -
-- Nostr ＆ Bluesky での活動履歴　🔗[Nostr & Bluesky History - GitHub](https://github.com/Maybe515/Nostr-and-Bluesky-History)
-- 自作アイコン　🔗[Skill Icons - GitHub](https://github.com/Maybe515/skill-icons)
-- 自作フィード（Bluesky）　🔗[bsky feed - GitHub](https://github.com/Maybe515/bsky-feed/blob/main/README.md)
-<br>
-
-<!-- **Nostr** にご興味がある方はこちらをお読みください。 🔗[Nostr日本語チュートリアルサイト](https://hello.nostrapp.me)
-<br>-->
-
+<!--
 ### コテハン由来 🖋　- My handle name comes from -
 <p>※某エ○ゲブランド様、某漫画家様とは関係ございません。</p>
 
 '08年に発売された 🔗[**アキバ系飲料「めいびぃ！」**](https://gigazine.net/news/20080817_sukumizu_meibi/) から。<br>
-空き瓶を探しています。未だに見つかってません。情報求厶…<br>
 <p><img src="images/meibi.jpg" alt="meibi" height="150px"></p>
 <br>
+-->
 
 ## 趣味 🎾　- Enjoying Play / Into it / Hobbies -
-<!-- 現在のブームだけに絞る。他は"経験済み"項目を追加して記入する。 -->
 |Categories|<div align="center">Contents</div>|
 :-:|:-
-|Indoor|ゲーム、お絵かき、音楽鑑賞、映画鑑賞、料理、ファッション、カラオケ
-|Outdoor|旅行、温泉、登山、トレッキング、キャンプ、カフェ巡り、神社・お寺巡り、写真撮影
-|Sports & Activities|スノボ、ダンス、ゴルフ、バスケ、サッカー、バレー、バドミントン、インディアカ、ヨガ、ダーツ|
+|Indoor|ゲーム、お絵かき、音楽鑑賞
+|Outdoor|旅行、温泉、カフェ巡り、神社・お寺巡り、写真撮影
+|Sports & Activities|スノボ、バレー、バドミントン、ダーツ|
 |Collections|古銭集め、御朱印・御船印・鉄印集め、ICカード集め、切符・硬券収集|
-|Mania|車、鉄道、ミリタリー（銃, 艦体）、競馬鑑賞、F1・ラリー鑑賞|
 <br>
 
 ## 好きなもの ⭐　- Like it -
@@ -47,160 +34,7 @@
 |Foods|オムライス、天津飯、パスタ、まぜそば、スイーツ全般|
 |Drinks|お茶、紅茶、コーヒー、お酒|
 |Animals|コーギー、ハシビロコウ|
-|Others|腕時計、植物|
 <br>
-
-## 推しているもの 💗　- FAV. -
-### 作品　- Anime / Comics / Novels -
-<!-- タイトルロゴを並べる。公式HPへ飛ばす。
-[<img src="images/logos/.png" alt="" height="70px">]()
-
-[<img src="images/logos/Angel_Beats!.png" alt="AB" height="70px">]()
-[<img src="images/logos/IDOL_M@STER.png" alt="im@s" height="70px">]()
-[<img src="images/logos/Infinite_Stratos.png" alt="IS" height="70px">](https://www.tbs.co.jp/anime/is/)
-[<img src="images/logos/Yamato.png" alt="yamato" height="70px">]()
-[<img src="images/logos/Uruseiyatsura.png" alt="uruseiyatsura" height="70px">]()
-[<img src="images/logos/Nadeshiko_Ani.png" alt="nadeshiko" height="70px">](https://king-cr.jp/special/nadeshiko/)
-[<img src="images/logos/Is_Order_a_Rabbit?.png" alt="gochiusa" height="70px">](https://gochiusa.com/)
-[<img src="images/logos/City_Hunter.png" alt="cityhunter" height="70px">]()
-[<img src="images/logos/Freiren_Ani.png" alt="freiren" height="70px">](https://frieren-anime.jp/)
-[<img src="images/logos/Sailor_Moon.png" alt="sailormoon" height="70px">]()
-[<img src="images/logos/Madoka_Magica.png" alt="madomagi" height="70px">](https://www.madoka-magica.com/tv/)
-[<img src="images/logos/Shugogetten.png" alt="shugogetten" height="70px">]()
-[<img src="images/logos/Yatogame-chan.png" alt="yatogame-chan" height="70px">]()
-[<img src="images/logos/Lucky_Star.png" alt="luckystar" height="70px">](http://www.lucky-ch.com/)
-[<img src="images/logos/Love_Live!.png" alt="lovelive" height="70px">](https://www.lovelive-anime.jp/)
--->
-
-<details>
-  <summary>好きな作品</summary>
-  <ul>
-    <li>AngelBeats!</li>
-    <li>アイマス(765)</li>
-    <li>インフィニットストラトス</li>
-    <li>宇宙戦艦ヤマト</li>
-    <li>うる星やつら</li>
-    <li>機動戦艦ナデシコ</li>
-    <li>境界の彼方</li>
-    <li>ごちうさ</li>
-    <li>シティーハンター</li>
-    <li>葬送のフリーレン</li>
-    <li>美少女戦士セーラームーン</li>
-    <li>まどマギ</li>
-    <li>まもって守護月天!</li>
-    <li>八十亀ちゃん</li>
-    <li>らき☆すた</li>
-    <li>初期ラ！</li>
-  </ul>
-</details>
-<br>
-
-### キャラクター　- My wife -
-**- Anime / Manga -** <br>
-[<img src="images/icons/anchovy.png" alt="anchovy" height="70px">](https://girls-und-panzer.jp/chara/anchovy/)
-[<img src="images/icons/argo.png" alt="argo" height="70px">](https://sao-p.net/intro-character/character/#argo)
-[<img src="images/icons/chino.png" alt="chino" height="70px">](https://gochiusa.com/chara/chino.html)
-[<img src="images/icons/freiren.png" alt="freiren" height="70px">](https://frieren-anime.jp/character/chara_group1/1-1/)
-[<img src="images/icons/konata.png" alt="konata" height="70px">](http://www.lucky-ch.com/luckypedia/index.html#chara)
-[<img src="images/icons/kyoko.png" alt="kyoko" height="70px">](https://www.madoka-magica.com/tv/character/)
-[<img src="images/icons/laura.png" alt="laura" height="70px">](https://www.tbs.co.jp/anime/is/chara/chara06.html)
-[<img src="images/icons/maki.png" alt="maki" height="70px">](https://www.lovelive-anime.jp/otonokizaka/member/member06.html)
-[<img src="images/icons/ruriruri.png" alt="ruriruri" height="70px">](https://king-cr.jp/special/nadeshiko/)
-[<img src="images/icons/yami.png" alt="yami" height="70px">](https://www.tbs.co.jp/anime/to-love-ru/04chara/chara.html#chara18)
-
-<!--
-キャラアイコンを自作して並べる。キャラ紹介ページへ飛ばす。
-[<img src="images/icons/.png" alt="" height="70px">]()
-  
-**- Game -** <br> 
-[<img src="images/icons/mutsumi.png" alt="mutsumi" height="70px">]()
-[<img src="images/icons/yukiho.png" alt="yukiho" height="70px">]()
-[<img src="images/icons/cafe.png" alt="cafe" height="70px">]()
-[<img src="images/icons/flandre.png" alt="flandre" height="70px">]()
-[<img src="images/icons/remilia.png" alt="remilia" height="70px">]()
-[<img src="images/icons/tachyon.png" alt="tachyon" height="70px">]()
-[<img src="images/icons/taishin.png" alt="taishin" height="70px">]()
-[<img src="images/icons/hibiki.png" alt="hibiki" height="70px">]()
-[<img src="images/icons/zuiho.png" alt="zuiho" height="70px">]()
-[<img src="images/icons/zuikaku.png" alt="zuikaku" height="70px">]()
-[<img src="images/icons/kuro.png" alt="kuro" height="70px">]()
-[<img src="images/icons/chall.png" alt="chall" height="70px">]()
-[<img src="images/icons/fuyuko.png" alt="fuyuko" height="70px">]()
-[<img src="images/icons/madoka.png" alt="madoka" height="70px">]()
-[<img src="images/icons/murasame.png" alt="murasame" height="70px">]()
-[<img src="images/icons/monica.png" alt="monica" height="70px">]()
-[<img src="images/icons/flandre.png" alt="flandre" height="70px">]()
-[<img src="images/icons/remilia.png" alt="remilia" height="70px">]()
-[<img src="images/icons/anko.png" alt="anko" height="70px">]()
-[<img src="images/icons/neneka.png" alt="neneka" height="70px">]()
-[<img src="images/icons/saren.png" alt="saren" height="70px">]()
-[<img src="images/icons/hina.png" alt="hina" height="70px">]()
-[<img src="images/icons/iori.png" alt="iori" height="70px">]()
-[<img src="images/icons/neru.png" alt="neru" height="70px">]()
-[<img src="images/icons/ui.png" alt="ui" height="70px">]()
-[<img src="images/icons/kirara.png" alt="kirara" height="70px">]()
-[<img src="images/icons/nanaka.png" alt="nanaka" height="70px">]()
-[<img src="images/icons/yuzu.png" alt="yuzu" height="70px">]()
--->
-
-<details>
-  <summary>ゲーム</summary>
-  <ul>
-    <li>【765プロ】ゆきぽ</li>
-    <li>【GF(仮)】むつみん</li>
-    <li>【東方】おぜうさま、妹様</li>
-    <li>【艦これ】響、瑞鳳、瑞鶴</li>
-    <li>【プリコネ】サレン、ネネカ</li>
-    <li>【バトガ】あんこ</li>
-    <li>【シャニマス】冬優子</li>
-    <li>【ウマ娘】タキオン、カフェ、ダスカ、タイシン</li>
-    <li>【ブルアカ】ネル、ヒナ、ウイ</li>
-    <li>【千恋＊万花】ムラサメちゃん</li>
-    <li>【ダーククロニクル】モニカ</li>
-    <li>【サルゲッチュ】チャル</li>
-    <li>【ブルリフ】きらら、なーな、ユズ</li>
-    <li>【ゼンゼロ】クレタ、ルーシー、青衣</li>
-  </ul>
-</details>
-<br>
-
-### 絵描きさん　- Illustrators -
-|❤|Name|Since|FANBOX|
-:-:|:-:|:-:|:-:
-||**白もち桜** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="shiromoti_sakura" height="15">](https://twitter.com/sakura_siromoti)|2015年|-|
-||**あづみ一樹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="adumi_kazuki" height="15">](https://twitter.com/kazukiadumi)|2016年|2021.1.8|
-|❤|**天川さっこ** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="sakko" height="15">](https://twitter.com/amakawasakko)|2017年|2019.6.26|
-|❤|**茉宮祈芹** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="kiseri" height="15">](https://twitter.com/kiseri0502)|2018年|2020.10.3|
-||**ひづき夜宵** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="hiduki_yayoi" height="15">](https://twitter.com/hiduki_yayoi)|2019年|-|
-||**muku** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="muku" height="15">](https://twitter.com/muku_apupop)|2019年|-|
-||**おもちもなか** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/Twitter.png" alt="monaka" height="15">](https://twitter.com/monaka_0326_)|2021年|-|
-<br>
-
-### 声優さん　- Voice Actors -
-|Name|Since|FANCLUB|
-:-:|:-:|:-:
-|**田口宏子**|2006年|-|
-|**野中藍**|2006年|-|
-|**川上とも子**|2006年|-|
-|**堀江由衣**|2013年|**【黒ネコ同盟】** 2020.6.26 (No.14880)|
-<br>
-
-### 歌手・グループ　- Singers & Groups -
-|Name|Since|FANCLUB|
-:-:|:-:|:-:
-|**ave;new**|2008年|-|
-|**ガゼル（やなぎなぎ）**|2008年|-|
-|**Queen**|2014年|-|
-|**三代目 J Soul Brothers<br>from EXILE TRIBE**|2015年|**【EX Family】** 2017.7.14 (No.1114564)<br> **【mate】** 2022.11.2 (No.JSB0023720)|
-<br>
-
-### 配信者さん　- Live Streamers -
-|Name|Since|Member ship|
-:-:|:-:|:-:
-|**兄者弟者** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="norunine" height="15">](https://www.youtube.com/@norunine)|2010年|-|
-|**DOLCE.** [<img src="https://github.com/Maybe515/skill-icons/blob/main/Icons/YouTube.png" alt="dolce" height="15">](https://www.youtube.com/@dolce_iwate)|2019年|-|
-<br>
-
 
 ## 創作活動 ✍　- Creations -
 イラスト　消しゴムはんこ　切り絵　アクセサリー作り<br>
@@ -258,71 +92,6 @@
 </details>
 <br>
 
-## ゲーム 🎮　- Games -
-### アーケードゲーム 🎮　- Arcade Games -
-（編集中）
-<br>
-
-### 家庭用ゲーム 📺　- CS Games -
-<!-- 好きな作品だけ記載して、プレイ済み等はスプレッドシートにまとめる -->
-<details>
-  <summary>好きなタイトル・やりこんだタイトル</summary>
-  <ul>
-    <li>スーパーメトロイド（SFC）</li>
-    <li>ゼルダの伝説 神トラ（SFC）</li>
-    <li>サルゲッチュ（PS）</li>
-    <li>moon（PS）</li>
-    <li>アークザラッドⅡ（PS）</li>
-    <li>ジャック×ダクスター 旧世界の遺産（PS2）</li>
-    <li>ダーククロニクル（PS2）</li>
-    <li>KH1（PS2）</li>
-    <li>KH2（PS2）</li>
-    <li>MGS3（PS2）</li>
-    <li>MHP2ndG（PSP）</li>
-    <li>MGS PW（PSP）</li>
-    <li>ポケモンDP（NDS）</li>
-    <li>街森（Wii）</li>
-    <li>MH3（Wii）</li>
-    <li>とび森（3DS）</li>
-  </ul>
-</details>
-
-<!--
-- FC -
-海腹川背　忍者龍剣伝　メトロイド
-
-- SFC -
-神トラ　スーパーメトロイド　セプテントリオン　かまいたちの夜　ときメモ　トワイライトシンドローム　風来のシレン　プリペル　マリオワールド
-
-- PS -
-I.Q　MGS　moon　クロノトリガー　サルゲッチュ　ポポロクロイス物語　ロックマンDASH1,2
-
-- N64 -
-時オカ　マリオ64　ムジュラ
-
-- PS2 -
-Jak1,2　KH1,2　MGS2,3　ToS　サルゲッチュ2,3　ダーククラウド　ダーククロニクル　ピポサル2001　
-
-- GC -
-風タク　トワプリ　マリオサンシャイン
-
-- PSP -
-MGSPW　MHP2G,3rd
-
-- NDS -
-おい森　ポケモンDP
-
-- Wii -
-MH3　街森　マリオギャラクシー1,2
-
-- 3DS -
-とび森
-
-- PS4 -
-KH3　NieR:Automata
--->
-<br>
-  
 ### アプリゲー 📱　- App Games -
 <caption>★：メインでプレイしているタイトル</caption>
 
@@ -505,11 +274,6 @@ KH3　NieR:Automata
 <br><br>
 
 ## 温泉 ♨　- Hot Spring -
-<!--
-- 🔗[今までに訪れた温泉郷](https://docs.google.com/spreadsheets/d/1HOwSPnFU1QsNKauJLwPIBWJkH0LweD06ugUI83Swp6Q/edit#gid=2084208021)
-<br><br>
--->
-
 ### 温泉むすめ　- Onsen Musume -
 **Started since　2021.6.5** <br>
 - 🔗[ぽか活まとめ](https://docs.google.com/spreadsheets/d/1c5t1TK_eI5YYEG4iGHZ9_nLYOHqmqSnArYPG8Ljjqes/edit?usp=sharing)
