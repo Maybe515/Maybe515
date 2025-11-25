@@ -73,12 +73,15 @@
   <ul>
     <li>ファンアート（アナログ絵）を描く</li>
   </ul>
-  <!--
   2024年
   <ul>
-    <li>🔗<a href="https://maybe515.fanbox.cc/">FANBOX</a> 🔗<a href="https://fantia.jp/Maybe515">Fantia</a> 🔗<a href="https://skeb.jp/@Maybe515">Skeb</a> 🔗<a href="https://maybe515.booth.pm/">BOOTH</a> を開設</li>
+    <li>🔗<a href="https://maybe515.fanbox.cc/">FANBOX</a> 🔗<a href="https://skeb.jp/@Maybe515">Skeb</a> をひとまず開設</li>
   </ul>
-  -->
+  2025年
+  <ul>
+    <li>Nostrasia2025 のスライドを描く</li>
+  </ul>
+  
 </details>
 <br>
 
