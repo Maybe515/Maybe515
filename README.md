@@ -15,8 +15,8 @@
 <br>
 
 ## My GitHub Status 🏆
+### - Top Langs & Stats -
 <p>
-    <b>- Top Langs & Stats -</b><br>
     <!-- Top Languages Card -->
     <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maybe515&layout=compact&show_icons=true&theme=onedark" />
     <!-- GitHub Stats Card -->
@@ -24,18 +24,17 @@
 </p>
 
 <!-- GitHub Profile Trophy -->
-**- Trophies -** <br>
+### - Trophies -
 [![trophy](https://github-profile-trophy.vercel.app/?username=Maybe515&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ![](https://raw.githubusercontent.com/Maybe515/Maybe515/master/profile-summary-card-output/solarized/0-profile-details.svg)
 
 <!-- GitHub Readme Streak Stats -->
-**- Streak Stats -** <br>
+### - Streak Stats -
 <img alt="github streak" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Maybe515&theme=onedark" />
 <br><br>
 
 ## My Skills 🔧
-**- Languages and Tools -** <br>
-
+### - Languages and Tools -
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="C" height="50">](https://www.cprogramming.com/)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" alt="C++" height="50">](https://www.cplusplus.com/)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="C#" height="50">](https://dotnet.microsoft.com/ja-jp/languages/csharp)
@@ -63,15 +62,13 @@
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" height="50">](https://github.com/)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" height="50">](https://discord.com)
  [<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DiscordBots.svg" alt="DiscordBots" height="50">](https://discord.com)
- 
-
 <!--
   [<img src=".svg" alt="" height="50">]()
  -->
 </div>
 <br>
 
-**- Others -**
+### - Others -
 <details>
   <summary>License (Japan)</summary>
   <ul>
